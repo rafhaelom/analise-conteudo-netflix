@@ -1,0 +1,43 @@
+type;genero;qtd
+Movie;International Movies;2752
+Movie;Dramas;2427
+Movie;Comedies;1674
+Movie;Documentaries;869
+Movie;Action & Adventure;859
+Movie;Independent Movies;756
+Movie;Children & Family Movies;641
+Movie;Romantic Movies;616
+Movie;Thrillers;577
+Movie;Music & Musicals;375
+Movie;Horror Movies;357
+Movie;Stand-Up Comedy;343
+Movie;Sci-Fi & Fantasy;243
+Movie;Sports Movies;219
+Movie;Classic Movies;116
+Movie;LGBTQ Movies;102
+Movie;Cult Movies;71
+Movie;Anime Features;71
+Movie;Faith & Spirituality;65
+Movie;Movies;57
+TV Show;International TV Shows;1351
+TV Show;TV Dramas;763
+TV Show;TV Comedies;581
+TV Show;Crime TV Shows;470
+TV Show;Kids' TV;451
+TV Show;Docuseries;395
+TV Show;Romantic TV Shows;370
+TV Show;Reality TV;255
+TV Show;British TV Shows;253
+TV Show;Anime Series;176
+TV Show;Spanish-Language TV Shows;174
+TV Show;TV Action & Adventure;168
+TV Show;Korean TV Shows;151
+TV Show;TV Mysteries;98
+TV Show;Science & Nature TV;92
+TV Show;TV Sci-Fi & Fantasy;84
+TV Show;TV Horror;75
+TV Show;Teen TV Shows;69
+TV Show;TV Thrillers;57
+TV Show;Stand-Up Comedy & Talk Shows;56
+TV Show;Classic & Cult TV;28
+TV Show;TV Shows;16
