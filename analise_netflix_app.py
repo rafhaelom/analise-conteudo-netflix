@@ -5,8 +5,11 @@ import pandas as pd
 
 import modulos.leitura_dados as leitura_dados
 import modulos.filtro_dados as filtro_dados
+import modulos.graficos_dados as graficos_dados
 
 df = leitura_dados.ler_dados(path_dados="./dados/tb_netflix.txt", sep=";")
+df_qtd_ano_mes_added = leitura_dados.ler_dados(path_dados="./dados/tb_netflix_ano_mes_add.txt", sep=";")
+df_qtd_diretor = leitura_dados.ler_dados(path_dados="./dados/tb_netflix_diretor.txt", sep=";")
 
 ##### Sidbar menu #####
 st.sidebar.markdown("""<h1 align='center'>Análise Netflix<h1 align='justify'>""", unsafe_allow_html=True)
@@ -22,27 +25,11 @@ Como premissa para as análises e organização do projeto, é utilizada a metod
 
 st.markdown("""<h2 align='center'>Estatísticas Gerais<h2 align='justify'>""", unsafe_allow_html=True)
 
-tipos = st.radio("Escolha o tipo:", ('All', 'Filmes', 'Séries'))
+# tipos = st.radio("Escolha o tipo:", ('All', 'Filmes', 'Séries'))
 
-if tipos == 'Filmes':
-    st.write("Filmes")
-    df_base = filtro_dados.filtrar_dados(df, 'type', 'Movie')
-    total, filmes, series, perc_total, perc_filmes, perc_series = filtro_dados.calcular_estatisticas(df_base, 'Filmes')
-elif tipos == 'Séries':
-    st.write("Séries")
-    df_base = filtro_dados.filtrar_dados(df, 'type', 'TV Show')
-    total, filmes, series, perc_total, perc_filmes, perc_series = filtro_dados.calcular_estatisticas(df_base, 'Séries')
-else:
-    st.write("All")
-    df_base = df
-    # total, filmes, series, perc_total, perc_filmes, perc_series = filtro_dados.calcular_estatisticas(df_base, None)
-    total = sum(df_base.type.value_counts().values)
-    filmes = df_base.type.value_counts().values[0]
-    series = df_base.type.value_counts().values[1]
-    perc_total = (total/total)*100
-    perc_filmes = (filmes/total)*100
-    perc_series = (series/total)*100
-
+# st.write("All")
+df_base = df
+total, filmes, series, perc_total, perc_filmes, perc_series = filtro_dados.calcular_estatisticas(df_base)
 
 with st.container():
     col1, col2, col3 = st.columns(3)
@@ -56,5 +43,20 @@ with st.container():
     with col3:
         st.metric(label="Qtd séries", value=series, delta=f"{perc_series:1.2f}%")
 
-# with st.container():
-#     st.markdown("""<h3 align='justify'>Qtd<h3 align='justify'>""", unsafe_allow_html=True)
+
+with st.container():
+    st.markdown("""<h3 align='justify'>Proporção por mês adicionado na Netflix e tipo<h3 align='justify'>""", unsafe_allow_html=True)
+    graficos_dados.grafico_linha(df=df_qtd_ano_mes_added, x='nome_mes_extracao', y='qtd', legenda='type', titulo="Proporção por mês adicionado na Netflix e tipo", paleta_cores="mako")
+
+with st.container():
+    st.markdown("""<h3 align='justify'>Top 10 diretores por tipo<h3 align='justify'>""", unsafe_allow_html=True)
+    col1, col2 = st.columns(2)
+
+    with col1:
+        graficos_dados.grafico_barras(df=df_qtd_diretor.loc[df_qtd_diretor.type == "Movie"][:10], x="qtd", y="diretor", legenda=None, titulo="Top 10 diretores", paleta_cores="mako")
+
+    with col2:
+        graficos_dados.grafico_barras(df=df_qtd_diretor.loc[df_qtd_diretor.type != "Movie"][:10], x="qtd", y="diretor", legenda=None, titulo="Top 10 diretores", paleta_cores="mako")
+
+    
+    
