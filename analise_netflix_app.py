@@ -8,14 +8,8 @@ import seaborn as sns
 
 from wordcloud import WordCloud
 
-# import modulos.leitura_dados as leitura_dados
-# import modulos.filtro_dados as filtro_dados
-# import modulos.graficos_dados as graficos_dados
-
 ############################## DADOS ##############################
 df = pd.read_csv("./dados/tb_netflix.txt", sep=";")
-# df_qtd_ano_mes_added = leitura_dados.ler_dados(path_dados="./dados/tb_netflix_ano_mes_add.txt", sep=";")
-# df_qtd_diretor = leitura_dados.ler_dados(path_dados="./dados/tb_netflix_diretor.txt", sep=";")
 
 ############################## AJUSTES NOS DADOS ##############################
 ##### Segmentação entre filmes e séries #####
@@ -122,6 +116,11 @@ prep_description = str(list(df['description'])).replace(',', '').replace('[', ''
 st.sidebar.title("Análise Netflix 🎬")
 st.sidebar.write("Os dados estão disponíveis [Kaggle]('https://www.kaggle.com/datasets/shivamb/netflix-shows'), e demonstra uma listagem de filmes e séries na Netflix.")
 st.sidebar.write("---")
+cor_graficos = st.sidebar.selectbox("Escolha uma cor:", ["mako", "tab10", "husl", "rocket", "viridis"])
+st.sidebar.write("---")
+st.sidebar.write("[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)](https://github.com/rafhaelom)")
+st.sidebar.write("[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafhael-martins-3bab63138)")
+
 ##### Página app #####
 st.title("Visualização de Dados de filmes e séries da Netflix 📺")
 st.write("""A [Netflix]('https://www.netflix.com/br/') é uma plataforma de serviço online de streaming norte-americano de mídia e vídeos sob demanda por assinatura (Over The Top - OTT) lançada em 2010 e disponível em mais de 190 países [Wikipedia]('https://pt.wikipedia.org/wiki/Netflix#cite_note-12').
@@ -166,7 +165,7 @@ with st.container():
 
     ##### Proporção por tipo #####
     fig = plt.figure(figsize=(8,3))
-    ax = sns.countplot(data=df_base, x=None, y='type', order=df['type'].value_counts(ascending=False).index, palette="mako")
+    ax = sns.countplot(data=df_base, x=None, y='type', order=df['type'].value_counts(ascending=False).index, palette=cor_graficos)
 
     type_values = df_base['type'].value_counts(ascending=False).values
     # type_perc_values = df_base['type'].value_counts(ascending=False, normalize=True).values * 100
@@ -190,7 +189,7 @@ with st.container():
     df_qtd_class_ind2 = df_qtd_class_ind[["type", "rating_profile", "qtd"]].sort_values(by=['type', 'qtd'], ascending=False, ignore_index=True)
     
     fig = plt.figure(figsize=(12,4))
-    sns.barplot(data=df_qtd_class_ind2, x="rating_profile", y="qtd", hue='type', palette="mako")
+    sns.barplot(data=df_qtd_class_ind2, x="rating_profile", y="qtd", hue='type', palette=cor_graficos)
     st.pyplot(fig)
     plt.clf()
 
@@ -205,7 +204,7 @@ with st.container():
     df_qtd_ano_mes_release_year.rename(columns={'show_id':'qtd'}, inplace=True)
 
     fig = plt.figure(figsize=(12,6))
-    sns.lineplot(data=df_qtd_ano_mes_release_year, x='release_year', y='qtd', hue='type', palette="mako")
+    sns.lineplot(data=df_qtd_ano_mes_release_year, x='release_year', y='qtd', hue='type', palette=cor_graficos)
     plt.xlabel(None)
     plt.ylabel(None)
     st.pyplot(fig)
@@ -231,7 +230,7 @@ with st.container():
 
     st.markdown("### Filmes")
     fig, ax = plt.subplots(figsize=(9, 6))
-    sns.heatmap(df_qtd_ano_mes_added_filmes, annot=True, fmt="d", linewidths=.5, ax=ax, cmap='mako')
+    sns.heatmap(df_qtd_ano_mes_added_filmes, annot=True, fmt="d", linewidths=.5, ax=ax, cmap="mako")
     plt.xlabel(None)
     plt.ylabel(None)
     st.pyplot(fig)
@@ -239,7 +238,7 @@ with st.container():
 
     st.markdown("### Séries")
     fig, ax = plt.subplots(figsize=(9, 6))
-    sns.heatmap(df_qtd_ano_mes_added_series, annot=True, fmt="d", linewidths=.5, ax=ax, cmap='mako')
+    sns.heatmap(df_qtd_ano_mes_added_series, annot=True, fmt="d", linewidths=.5, ax=ax, cmap="mako")
     plt.xlabel(None)
     plt.ylabel(None)
     st.pyplot(fig)
@@ -276,39 +275,39 @@ with st.container():
 
 with st.container():
     st.subheader("Top 10 diretores")
+    with st.spinner('Carregando...'):
 
-    # Quantitativo de diretores (director).
-    # Filmes
-    filmes_qtd_diretor = df_filmes['director'].str.get_dummies(', ').sum()
-    df_filmes_qtd_diretor = pd.DataFrame({'diretor':filmes_qtd_diretor.index, 'qtd':filmes_qtd_diretor.values}).sort_values(by="qtd", ascending=False, ignore_index=True)
-    df_filmes_qtd_diretor.insert(0, "type", "Movie")
+        # Quantitativo de diretores (director).
+        # Filmes
+        filmes_qtd_diretor = df_filmes['director'].str.get_dummies(', ').sum()
+        df_filmes_qtd_diretor = pd.DataFrame({'diretor':filmes_qtd_diretor.index, 'qtd':filmes_qtd_diretor.values}).sort_values(by="qtd", ascending=False, ignore_index=True)
+        df_filmes_qtd_diretor.insert(0, "type", "Movie")
 
-    # Séries
-    series_qtd_diretor = df_series['director'].str.get_dummies(', ').sum()
-    df_series_qtd_diretor = pd.DataFrame({'diretor':series_qtd_diretor.index, 'qtd':series_qtd_diretor.values}).sort_values(by="qtd", ascending=False, ignore_index=True)
-    df_series_qtd_diretor.insert(0, "type", "TV Show")
+        # Séries
+        series_qtd_diretor = df_series['director'].str.get_dummies(', ').sum()
+        df_series_qtd_diretor = pd.DataFrame({'diretor':series_qtd_diretor.index, 'qtd':series_qtd_diretor.values}).sort_values(by="qtd", ascending=False, ignore_index=True)
+        df_series_qtd_diretor.insert(0, "type", "TV Show")
 
-    df_qtd_diretor = pd.concat([df_filmes_qtd_diretor, df_series_qtd_diretor], ignore_index=True)
+        df_qtd_diretor = pd.concat([df_filmes_qtd_diretor, df_series_qtd_diretor], ignore_index=True)
 
-    tab1, tab2 = st.tabs(["Filmes", "Séries"])
-    
-    with tab1:
-        st.markdown("### Filmes")
-        fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_diretor.loc[df_qtd_diretor.type == "Movie"][:10], x="qtd", y="diretor", palette="mako", ax=ax)
-        st.pyplot(fig)
-        plt.clf()
+        tab1, tab2 = st.tabs(["Filmes", "Séries"])
+        
+        with tab1:
+            st.markdown("### Filmes")
+            fig, ax = plt.subplots(figsize=(8,10))
+            sns.barplot(data=df_qtd_diretor.loc[df_qtd_diretor.type == "Movie"][:10], x="qtd", y="diretor", palette=cor_graficos, ax=ax)
+            st.pyplot(fig)
+            plt.clf()
 
-    with tab2:
-        st.markdown("### Séries")
-        fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_diretor.loc[df_qtd_diretor.type != "Movie"][:10], x="qtd", y="diretor", palette="mako", ax=ax)
-        st.pyplot(fig)
-        plt.clf()
+        with tab2:
+            st.markdown("### Séries")
+            fig, ax = plt.subplots(figsize=(8,10))
+            sns.barplot(data=df_qtd_diretor.loc[df_qtd_diretor.type != "Movie"][:10], x="qtd", y="diretor", palette=cor_graficos, ax=ax)
+            st.pyplot(fig)
+            plt.clf()
 
     st.write("---")
-
-
+    
 
 with st.container():
     st.subheader("Top 10 atores")
@@ -338,14 +337,14 @@ with st.container():
     with tab1:
         st.markdown("### Filmes")
         fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_genero.loc[df_qtd_genero.type == "Movie"][:10], x="qtd", y="genero", palette="mako", ax=ax)
+        sns.barplot(data=df_qtd_genero.loc[df_qtd_genero.type == "Movie"][:10], x="qtd", y="genero", palette=cor_graficos, ax=ax)
         st.pyplot(fig)
         plt.clf()
 
     with tab2:
         st.markdown("### Séries")
         fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_genero.loc[df_qtd_genero.type != "Movie"][:10], x="qtd", y="genero", palette="mako", ax=ax)
+        sns.barplot(data=df_qtd_genero.loc[df_qtd_genero.type != "Movie"][:10], x="qtd", y="genero", palette=cor_graficos, ax=ax)
         st.pyplot(fig)
         plt.clf()
 
@@ -373,14 +372,14 @@ with st.container():
     with tab1:
         st.markdown("### Filmes")
         fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_pais.loc[df_qtd_pais.type == "Movie"][:10], x="qtd", y="country", palette="mako", ax=ax)
+        sns.barplot(data=df_qtd_pais.loc[df_qtd_pais.type == "Movie"][:10], x="qtd", y="country", palette=cor_graficos, ax=ax)
         st.pyplot(fig)
         plt.clf()
 
     with tab2:
         st.markdown("### Séries")
         fig, ax = plt.subplots(figsize=(8,10))
-        sns.barplot(data=df_qtd_pais.loc[df_qtd_pais.type != "Movie"][:10], x="qtd", y="country", palette="mako", ax=ax)
+        sns.barplot(data=df_qtd_pais.loc[df_qtd_pais.type != "Movie"][:10], x="qtd", y="country", palette=cor_graficos, ax=ax)
         st.pyplot(fig)
         plt.clf()
 
