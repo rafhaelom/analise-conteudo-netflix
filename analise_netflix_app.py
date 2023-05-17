@@ -47,7 +47,6 @@ with st.container():
 with st.container():
     st.markdown("""<h3 align='justify'>Proporção por mês adicionado na Netflix e tipo<h3 align='justify'>""", unsafe_allow_html=True)
     graficos_dados.grafico_linha(df=df_qtd_ano_mes_added, x='nome_mes_extracao', y='qtd', legenda='type', titulo="Proporção por mês adicionado na Netflix e tipo", paleta_cores="mako")
-
 with st.container():
     st.markdown("""<h3 align='justify'>Top 10 diretores por tipo<h3 align='justify'>""", unsafe_allow_html=True)
     col1, col2 = st.columns(2)
