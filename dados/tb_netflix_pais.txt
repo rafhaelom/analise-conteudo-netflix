@@ -1,0 +1,189 @@
+type;country;qtd
+Movie;United States;2751
+Movie;India;962
+Movie;United Kingdom;532
+Movie;N/A;440
+Movie;Canada;319
+Movie;France;303
+Movie;Germany;182
+Movie;Spain;171
+Movie;Japan;119
+Movie;China;114
+Movie;Mexico;111
+Movie;Egypt;102
+Movie;Hong Kong;100
+Movie;Nigeria;94
+Movie;Australia;94
+Movie;Indonesia;86
+Movie;Turkey;83
+Movie;Philippines;80
+Movie;Belgium;78
+Movie;Italy;75
+Movie;Argentina;71
+Movie;Brazil;66
+Movie;South Korea;61
+Movie;South Africa;51
+Movie;Thailand;46
+Movie;Netherlands;42
+Movie;United Arab Emirates;36
+Movie;Denmark;34
+Movie;Ireland;32
+Movie;Poland;31
+Movie;Sweden;31
+Movie;New Zealand;25
+Movie;Chile;24
+Movie;Lebanon;24
+Movie;Norway;21
+Movie;Pakistan;20
+Movie;Colombia;20
+Movie;Israel;19
+Movie;Taiwan;19
+Movie;Singapore;18
+Movie;Malaysia;18
+Movie;Switzerland;18
+Movie;Czech Republic;16
+Movie;Romania;14
+Movie;Uruguay;13
+Movie;Austria;11
+Movie;Russia;11
+Movie;Hungary;10
+Movie;Peru;10
+Movie;Bulgaria;10
+Movie;Luxembourg;10
+Movie;Qatar;10
+Movie;Greece;9
+Movie;Saudi Arabia;9
+Movie;Iceland;8
+Movie;Vietnam;7
+Movie;Finland;7
+Movie;Serbia;7
+Movie;Jordan;7
+Movie;Kenya;6
+Movie;Portugal;6
+Movie;Morocco;6
+Movie;Kuwait;5
+Movie;Cambodia;5
+Movie;Ghana;5
+Movie;Bangladesh;4
+Movie;Venezuela;4
+Movie;Iran;4
+Movie;Soviet Union;3
+Movie;Slovenia;3
+Movie;West Germany;3
+Movie;Zimbabwe;3
+Movie;Algeria;3
+Movie;Croatia;3
+Movie;Nepal;2
+Movie;Senegal;2
+Movie;United Kingdom,;2
+Movie;Cayman Islands;2
+Movie;Syria;2
+Movie;Namibia;2
+Movie;Guatemala;2
+Movie;Iraq;2
+Movie;Georgia;2
+Movie;Malta;2
+Movie;Albania;1
+Movie;Botswana;1
+Movie;Mongolia;1
+Movie;Montenegro;1
+Movie;Cameroon;1
+Movie;Cambodia,;1
+Movie;Uganda;1
+Movie;Ukraine;1
+Movie;Burkina Faso;1
+Movie;Mozambique;1
+Movie;Dominican Republic;1
+Movie;Bermuda;1
+Movie;United States,;1
+Movie;Bahamas;1
+Movie;Vatican City;1
+Movie;Armenia;1
+Movie;Angola;1
+Movie;Nicaragua;1
+Movie;Palestine;1
+Movie;Sudan;1
+Movie;Poland,;1
+Movie;Sri Lanka;1
+Movie;Malawi;1
+Movie;Lithuania;1
+Movie;Liechtenstein;1
+Movie;Latvia;1
+Movie;Samoa;1
+Movie;Kazakhstan;1
+Movie;Jamaica;1
+Movie;Mauritius;1
+Movie;Slovakia;1
+Movie;Paraguay;1
+Movie;Somalia;1
+Movie;Panama;1
+Movie;Ethiopia;1
+Movie;Ecuador;1
+Movie;East Germany;1
+Movie;Afghanistan;1
+TV Show;United States;938
+TV Show;N/A;391
+TV Show;United Kingdom;272
+TV Show;Japan;199
+TV Show;South Korea;170
+TV Show;Canada;126
+TV Show;France;90
+TV Show;India;84
+TV Show;Taiwan;70
+TV Show;Australia;66
+TV Show;Spain;61
+TV Show;Mexico;58
+TV Show;China;48
+TV Show;Germany;44
+TV Show;Colombia;32
+TV Show;Brazil;31
+TV Show;Turkey;30
+TV Show;Italy;25
+TV Show;Thailand;24
+TV Show;Singapore;23
+TV Show;Argentina;20
+TV Show;Russia;16
+TV Show;Egypt;15
+TV Show;Denmark;14
+TV Show;Ireland;14
+TV Show;Belgium;12
+TV Show;South Africa;11
+TV Show;Sweden;11
+TV Show;Israel;11
+TV Show;Norway;9
+TV Show;Nigeria;9
+TV Show;Poland;9
+TV Show;New Zealand;8
+TV Show;Malaysia;8
+TV Show;Netherlands;8
+TV Show;Lebanon;7
+TV Show;Czech Republic;6
+TV Show;Hong Kong;5
+TV Show;Chile;5
+TV Show;Pakistan;4
+TV Show;Saudi Arabia;4
+TV Show;Indonesia;4
+TV Show;Finland;4
+TV Show;Kuwait;3
+TV Show;Philippines;3
+TV Show;Iceland;3
+TV Show;Ukraine;2
+TV Show;Luxembourg;2
+TV Show;West Germany;2
+TV Show;Jordan;2
+TV Show;Greece;2
+TV Show;Cuba;1
+TV Show;Uruguay;1
+TV Show;Austria;1
+TV Show;Azerbaijan;1
+TV Show;United Arab Emirates;1
+TV Show;Belarus;1
+TV Show;Croatia;1
+TV Show;Puerto Rico;1
+TV Show;Senegal;1
+TV Show;Syria;1
+TV Show;Switzerland;1
+TV Show;Hungary;1
+TV Show;Malta;1
+TV Show;Mauritius;1
+TV Show;Cyprus;1

@@ -1,0 +1,5079 @@
+type;diretor;qtd
+Movie;N/A;188
+Movie;Rajiv Chilaka;22
+Movie;Jan Suter;21
+Movie;Raúl Campos;19
+Movie;Suhas Kadav;16
+Movie;Marcus Raboy;15
+Movie;Jay Karas;15
+Movie;Cathy Garcia-Molina;13
+Movie;Martin Scorsese;12
+Movie;Jay Chapman;12
+Movie;Youssef Chahine;12
+Movie;Steven Spielberg;11
+Movie;Don Michael Paul;10
+Movie;Yılmaz Erdoğan;9
+Movie;Shannon Hartman;9
+Movie;David Dhawan;9
+Movie;Fernando Ayllón;8
+Movie;Johnnie To;8
+Movie;Hanung Bramantyo;8
+Movie;Lance Bangs;8
+Movie;Robert Rodriguez;8
+Movie;Umesh Mehra;8
+Movie;Kunle Afolayan;8
+Movie;Troy Miller;8
+Movie;Hakan Algül;8
+Movie;Justin G. Dyck;8
+Movie;Anurag Kashyap;8
+Movie;McG;7
+Movie;Noah Baumbach;7
+Movie;S.S. Rajamouli;7
+Movie;Toshiya Shinohara;7
+Movie;Omoni Oboli;7
+Movie;Ryan Polito;7
+Movie;Ron Howard;7
+Movie;Ozan Açıktan;7
+Movie;Mae Czarina Cruz;7
+Movie;Quentin Tarantino;7
+Movie;Ram Gopal Varma;7
+Movie;Prakash Satam;7
+Movie;Clint Eastwood;7
+Movie;Dibakar Banerjee;7
+Movie;Hidenori Inoue;7
+Movie;Leslie Small;7
+Movie;Lasse Hallström;7
+Movie;William Lau;6
+Movie;Zoya Akhtar;6
+Movie;Wenn V. Deramas;6
+Movie;Joey So;6
+Movie;Jesse V. Johnson;6
+Movie;Rocky Soraya;6
+Movie;Tilak Shetty;6
+Movie;Anees Bazmee;6
+Movie;Robert Vince;6
+Movie;Imtiaz Ali;6
+Movie;Robert Luketic;6
+Movie;Riri Riza;6
+Movie;Wong Jing;6
+Movie;Rajkumar Santoshi;6
+Movie;Priyadarshan;6
+Movie;David Fincher;6
+Movie;Karan Johar;6
+Movie;Milan Luthria;6
+Movie;Ashutosh Gowariker;6
+Movie;Steven Soderbergh;6
+Movie;Vlad Yudin;6
+Movie;Steve Brill;6
+Movie;Steve Ball;6
+Movie;Manny Rodriguez;6
+Movie;Sooraj R. Barjatya;6
+Movie;Matt Askem;6
+Movie;Kevin Smith;6
+Movie;Sameh Abdulaziz;6
+Movie;Shigeaki Kubo;5
+Movie;David Batty;5
+Movie;Spike Lee;5
+Movie;Stanley Moore;5
+Movie;Alex Woo;5
+Movie;Rohit Shetty;5
+Movie;Detlev Buck;5
+Movie;Rajiv Mehra;5
+Movie;Lilly Wachowski;5
+Movie;Indra Kumar;5
+Movie;John G. Avildsen;5
+Movie;Madhur Bhandarkar;5
+Movie;Mahesh Manjrekar;5
+Movie;Mani Ratnam;5
+Movie;Martin Campbell;5
+Movie;Masahiko Murata;5
+Movie;Mastan Alibhai Burmawalla;5
+Movie;Lana Wachowski;5
+Movie;Kıvanç Baruönü;5
+Movie;Michael Simon;5
+Movie;Mike Clattenburg;5
+Movie;Nagesh Kukunoor;5
+Movie;Ishi Rudell;5
+Movie;Anurag Basu;5
+Movie;Niyi Akinmolayan;5
+Movie;Antoinette Jadaone;5
+Movie;Jay Roach;5
+Movie;Paul Thomas Anderson;5
+Movie;Angga Dwimas Sasongko;5
+Movie;Lynn Shelton;5
+Movie;Andy Tennant;5
+Movie;Poj Arnon;5
+Movie;Prakash Jha;5
+Movie;Ava DuVernay;5
+Movie;Khaled Marei;5
+Movie;Wilson Yip;5
+Movie;Vince Marcello;5
+Movie;Vishal Bhardwaj;5
+Movie;Abbas Alibhai Burmawalla;5
+Movie;Thierry Donard;5
+Movie;Maroun Baghdadi;4
+Movie;Sean McNamara;4
+Movie;Jeremy Saulnier;4
+Movie;Brian Levant;4
+Movie;Michael McKay;4
+Movie;Bruno Garotti;4
+Movie;Michael Tiddes;4
+Movie;Clay Glen;4
+Movie;Peter Segal;4
+Movie;John Huston;4
+Movie;Rathindran R Prasad;4
+Movie;Shaun Paul Piccinino;4
+Movie;Mike Gunther;4
+Movie;Mike Newell;4
+Movie;Hernán Zin;4
+Movie;Mike Smith;4
+Movie;Gregory Hoblit;4
+Movie;Shyam Benegal;4
+Movie;Rakeysh Omprakash Mehra;4
+Movie;Werner Herzog;4
+Movie;Savage Steve Holland;4
+Movie;Terry Gilliam;4
+Movie;John Paul Tremblay;4
+Movie;Rohit Jugraj;4
+Movie;Roger Kumble;4
+Movie;Lucas Margutti;4
+Movie;Lee Tamahori;4
+Movie;Luis Ara;4
+Movie;Wael Ihsan;4
+Movie;Abhishek Chaubey;4
+Movie;Ahmad El-Badri;4
+Movie;Kundan Shah;4
+Movie;Barry Avrich;4
+Movie;Sam Liu;4
+Movie;Kayode Kasum;4
+Movie;Banjong Pisanthanakun;4
+Movie;Robb Wells;4
+Movie;Rob Reiner;4
+Movie;Ahmed Nader Galal;4
+Movie;Bo Burnham;4
+Movie;Jun Lana;4
+Movie;Rob Minkoff;4
+Movie;Moses Inwang;4
+Movie;Hrishikesh Mukherjee;4
+Movie;Wael Ehsan;4
+Movie;Antonio Campos;4
+Movie;Qaushiq Mukherjee;4
+Movie;Farhan Akhtar;4
+Movie;Fajar Bustomi;4
+Movie;Oliver Stone;4
+Movie;Paul Dugdale;4
+Movie;Chia-Liang Liu;4
+Movie;David Zucker;4
+Movie;Ernie Barbarash;4
+Movie;Fernando González Molina;4
+Movie;Steve Carr;4
+Movie;Chris Stokes;4
+Movie;Sudhir Mishra;4
+Movie;Dennis Dugan;4
+Movie;Subhash Ghai;4
+Movie;Edward Cotterill;4
+Movie;Antoine Fuqua;4
+Movie;Yoshiyuki Tomino;4
+Movie;Farah Khan;4
+Movie;Nishikant Kamat;4
+Movie;Philippe Aractingi;4
+Movie;Christopher Storer;4
+Movie;Cristina Jacob;4
+Movie;Peter Farrelly;4
+Movie;Raja Gosnell;4
+Movie;Dan Villegas;4
+Movie;Conrad Helten;4
+Movie;Frank Capra;4
+Movie;Orlando von Einsiedel;3
+Movie;Barak Goodman;3
+Movie;Louis C.K.;3
+Movie;Vikramaditya Motwane;3
+Movie;Peter Jackson;3
+Movie;Pang Ho-cheung;3
+Movie;TJ Sullivan;3
+Movie;Pablo Larraín;3
+Movie;Barry Sonnenfeld;3
+Movie;Mahesh Bhatt;3
+Movie;Bedran Güzel;3
+Movie;Pankaj Batra;3
+Movie;Anirban Majumder;3
+Movie;Paul Weitz;3
+Movie;Paul W.S. Anderson;3
+Movie;Paul Greengrass;3
+Movie;Mahmoud Karim;3
+Movie;Adam Carolla;3
+Movie;Maclain Way;3
+Movie;Barry Levinson;3
+Movie;Marcos Bucay;3
+Movie;Neeraj Pandey;3
+Movie;Maria Ripoll;3
+Movie;Mohamed Hamdy;3
+Movie;Linda Mendoza;3
+Movie;Noriyuki Abe;3
+Movie;Tope Oshin;3
+Movie;Adam Shankman;3
+Movie;Mikhail Red;3
+Movie;Adam McKay;3
+Movie;Toshiyuki Kubooka;3
+Movie;B. V. Nandini Reddy;3
+Movie;Mohamed Samy;3
+Movie;Nila Madhab Panda;3
+Movie;Momoko Kamiya;3
+Movie;Morgan Neville;3
+Movie;Munjal Shroff;3
+Movie;Nate Adams;3
+Movie;Note Chern-Yim;3
+Movie;Mike Flanagan;3
+Movie;Asit Mohapatra;3
+Movie;Michèle Ohayon;3
+Movie;Atom Egoyan;3
+Movie;Michael Dowse;3
+Movie;Michael Bay;3
+Movie;Matías Gueilburt;3
+Movie;Vicky Matthews;3
+Movie;Vikas Bahl;3
+Movie;Olivia M. Lamasan;3
+Movie;Olivier Assayas;3
+Movie;Neal Brennan;3
+Movie;Mark Raso;3
+Movie;Aziz Mirza;3
+Movie;Mark A.Z. Dippé;3
+Movie;Onir;3
+Movie;Mark Waters;3
+Movie;Marc Forster;3
+Movie;Vivieno Caldinelli;3
+Movie;Les Mayfield;3
+Movie;Charles Stone III;3
+Movie;G.J. Echternkamp;3
+Movie;Gabriele Muccino;3
+Movie;Gajendra Ahire;3
+Movie;Chapman Way;3
+Movie;Garry Marshall;3
+Movie;Chandrakant Kulkarni;3
+Movie;Gastón Duprat;3
+Movie;Gerardo Olivares;3
+Movie;Gilles Paquet-Brenner;3
+Movie;Gonzalo López-Gallego;3
+Movie;Greg MacGillivray;3
+Movie;Cem Yılmaz;3
+Movie;Greg Rankin;3
+Movie;Guillermo del Toro;3
+Movie;Yoshikazu Yasuhiko;3
+Movie;Hardik Mehta;3
+Movie;Hasan Karacadağ;3
+Movie;Yasmin Ahmad;3
+Movie;Frank Oz;3
+Movie;Frank Coraci;3
+Movie;Florent Bodin;3
+Movie;Chris Weitz;3
+Movie;Craig Brewer;3
+Movie;Christopher Nolen;3
+Movie;Dante Lam;3
+Movie;David Ayer;3
+Movie;Ömer Faruk Sorak;3
+Movie;David Mackenzie;3
+Movie;David Michôd;3
+Movie;David R. Ellis;3
+Movie;Chris Smith;3
+Movie;Cheh Chang;3
+Movie;Diego Pignataro;3
+Movie;Chris Howe;3
+Movie;Drake Doremus;3
+Movie;Dustin McKenzie;3
+Movie;Chris Buck;3
+Movie;Eric Darnell;3
+Movie;Ethan Coen;3
+Movie;Ezekiel Norton;3
+Movie;Hiroyuki Seshita;3
+Movie;Wolfgang Petersen;3
+Movie;Ishaya Bako;3
+Movie;Walter C. Miller;3
+Movie;Blair Simmons;3
+Movie;Walter Hill;3
+Movie;Karthik Subbaraj;3
+Movie;Peter Spirer;3
+Movie;Kazuchika Kise;3
+Movie;Ken Ghosh;3
+Movie;Kenneth Gyang;3
+Movie;Ketan Mehta;3
+Movie;Kief Davidson;3
+Movie;Bobcat Goldthwait;3
+Movie;Kim Nguyen;3
+Movie;Abhinay Deo;3
+Movie;Abhishek Kapoor;3
+Movie;Abhishek Sharma;3
+Movie;Latif Faiziyev;3
+Movie;Leena Yadav;3
+Movie;Leigh Janiak;3
+Movie;Lekh Tandon;3
+Movie;Bobby Farrelly;3
+Movie;Brad Anderson;3
+Movie;Ismail Farouk;3
+Movie;Joe Berlinger;3
+Movie;Israel Adrián Caetano;3
+Movie;Burak Aksak;3
+Movie;Ivan Reitman;3
+Movie;James Wan;3
+Movie;Jane Campion;3
+Movie;Jeff Baena;3
+Movie;Jeff Nichols;3
+Movie;Jerry Rothwell;3
+Movie;Joe Camp;3
+Movie;Jonathan Demme;3
+Movie;Joel Coen;3
+Movie;Brett Haley;3
+Movie;John Asher;3
+Movie;John Fortenberry;3
+Movie;John Lee Hancock;3
+Movie;John Schultz;3
+Movie;Jon M. Chu;3
+Movie;Jon Rosenbaum;3
+Movie;Karyn Kusama;3
+Movie;Ashwin Saravanan;3
+Movie;Rajiv Menon;3
+Movie;Renny Harlin;3
+Movie;Tate Taylor;3
+Movie;Remo D'Souza;3
+Movie;Reginald Hudlin;3
+Movie;Rano Karno;3
+Movie;Theodore Boborol;3
+Movie;Andrew Duncan;3
+Movie;Adze Ugah;3
+Movie;Rako Prijanto;3
+Movie;Timo Tjahjanto;3
+Movie;Rajkumar Hirani;3
+Movie;Steve Sacks;3
+Movie;Andrew Lau Wai-Keung;3
+Movie;Seyi Babatope;3
+Movie;Seth Barrish;3
+Movie;Alex Díaz;3
+Movie;Steven C. Miller;3
+Movie;Sachin Yardi;3
+Movie;Adriano Rudiman;3
+Movie;Sermiyan Midyat;3
+Movie;Sujoy Ghosh;3
+Movie;Raj Kumar Gupta;3
+Movie;Shawn Levy;3
+Movie;Ron Oliver;3
+Movie;Sumitra Bhave;3
+Movie;Ron Myrick;3
+Movie;Tim Burton;3
+Movie;Robert O. Peters;3
+Movie;Amr Arafa;3
+Movie;Robert Zemeckis;3
+Movie;Simon Wells;3
+Movie;Rob Cohen;3
+Movie;Simon Wincer;3
+Movie;Amitoj Mann;3
+Movie;Ricky Gervais;3
+Movie;Richard Weston;3
+Movie;Sofia Coppola;3
+Movie;Soudade Kaadan;3
+Movie;Ric Roman Waugh;3
+Movie;Roger Allers;3
+Movie;Ribhu Dasgupta;3
+Movie;Roger Donaldson;3
+Movie;Alex Lehmann;3
+Movie;Roland Emmerich;3
+Movie;Shirish Kunder;3
+Movie;Ahmed Al-Badry;3
+Movie;Andibachtiar Yusuf;3
+Movie;Raj Kapoor;3
+Movie;Shyamal Chaulia;3
+Movie;Prakash Mehra;3
+Movie;Sylvester Stallone;3
+Movie;Pratim D. Gupta;3
+Movie;Alexis Morante;3
+Movie;Alfonso Cuarón;3
+Movie;Todd Phillips;3
+Movie;Phillip Noyce;3
+Movie;Petra Costa;3
+Movie;Peyton Reed;3
+Movie;Scott Zabielski;3
+Movie;Scott Stewart;3
+Movie;Akiva Schaffer;3
+Movie;Tom Hooper;3
+Movie;Andrzej Bartkowiak;3
+Movie;Sunil Sukthankar;3
+Movie;Adrian Teh;3
+Movie;Sebastián Schindel;3
+Movie;Pidi Baiq;3
+Movie;Satish Rajwade;3
+Movie;Toka McBaror;3
+Movie;Joe Dante;2
+Movie;Harold Cronk;2
+Movie;Harvey Lowry;2
+Movie;Joe DeMaio;2
+Movie;Will Yapp;2
+Movie;Hazem Fouda;2
+Movie;Heber Cannon;2
+Movie;Heidi Ewing;2
+Movie;Herman Yau;2
+Movie;Wes Craven;2
+Movie;Shinji Aramaki;2
+Movie;Sean Cisterna;2
+Movie;Hideaki Anno;2
+Movie;Terry Jones;2
+Movie;Hiromasa Yonebayashi;2
+Movie;Sherif Arafa;2
+Movie;Howard Zieff;2
+Movie;Jim Henson;2
+Movie;Hannah Fidell;2
+Movie;Yorgos Lanthimos;2
+Movie;Guy Ritchie;2
+Movie;Scott Hicks;2
+Movie;Gregory Caruso;2
+Movie;Shlok Sharma;2
+Movie;John Ford;2
+Movie;Griffin Dunne;2
+Movie;John Erick Dowdle;2
+Movie;Shivam Nair;2
+Movie;Yoshiyuki Momose;2
+Movie;Gus Van Sant;2
+Movie;John Duigan;2
+Movie;John Dahl;2
+Movie;Joe Roth;2
+Movie;Scott L. Montoya;2
+Movie;Hadi El Bagoury;2
+Movie;Johannes Roberts;2
+Movie;Scott Moore;2
+Movie;Scott Moran;2
+Movie;Haifaa Al-Mansour;2
+Movie;Hajime Kamegaki;2
+Movie;Shirley Frimpong-Manso;2
+Movie;Halitha Shameem;2
+Movie;Hani Hamdi;2
+Movie;Jerrold Tarog;2
+Movie;Husam El-Gohari;2
+Movie;Hsu Chih-yen;2
+Movie;Sean Penn;2
+Movie;J.D. Dillard;2
+Movie;JP Habac;2
+Movie;Jack C. Newell;2
+Movie;Jacob Joice;2
+Movie;Jacob Kornbluth;2
+Movie;Jayan Moodley;2
+Movie;Jalil Lespert;2
+Movie;James Bobin;2
+Movie;Will Gluck;2
+Movie;James Mangold;2
+Movie;James McTeigue;2
+Movie;James Ponsoldt;2
+Movie;James Toback;2
+Movie;Sergio Leone;2
+Movie;James Wong;2
+Movie;James Yukich;2
+Movie;William Wyler;2
+Movie;Selçuk Aydemir;2
+Movie;Janusz Majewski;2
+Movie;Jared Hess;2
+Movie;Jason Paul Laxamana;2
+Movie;Jason Reitman;2
+Movie;Javier Ruiz Caldera;2
+Movie;Jayson Thiessen;2
+Movie;J.C. Chandor;2
+Movie;J.A. Bayona;2
+Movie;Shashank Khaitan;2
+Movie;Hugues Nancy;2
+Movie;Jeremy Kenyon Lockyer Corbell;2
+Movie;William Brent Bell;2
+Movie;Hussein Kamal;2
+Movie;Ian Cheney;2
+Movie;Ian Edelman;2
+Movie;Ian MacNaughton;2
+Movie;Ibrahim Bin Mohamed;2
+Movie;Ifa Isfansyah;2
+Movie;Shashanka Ghosh;2
+Movie;Isaac Ezban;2
+Movie;Jeethu Joseph;2
+Movie;Jehane Noujaim;2
+Movie;Shalini Kantayya;2
+Movie;Shakun Batra;2
+Movie;Shakti Samanta;2
+Movie;Jeffrey Walker;2
+Movie;Jeff Wadlow;2
+Movie;Ivan Ayr;2
+Movie;Jeff Tremaine;2
+Movie;Jeff Orlowski;2
+Movie;Sekhar Kammula;2
+Movie;Peter Sullivan;2
+Movie;Gareth Evans;2
+Movie;Sidheswar Shukla;2
+Movie;David Dobkin;2
+Movie;David Fairhead;2
+Movie;Àlex Pastor;2
+Movie;David Gordon Green;2
+Movie;David M. Rosenthal;2
+Movie;David O. Russell;2
+Movie;David Pablos;2
+Movie;David Pastor;2
+Movie;David Paul Meyer;2
+Movie;Sundar C.;2
+Movie;David Sington;2
+Movie;Sumit Das;2
+Movie;Davis Guggenheim;2
+Movie;Tanuja Chandra;2
+Movie;Dee Rees;2
+Movie;Delhiprasad Deenadayalan;2
+Movie;Demetri Martin;2
+Movie;Dennie Gordon;2
+Movie;Sudesh Manjrekar;2
+Movie;Derek Cianfrance;2
+Movie;Zoe Berriatúa;2
+Movie;Dharmesh Darshan;2
+Movie;Zak Hilditch;2
+Movie;Tarek Al Eryan;2
+Movie;Dimitri Logothetis;2
+Movie;Dino Risi;2
+Movie;Dominic Sena;2
+Movie;Don Bluth;2
+Movie;David E. Talbert;2
+Movie;Álex de la Iglesia;2
+Movie;Tarsem Singh;2
+Movie;Suparn Verma;2
+Movie;Colin Trevorrow;2
+Movie;T.J. Martin;2
+Movie;Corey Yuen;2
+Movie;Cosima Spender;2
+Movie;Courtney Hunt;2
+Movie;Sze Yu Lau;2
+Movie;Cristi Puiu;2
+Movie;Syrine Boulanouar;2
+Movie;Dallas Jackson;2
+Movie;Damien O’Connor;2
+Movie;Sylvie Verheyde;2
+Movie;Damián Romay;2
+Movie;Dan Gilroy;2
+Movie;Swapnaneel Jayakar;2
+Movie;Daniel Alfredson;2
+Movie;Daniel Benmayor;2
+Movie;Daniel Calparsoro;2
+Movie;Daniel Gray Longino;2
+Movie;Daniel Lindsay;2
+Movie;Daniel Mann;2
+Movie;Daniel Oriahi;2
+Movie;Daniel Stamm;2
+Movie;Danny Boyle;2
+Movie;Susannah Ward;2
+Movie;Darren Lynn Bousman;2
+Movie;Dave Higby;2
+Movie;Susan Johnson;2
+Movie;Zack Snyder;2
+Movie;Duncan Jones;2
+Movie;Gore Verbinski;2
+Movie;Stanley Nelson;2
+Movie;Fernando Meirelles;2
+Movie;Fisher Stevens;2
+Movie;Stanley Kubrick;2
+Movie;Florian Henckel von Donnersmarck;2
+Movie;Floyd Russ;2
+Movie;Francesco Imperato;2
+Movie;Stanisław Różewicz;2
+Movie;Stan Lathan;2
+Movie;Stacie Passon;2
+Movie;Frank Rajah Arase;2
+Movie;Sriram Raghavan;2
+Movie;Funke Akindele;2
+Movie;Sridhar Rangayan;2
+Movie;Ted Emery;2
+Movie;Spike Jonze;2
+Movie;John Hillcoat;2
+Movie;Gary Fleder;2
+Movie;Smeep Kang;2
+Movie;Gary Ross;2
+Movie;George C. Wolfe;2
+Movie;George Clooney;2
+Movie;George Ford;2
+Movie;Gianfranco Rosi;2
+Movie;Simon Stone;2
+Movie;Gillian Robespierre;2
+Movie;Girish Malik;2
+Movie;Simon J. Smith;2
+Movie;Ted Demme;2
+Movie;Femi Oyeniran;2
+Movie;Steven Brill;2
+Movie;Federico Veiroj;2
+Movie;Eduardo Chauvet;2
+Movie;Eduardo Roy Jr.;2
+Movie;Edwin;2
+Movie;Steve Paley;2
+Movie;Ekene Som Mekwunye;2
+Movie;Elaine McMillion Sheldon;2
+Movie;Eli Craig;2
+Movie;Eli Roth;2
+Movie;Emmett Malloy;2
+Movie;Steve Gukas;2
+Movie;Eric Idle;2
+Movie;Eric Radomski;2
+Movie;Erik Canuel;2
+Movie;Tarun Mansukhani;2
+Movie;Errol Morris;2
+Movie;Erwin van den Eshof;2
+Movie;Esteban Crespo;2
+Movie;Esteban Vidal;2
+Movie;Everardo González;2
+Movie;Stephen Herek;2
+Movie;Stephen Frears;2
+Movie;Fabien Beziat;2
+Movie;Stephen Daldry;2
+Movie;Stephen Chow;2
+Movie;Stephen Chiodo;2
+Movie;Federico Lemos;2
+Movie;Stanley Tong;2
+Movie;Wayne Blair;2
+Movie;Joseph Sargent;2
+Movie;Scott Aukerman;2
+Movie;Renzil D'Silva;2
+Movie;Michael Showalter;2
+Movie;Tyler Spindel;2
+Movie;Michael Winterbottom;2
+Movie;Reema Kagti;2
+Movie;Miguel Arteta;2
+Movie;Mike Binder;2
+Movie;Mike Birbiglia;2
+Movie;Tyler Perry;2
+Movie;Rebecca Zlotowski;2
+Movie;Tsuyoshi Nakakuki;2
+Movie;Tim Story;2
+Movie;Randall Lobb;2
+Movie;Randal Kleiser;2
+Movie;Ramsey Nouah;2
+Movie;Mikhil Musale;2
+Movie;Mitch Schauer;2
+Movie;Mohamed Diab;2
+Movie;Mohit Suri;2
+Movie;Morgan Spurlock;2
+Movie;Muharrem Gülmez;2
+Movie;Mukul Anand;2
+Movie;Mysskin;2
+Movie;Måns Mårlind;2
+Movie;N. Linguswamy;2
+Movie;Trivikram Srinivas;2
+Movie;Nadia Hallgren;2
+Movie;Trey Edward Shults;2
+Movie;Michael Patrick King;2
+Movie;Michael J. Bassett;2
+Movie;Najwa Najjar;2
+Movie;Michael Goguen;2
+Movie;Mark Osborne;2
+Movie;Mark Palansky;2
+Movie;Richard Rich;2
+Movie;Mark Steven Johnson;2
+Movie;Mark Thornton;2
+Movie;Richard LaGravenese;2
+Movie;Richard Bailey;2
+Movie;Vikram Bhatt;2
+Movie;Martin Gorst;2
+Movie;Mary Harron;2
+Movie;Maryo J. De los Reyes;2
+Movie;Masaru Matsumoto;2
+Movie;V Vignarajan;2
+Movie;Upi Avianto;2
+Movie;Matt Kugelman;2
+Movie;Umesh Shukla;2
+Movie;Matthew Vaughn;2
+Movie;Rian Johnson;2
+Movie;Ulises Valencia;2
+Movie;Meltem Bozoflu;2
+Movie;Mez Tharatorn;2
+Movie;Michael Cuesta;2
+Movie;Michael D. Black;2
+Movie;Michael Damian;2
+Movie;Rhys Thomas;2
+Movie;Michael Drumm;2
+Movie;Michael Fimognari;2
+Movie;Nagraj Manjule;2
+Movie;Naoko Yamada;2
+Movie;Satyajit Bhatkal;2
+Movie;Osgood Perkins;2
+Movie;Tom Shadyac;2
+Movie;Paco Plaza;2
+Movie;Padmakumar Narasimhamurthy;2
+Movie;Pierre Morel;2
+Movie;Parambrata Chatterjee;2
+Movie;Park Hoon-jung;2
+Movie;Parkpoom Wongpoom;2
+Movie;Pascal Amanfo;2
+Movie;Patricia Rozema;2
+Movie;Patrick Brice;2
+Movie;Patryk Vega;2
+Movie;Paul Andrew Williams;2
+Movie;Tom Donahue;2
+Movie;Paul Haggis;2
+Movie;Paul Solet;2
+Movie;Paul Soriano;2
+Movie;Tom McGrath;2
+Movie;Paul Verhoeven;2
+Movie;Tom Ford;2
+Movie;Philipp Stölzl;2
+Movie;Pete Travis;2
+Movie;Peter Berg;2
+Movie;Peter Chelsom;2
+Movie;Phil Weinstein;2
+Movie;Peter Hutchings;2
+Movie;Peter Lepeniotis;2
+Movie;Peter Orton;2
+Movie;Oz Rodriguez;2
+Movie;Tony Giglio;2
+Movie;Navaniat Singh;2
+Movie;Oluseyi Asurf;2
+Movie;Nawapol Thamrongrattanarit;2
+Movie;Timothy Woodward Jr.;2
+Movie;Rajat Kapoor;2
+Movie;Neil Jordan;2
+Movie;Neill Blomkamp;2
+Movie;Nelson McCormick;2
+Movie;Nia Dinata;2
+Movie;Nicholas Kharkongor;2
+Movie;Nick Broomfield;2
+Movie;Nick Castle;2
+Movie;Nicolas Pesce;2
+Movie;Nicolás López;2
+Movie;Nikhil Advani;2
+Movie;Nitesh Tiwari;2
+Movie;Tosin Igho;2
+Movie;Raditya Dika;2
+Movie;Rachel Grady;2
+Movie;RZA;2
+Movie;R. Ellis Frazier;2
+Movie;Norman Jewison;2
+Movie;Obi Emelonye;2
+Movie;Punit Malhotra;2
+Movie;Oliver Twinch;2
+Movie;Toa Fraser;2
+Movie;Tony Scott;2
+Movie;Todd Kauffman;2
+Movie;Olivier Marchal;2
+Movie;Mariano Cohn;2
+Movie;Ridley Scott;2
+Movie;Ringo Lam;2
+Movie;Justin Kelly;2
+Movie;Kagiso Lediga;2
+Movie;Sam Wrench;2
+Movie;Kareem Tabsch;2
+Movie;Karen J. Lloyd;2
+Movie;Sam Taplin;2
+Movie;Sam Raimi;2
+Movie;Kasia Uscinska;2
+Movie;Sam Mendes;2
+Movie;Sam Hobkinson;2
+Movie;Kedar Shinde;2
+Movie;Keegan Kuhn;2
+Movie;Keishi Otomo;2
+Movie;Keith Scholey;2
+Movie;Kemi Adetiba;2
+Movie;Ken Burns;2
+Movie;Sam Dunn;2
+Movie;Salvador Calvo;2
+Movie;Kenny Young;2
+Movie;Keoni Waxman;2
+Movie;Saket Chaudhary;2
+Movie;Kevin Layne;2
+Movie;Kevin MacDonald;2
+Movie;Kevin Munroe;2
+Movie;Khaled El Halafawy;2
+Movie;Sachin;2
+Movie;Kim A. Snyder;2
+Movie;Kim Joo-hyung;2
+Movie;Kabir Sadanand;2
+Movie;Sameer Vidwans;2
+Movie;Tim Maltby;2
+Movie;Walter Taylaur;2
+Movie;Satish Kaushik;2
+Movie;John Stockwell;2
+Movie;John Wells;2
+Movie;Warren P. Sonoda;2
+Movie;Jon Favreau;2
+Movie;Jon Garaño;2
+Movie;Jon Lucas;2
+Movie;Saratswadee Wongsomphet;2
+Movie;Sarah Gavron;2
+Movie;Jon Shenk;2
+Movie;Sarah Adina Smith;2
+Movie;Jonathan Hensleigh;2
+Movie;Sara Colangelo;2
+Movie;Jonathan Levine;2
+Movie;Jonathan Mostow;2
+Movie;Joram Lürsen;2
+Movie;Jose Manuel Colón;2
+Movie;Santosh Sivan;2
+Movie;Sanjay Jadhav;2
+Movie;Josh Safdie;2
+Movie;Jota Linares;2
+Movie;Joyce Bernal;2
+Movie;Julien Leclercq;2
+Movie;Julián Hernández;2
+Movie;Sangeeth Sivan;2
+Movie;Sang-ho Yeon;2
+Movie;Justin Benson;2
+Movie;S.S. Wilson;2
+Movie;Kingsley Ogoro;2
+Movie;Kip Andersen;2
+Movie;Kobun Shizuno;2
+Movie;Lucky Kuswandi;2
+Movie;Luis Estrada;2
+Movie;Rodrigo Van Der Put;2
+Movie;Luis Lopez;2
+Movie;Luis Valdez;2
+Movie;Luv Ranjan;2
+Movie;Rod Blackhurst;2
+Movie;M. Night Shyamalan;2
+Movie;Madeleine Parry;2
+Movie;Vir Das;2
+Movie;Vipul Amrutlal Shah;2
+Movie;Mag Hsu;2
+Movie;Robin Swicord;2
+Movie;Vinil Mathew;2
+Movie;Tiller Russell;2
+Movie;Mahsun Kırmızıgül;2
+Movie;Makarand Mane;2
+Movie;Malcolm D. Lee;2
+Movie;Mana Yasuda;2
+Movie;Tim Johnson;2
+Movie;Manish Jha;2
+Movie;Robert Altman;2
+Movie;Rob Marshall;2
+Movie;Manolo Caro;2
+Movie;Mar Targarona;2
+Movie;Marcelo Galvão;2
+Movie;Rizal Mantovani;2
+Movie;Luc Vinciguerra;2
+Movie;Tigmanshu Dhulia;2
+Movie;Liz Garbus;2
+Movie;Lars von Trier;2
+Movie;Kris Pearn;2
+Movie;Kristian Mercado;2
+Movie;Ksshitij Chaudhary;2
+Movie;Kunal Kohli;2
+Movie;Thiru;2
+Movie;Kunihiko Yuyama;2
+Movie;Thomas Sieben;2
+Movie;Kyle Newacheck;2
+Movie;Ryan Murphy;2
+Movie;Ryan Coogler;2
+Movie;Rusty Cundieff;2
+Movie;Larry Latham;2
+Movie;Ruel S. Bayani;2
+Movie;Ron Davis;2
+Movie;Rudy Soedjarwo;2
+Movie;Laura Brownson;2
+Movie;Laxman Utekar;2
+Movie;Lee Hirsch;2
+Movie;Ruben Fleischer;2
+Movie;Ross Kauffman;2
+Movie;Ross Boyask;2
+Movie;Leo Riley;2
+Movie;Leslie Iwerks;2
+Movie;Lewis Milestone;2
+Movie;Liam Lynch;2
+Movie;Liam O'Donnell;2
+Movie;Taika Waititi;2
+Movie;A. L. Vijay;2
+Movie;Şenol Sönmez;2
+Movie;Asghar Farhadi;2
+Movie;Chris Sivertson;2
+Movie;Ali F. Mostafa;2
+Movie;Bejoy Nambiar;2
+Movie;Chris Robinson;2
+Movie;Chris Renaud;2
+Movie;Bradley Parker;2
+Movie;Andrew Niccol;2
+Movie;Brad Peyton;2
+Movie;Brad Bird;2
+Movie;Alexandre Avancini;2
+Movie;Alexandre Aja;2
+Movie;Bonni Cohen;2
+Movie;Bong Joon Ho;2
+Movie;Alex Zamm;2
+Movie;Alex Timbers;2
+Movie;Ari Sandel;2
+Movie;Ben Simms;2
+Movie;Ali Ragab;2
+Movie;Basu Chatterjee;2
+Movie;Ben Wheatley;2
+Movie;Ali Taner Baltacı;2
+Movie;Christopher Guest;2
+Movie;Abba T. Makama;2
+Movie;Bryan Bertino;2
+Movie;BB Sasore;2
+Movie;Alistair Legrand;2
+Movie;Baljit Singh Deo;2
+Movie;Brett Ratner;2
+Movie;Abhijit Panse;2
+Movie;Alison Klayman;2
+Movie;Atanu Ghosh;2
+Movie;Baran bo Odar;2
+Movie;Asif Kapadia;2
+Movie;Ashwiny Iyer Tiwari;2
+Movie;Barbra Streisand;2
+Movie;Byron Howard;2
+Movie;Ashok Nanda;2
+Movie;Cal Seville;2
+Movie;Ben Wallis;2
+Movie;Alex Proyas;2
+Movie;Brian De Palma;2
+Movie;Alejandro Fernández Almendras;2
+Movie;Alejandro Agresti;2
+Movie;Aitor Arregi;2
+Movie;Chanda Bell;2
+Movie;Björn Stein;2
+Movie;Bernie Denk;2
+Movie;Bert Marcus;2
+Movie;Ajay Bhuyan;2
+Movie;Anthony Scott Burns;2
+Movie;Binayak Das;2
+Movie;Charlie McDowell;2
+Movie;Anthony Minghella;2
+Movie;Charlie Lightening;2
+Movie;Bill Condon;2
+Movie;Bill D'Elia;2
+Movie;Bille Woodruff;2
+Movie;Charles Uwagbai;2
+Movie;Anthony Giordano;2
+Movie;Alejandro Doria;2
+Movie;Antonio Serrano;2
+Movie;Alex Merkin;2
+Movie;Ahmed Zein;2
+Movie;Aditya Kripalani;2
+Movie;Chris Bould;2
+Movie;Andy Fickman;2
+Movie;Aditya Sarpotdar;2
+Movie;Apoorva Lakhia;2
+Movie;Ahishor Solomon;2
+Movie;Chris Bell;2
+Movie;Angelina Jolie;2
+Movie;Benjamin Turner;2
+Movie;Anggy Umbara;2
+Movie;Anurin Nwunembom;2
+Movie;Benny Safdie;2
+Movie;Chad Van De Keere;2
+Movie;Anu Menon;2
+Movie;Ahmed Zain;2
+Movie;Chito S. Roño;2
+Movie;Alejandro Montiel;2
+Movie;Audu Paden;2
+Movie;Anthony D'Souza;2
+Movie;Amy Schumer;2
+Movie;Brian Klein;2
+Movie;Aaron Moorhead;2
+Movie;Brian Volk-Weiss;2
+Movie;A.R. Murugadoss;2
+Movie;Ciarán Foy;2
+Movie;Aaron Sorkin;2
+Movie;Claire Scanlon;2
+Movie;Clark Johnson;2
+Movie;Bruce Beresford;2
+Movie;Amy Poehler;2
+Movie;Christopher Smith;2
+Movie;Brian Oakes;2
+Movie;Avadhoot Gupte;2
+Movie;Brian Robbins;2
+Movie;Robert Radler;1
+Movie;Phil Johnston;1
+Movie;Peter Thorwarth;1
+Movie;Phil Nibbelink;1
+Movie;Peter Tsi;1
+Movie;Peter Webber;1
+Movie;Peter Winther;1
+Movie;Phil Morrison;1
+Movie;Phil Lord;1
+Movie;Robert Schwentke;1
+Movie;Peter Yost;1
+Movie;Amro Salah;1
+Movie;Phil Joanou;1
+Movie;Phil Burgers;1
+Movie;Robert Pulcini;1
+Movie;Phanindra Narsetti;1
+Movie;Angshuman Ghosh;1
+Movie;Phil Alden Robinson;1
+Movie;Peter Svatek;1
+Movie;Ritesh Batra;1
+Movie;Aniedi Anwah;1
+Movie;Peter Middleton;1
+Movie;Peter Hewitt;1
+Movie;Amol Palekar;1
+Movie;Amr Salama;1
+Movie;Peter Howitt;1
+Movie;Robert Townsend;1
+Movie;Anindya Chatterjee;1
+Movie;Anil V. Kumar;1
+Movie;Anil Thomas;1
+Movie;Peter Lord;1
+Movie;Robert Tate;1
+Movie;Peter Mimi;1
+Movie;Peter Spierig;1
+Movie;Peter Mortimer;1
+Movie;Peter Nicks;1
+Movie;Anil Sharma;1
+Movie;Peter Pardini;1
+Movie;Robert Smigel;1
+Movie;Peter Ramsey;1
+Movie;Peter Sattler;1
+Movie;Angelika Sigl;1
+Movie;Anik Datta;1
+Movie;Peter Sollett;1
+Movie;Phil Roman;1
+Movie;Robert Peters;1
+Movie;Philip Barantini;1
+Movie;Piti Jaturaphat;1
+Movie;Pooja Bhatt;1
+Movie;Prabhakaran;1
+Movie;Robert McCallum;1
+Movie;Prabhu Deva;1
+Movie;Robert Markowitz;1
+Movie;Prabhuraj;1
+Movie;Pradeep Verma;1
+Movie;Pradip Kurbah;1
+Movie;Prakash Balwant Saini;1
+Movie;Andy Caballero;1
+Movie;Prakash Kunte;1
+Movie;Andrés Feddersen;1
+Movie;Andrés Couturier;1
+Movie;Pramod Pawar;1
+Movie;Pranav Singh;1
+Movie;Prasanth Varma;1
+Movie;Prashant Nair;1
+Movie;Prasobh Vijayan;1
+Movie;Prateek Vats;1
+Movie;André Øvredal;1
+Movie;Praveen Kandregula;1
+Movie;Praveen Nischol;1
+Movie;Robert Krantz;1
+Movie;Robert Kouba;1
+Movie;Prawal Raman;1
+Movie;Andy Capper;1
+Movie;Robert McCullough Jr.;1
+Movie;Peter Galison;1
+Movie;Robert Moresco;1
+Movie;Philip Einstein Lipski;1
+Movie;Philip G. Atwell;1
+Movie;Philip Marlatt;1
+Movie;Philip Yung;1
+Movie;Philipp Eichholtz;1
+Movie;Angel Kristi Williams;1
+Movie;Ang Lee;1
+Movie;Philippe Falardeau;1
+Movie;Andy Serkis;1
+Movie;Phillip Youmans;1
+Movie;Phuwanit Pholdee;1
+Movie;Phyllida Lloyd;1
+Movie;Pia Sukanya;1
+Movie;Andy Goddard;1
+Movie;Pierfrancesco Diliberto;1
+Movie;Pierre Coré;1
+Movie;Pierre Deschamps;1
+Movie;Pierre Greco;1
+Movie;Robert Osman;1
+Movie;Amshan Kumar;1
+Movie;Pieter Kuijpers;1
+Movie;Pieter-Jan De Pue;1
+Movie;Pietro Scappini;1
+Movie;Robert Nixon;1
+Movie;Pippa Ehrlich;1
+Movie;Roberta Grossman;1
+Movie;Peter DeLuise;1
+Movie;Peter Foott;1
+Movie;Patrik Syversen;1
+Movie;Anoop Sathyan;1
+Movie;Amitabha Singh;1
+Movie;Amitava Bhattacharya;1
+Movie;Patricia Tourancheau;1
+Movie;Annie Clark;1
+Movie;Patrick Durham;1
+Movie;Patrick Leung;1
+Movie;Patrick Osborne;1
+Movie;Rocco Ricciardulli;1
+Movie;Patrick Tatopoulos;1
+Movie;Patrik Forsberg;1
+Movie;Anneliese Vandenberg;1
+Movie;Paul Katis;1
+Movie;Anne Fontaine;1
+Movie;Paul Berczeller;1
+Movie;Paul Brizzi;1
+Movie;Paul Dano;1
+Movie;Paul Demeyer;1
+Movie;Anne Fletcher;1
+Movie;Paul Feig;1
+Movie;Robyn Butler;1
+Movie;Paul G. Volk;1
+Movie;Robiul Alam Robi;1
+Movie;Anna Wieczur-Bluszcz;1
+Movie;Patricia Font;1
+Movie;Patricia Ferreira;1
+Movie;Patrice Laliberté;1
+Movie;Pat Healy;1
+Movie;Paolo Strippoli;1
+Movie;Param Gill;1
+Movie;Anthony Caronna;1
+Movie;Paresh Mokashi;1
+Movie;Paritosh Painter;1
+Movie;Anthony Byrne;1
+Movie;Rodney Rothman;1
+Movie;Rod Lurie;1
+Movie;Park In-je;1
+Movie;Parker Phillips;1
+Movie;Rod Daniel;1
+Movie;Anthony Bell;1
+Movie;Partha Chakraborty;1
+Movie;Rod Cabatana Marmol;1
+Movie;Parthiban;1
+Movie;Partho Ghosh;1
+Movie;Partho Mitra;1
+Movie;Partho Sen-Gupta;1
+Movie;Parveen Kumar;1
+Movie;Anthony Abrams;1
+Movie;Pascal Atuma;1
+Movie;Pascal Blanchard;1
+Movie;Pascale Lamche;1
+Movie;Anna Stone;1
+Movie;Paul Krüger;1
+Movie;Peter Fison;1
+Movie;Roberto Girault Facha;1
+Movie;Paween Purijitpanya;1
+Movie;Robi Michael;1
+Movie;Paween Purikitpanya;1
+Movie;Pedring A. Lopez;1
+Movie;Pedro Antonio;1
+Movie;Pedro Coutinho;1
+Movie;Pedro Flores Maldonado;1
+Movie;Pedro Kos;1
+Movie;Roberto Santucci;1
+Movie;Pedro de Echave García;1
+Movie;Peggy Holmes;1
+Movie;Pepe Bojórquez;1
+Movie;Paul M. Green;1
+Movie;Perci Intalan;1
+Movie;Perry Lang;1
+Movie;Pete Jacobs;1
+Movie;Anita Udeep;1
+Movie;Roberto De Feo;1
+Movie;Anita Barbosa;1
+Movie;Peter Billingsley;1
+Movie;Anissa Bonnefont;1
+Movie;Prentice Penny;1
+Movie;Peter Facinelli;1
+Movie;Aniruddha Roy Chowdhury;1
+Movie;Pawan Kumar;1
+Movie;Pawan Kripalani;1
+Movie;Pawan K Shrivastava;1
+Movie;Pavitra Chalam;1
+Movie;Paul Miller;1
+Movie;Paul Munger;1
+Movie;Paul Raschid;1
+Movie;Paul Reubens;1
+Movie;Paul Schrader;1
+Movie;Paul Serafini;1
+Movie;Paul Shoulberg;1
+Movie;Anna Migotto;1
+Movie;Amman Abbasi;1
+Movie;Anna Elizabeth James;1
+Movie;Paul Spurrier;1
+Movie;Paul Tanter;1
+Movie;Paul Taublieb;1
+Movie;Anna Boden;1
+Movie;Paul Urkijo Alijo;1
+Movie;Ann Deborah Fishman;1
+Movie;Anjum Shahzad;1
+Movie;Robin Bissell;1
+Movie;Anjali Nayar;1
+Movie;Paula Apsell;1
+Movie;Paulo Oriol;1
+Movie;Pavel Parkhomenko;1
+Movie;Robin Aubert;1
+Movie;Prem Soni;1
+Movie;Pulkit;1
+Movie;Preston A. Whitmore II;1
+Movie;Andreas Johnsen;1
+Movie;Reijer Zwaan;1
+Movie;Reiner Holzemer;1
+Movie;Reinhard Klooss;1
+Movie;Ana Kokkinos;1
+Movie;Remi Weekes;1
+Movie;Andreas Pichler;1
+Movie;Remy Kohli;1
+Movie;Renata Terra;1
+Movie;Renato De Maria;1
+Movie;Rene Bueno;1
+Movie;Rene Liu;1
+Movie;Renuka Shahane;1
+Movie;Regina Welker;1
+Movie;Andrea Molaioli;1
+Movie;René Pérez Joglar;1
+Movie;Rob Meyer;1
+Movie;Rethabile Ramaphakela;1
+Movie;Reuben Atlas;1
+Movie;Rhiannon Bannenberg;1
+Movie;Andrea Arnold;1
+Movie;Rob McKittrick;1
+Movie;Ana Lily Amirpour;1
+Movie;Rob LaDuca;1
+Movie;Anders Sømme Hammer;1
+Movie;Andreas Prochaska;1
+Movie;Andres Clariond;1
+Movie;Andaç Haznedaroğlu;1
+Movie;Raymond Wood;1
+Movie;Rashida Jones;1
+Movie;Andrew C. Erin;1
+Movie;Ravi Babu;1
+Movie;Ravi Jadhav;1
+Movie;Ravi Udyawar;1
+Movie;Ravikanth Perepu;1
+Movie;Ravishankar Venkateswaran;1
+Movie;Ray Jiang;1
+Movie;Rayka Zehtabchi;1
+Movie;Raymie Muzquiz;1
+Movie;Raymond McGrath;1
+Movie;Rob Smat;1
+Movie;Reem Kherici;1
+Movie;Raz Degan;1
+Movie;Rob Silvestri;1
+Movie;Amy Segal;1
+Movie;Raúl Arévalo;1
+Movie;Andrew Bujalski;1
+Movie;Raúl Campos Delgado;1
+Movie;Rebecca Addelman;1
+Movie;Rebecca Harrell Tickell;1
+Movie;Rebecca Harrison;1
+Movie;Rebecca Johnson;1
+Movie;Andrew Bergman;1
+Movie;Anders Falck;1
+Movie;Ricardo Maldonado;1
+Movie;Prime Cruz;1
+Movie;Rick Morales;1
+Movie;Richard Miron;1
+Movie;Richard Phelan;1
+Movie;Rizki Balki;1
+Movie;Ananth Narayan Mahadevan;1
+Movie;Richard Sears;1
+Movie;Richard Shepard;1
+Movie;Anant Balani;1
+Movie;Richard da Costa;1
+Movie;Richard van't Riet;1
+Movie;Richie Smyth;1
+Movie;Rick Benattar;1
+Movie;Ananda Krishnan;1
+Movie;Richard Mears;1
+Movie;Ricky Staub;1
+Movie;Anand Tucker;1
+Movie;Rik Reinholdtsen;1
+Movie;Rikhil Bahadur;1
+Movie;Anand Kamalakar;1
+Movie;Riki Lindhome;1
+Movie;Rima Das;1
+Movie;Rindala Kodeih;1
+Movie;Anand Tiwari;1
+Movie;Ritu Sarin;1
+Movie;Anand Ravichandran;1
+Movie;Richard Michaels;1
+Movie;Richard Loncraine;1
+Movie;Ricardo Trogi;1
+Movie;Richard Curtis;1
+Movie;Ricardo de Montreuil;1
+Movie;Riccardo Milani;1
+Movie;Riccardo Pilizzeri;1
+Movie;Rich Moore;1
+Movie;Rich Ragsdale;1
+Movie;Richard Attenborough;1
+Movie;Anatole Litvak;1
+Movie;Richard Bates Jr.;1
+Movie;Richard Brooks;1
+Movie;Richard Claus;1
+Movie;Richard Correll;1
+Movie;Richard Donner;1
+Movie;Rob Burnett;1
+Movie;Richard Finn;1
+Movie;Richard Gabai;1
+Movie;Richard Greenberg;1
+Movie;Richard J Montoya;1
+Movie;Richard Kelly;1
+Movie;Anas Khan;1
+Movie;Rob Epstein;1
+Movie;Richard Ladkani;1
+Movie;Richard Laxton;1
+Movie;Ana Quiroga;1
+Movie;Richard Linklater;1
+Movie;Rarecho;1
+Movie;Rob W. King;1
+Movie;Raphael Erichsen;1
+Movie;Rahul Rawail;1
+Movie;Robert Cannan;1
+Movie;Rachel Talalay;1
+Movie;Radha Blank;1
+Movie;Radhika Rao;1
+Movie;Radhu Karmakar;1
+Movie;Andrew Sandler;1
+Movie;Rae Red;1
+Movie;Rahat Kazmi;1
+Movie;Rahat Rahman;1
+Movie;Rahul Dholakia;1
+Movie;Rahul Ravindran;1
+Movie;Robert C. Ramirez;1
+Movie;Rachel Mason;1
+Movie;Rai Yuvraj Bains;1
+Movie;Raj Amit Kumar;1
+Movie;Anthony Chan;1
+Movie;Raj Babu;1
+Movie;Raj Kanwar;1
+Movie;Andrew Renzi;1
+Movie;Raj Kaushal;1
+Movie;Raj Khosla;1
+Movie;Robert Berlinger;1
+Movie;Raj Mehta;1
+Movie;Raj N. Sippy;1
+Movie;Robert Clouse;1
+Movie;Rachel Lears;1
+Movie;Raoul Peck;1
+Movie;Robert Kenner;1
+Movie;André Odendaal;1
+Movie;Rita Coburn Whack;1
+Movie;Puneet Khanna;1
+Movie;Puneet Sira;1
+Movie;André D'Elia;1
+Movie;Puri Jagannadh;1
+Movie;QLF;1
+Movie;Andrew Wessels;1
+Movie;Andrew Tan;1
+Movie;Quinn Kanaly;1
+Movie;Quinn Lasher;1
+Movie;Robert Eggers;1
+Movie;Rachel Griffiths;1
+Movie;Quoc Bao Tran;1
+Movie;R. Balki;1
+Movie;Andrew Sullivan;1
+Movie;R. Kannan;1
+Movie;R.J. Daniel Hanna;1
+Movie;Andrew Stanton;1
+Movie;Raaghav Dar;1
+Movie;Robert Eagar;1
+Movie;Raam Reddy;1
+Movie;Robert Cullen;1
+Movie;Andrew Slater;1
+Movie;Raj Nidimoru;1
+Movie;Raj R;1
+Movie;Robert Bahar;1
+Movie;Ramiro Martínez;1
+Movie;Ralph Macchio;1
+Movie;Ram;1
+Movie;Andrew Fleming;1
+Movie;Raman Kumar;1
+Movie;Ramesh Sippy;1
+Movie;Ramesh Talwar;1
+Movie;Robb Dipple;1
+Movie;Ramez Silyan;1
+Movie;Rami Hachache;1
+Movie;Ramin Bahrani;1
+Movie;Rob Zombie;1
+Movie;Ramon Térmens;1
+Movie;Raja Chanda;1
+Movie;Andrew Douglas;1
+Movie;Ramzy Bedia;1
+Movie;Ramón Salazar;1
+Movie;Rana Eid;1
+Movie;Rana Ranbir;1
+Movie;Randa Chahal Sabbag;1
+Movie;Andrew Dominik;1
+Movie;Andrew Dean;1
+Movie;Ranjit Jeyakodi;1
+Movie;Ranjit Tiwari;1
+Movie;Andrew Davis;1
+Movie;Rakshith Thirthahalli;1
+Movie;Andrew Goth;1
+Movie;Andrew J. Smith;1
+Movie;Rakesh Ranjan Kumar;1
+Movie;Amy Rice;1
+Movie;Andrew Nackman;1
+Movie;Raja Menon;1
+Movie;Raja Sen;1
+Movie;Rajan Madhav;1
+Movie;Andrew Mogel;1
+Movie;Robert Aldrich;1
+Movie;Rajeev Chaudhari;1
+Movie;Rajeev Patil;1
+Movie;Rajesh Ganguly;1
+Movie;Rajesh Mapuskar;1
+Movie;Rajesh Touchriver;1
+Movie;Andrew Meier;1
+Movie;Robert Adetuyi;1
+Movie;Andrew Loo;1
+Movie;Andrew Lau Wai-keung;1
+Movie;Andrew L. Schmidt;1
+Movie;Andrew Jenks;1
+Movie;Robbie Grewal;1
+Movie;Rajshree Ojha;1
+Movie;Robbie Countryman;1
+Movie;Rajveer Singh Maan;1
+Movie;Rakesh Mehta;1
+Movie;Raj B. Shetty;1
+Movie;P.T. Kunju Muhammad;1
+Movie;Pandu Adjisurya;1
+Movie;Asim Abbasi;1
+Movie;Asri Bendacha;1
+Movie;Mickey Fonseca;1
+Movie;Mickey Liddell;1
+Movie;Midhun Manuel Thomas;1
+Movie;Miguel Alexandre;1
+Movie;Asim Raza;1
+Movie;Miguel Cohan;1
+Movie;Miguel Ángel Lamata;1
+Movie;Miguel Ángel Vivas;1
+Movie;Mijke de Jong;1
+Movie;Mika Kaurismäki;1
+Movie;Mikael Håfström;1
+Movie;Mike Disa;1
+Movie;Michelle MacLaren;1
+Movie;Mike Diva;1
+Movie;Mike Doyle;1
+Movie;Mike Elliott;1
+Movie;Mike Ezuruonye;1
+Movie;Mike Fetterly;1
+Movie;Ashu Trikha;1
+Movie;Mike Fleiss;1
+Movie;Mike Gabriel;1
+Movie;Ashraf Fayeq;1
+Movie;Mike Hodges;1
+Movie;Mike Judge;1
+Movie;Mike McCoy;1
+Movie;Michihito Fujii;1
+Movie;Michelle Johnston;1
+Movie;Mike Myhre;1
+Movie;Michael Steed;1
+Movie;Michael Polish;1
+Movie;Michael Pressman;1
+Movie;Michael Radford;1
+Movie;Michael Ritchie;1
+Movie;Michael Roberts;1
+Movie;Michael Rymer;1
+Movie;Michael Schmitt;1
+Movie;Michael Seater;1
+Movie;Athiyan Athirai;1
+Movie;Atharv Baluja;1
+Movie;Michael Socha;1
+Movie;Michael Spierig;1
+Movie;Michael Steiner;1
+Movie;Michelle Esrick;1
+Movie;Michael Thelin;1
+Movie;Atanu Mukherjee;1
+Movie;Michael Tolajian;1
+Movie;Michael Ware;1
+Movie;Michael Wech;1
+Movie;Michael Whitton;1
+Movie;Michael Winnick;1
+Movie;Michał Tylka;1
+Movie;Michel Gondry;1
+Movie;Michel Hazanavicius;1
+Movie;Michelle Bello;1
+Movie;Michelle Caputo;1
+Movie;Mike Mills;1
+Movie;Mike Nicoll;1
+Movie;Mu Chu;1
+Movie;Monique Gardenberg;1
+Movie;Mohammed Alhmly;1
+Movie;Mohammed El-Tahawy;1
+Movie;Mohammed Hussain;1
+Movie;Mohammed Saeed Harib;1
+Movie;Mohd Khairul Azri Bin Md Noor;1
+Movie;Arun Chidambaram;1
+Movie;Mohsin Ali;1
+Movie;Moinak Biswas;1
+Movie;Arthur Penn;1
+Movie;Mona Achache;1
+Movie;Monica Floyd;1
+Movie;Monika Mitchell;1
+Movie;Monière;1
+Movie;Mohammad Adel;1
+Movie;Monty Tiwa;1
+Movie;Morgan Ingari;1
+Movie;Morgan Matthews;1
+Movie;Arthur Muhammad;1
+Movie;Morgan Pehme;1
+Movie;Arthur Allan Seidelman;1
+Movie;Arthell Isom;1
+Movie;Mostafa Abu Seif;1
+Movie;Mostofa Sarwar Farooki;1
+Movie;Moto Sakakibara;1
+Movie;Motonori Sakakibara;1
+Movie;Mozez Singh;1
+Movie;Mohammad Irfan Ramly;1
+Movie;Mohamed Yassin;1
+Movie;Mike Rianda;1
+Movie;Mimi Leder;1
+Movie;Mike Rohl;1
+Movie;Mike Rossiter;1
+Movie;Ashley York;1
+Movie;Mike Wiluan;1
+Movie;Ashish R. Shukla;1
+Movie;Ashish R. Mohan;1
+Movie;Ashim Ahluwalia;1
+Movie;Milind Dhaimade;1
+Movie;Milind Rau;1
+Movie;Milla Harrison-Hansley;1
+Movie;Milton Horowitz;1
+Movie;Milton Kremer;1
+Movie;Mina Shum;1
+Movie;Arun Vaidyanathan;1
+Movie;Mir Mukarram Hossain;1
+Movie;Mir-Jean Bou Chaaya;1
+Movie;Miranda de Pencier;1
+Movie;Miriam Chandy Menacherry;1
+Movie;Mitch Dickman;1
+Movie;Mitch Gould;1
+Movie;Ash Brannon;1
+Movie;Mitzi Vanessa Arreola;1
+Movie;Moataz El Tony;1
+Movie;Aruna Raje;1
+Movie;Mohamed Khan;1
+Movie;Mohamed Mostafa;1
+Movie;Michael Pitiot;1
+Movie;Michael Petroni;1
+Movie;Michael Paul Stephenson;1
+Movie;Mayye Zayed;1
+Movie;Max Amini;1
+Movie;Max Jabs;1
+Movie;Max Joseph;1
+Movie;Max Lang;1
+Movie;Max Martini;1
+Movie;Max McGill;1
+Movie;Max Pugh;1
+Movie;Maximilian Erlenwein;1
+Movie;Maxwell McGuire;1
+Movie;Maya Forbes;1
+Movie;Maya Gallus;1
+Movie;Maya Zinshtein;1
+Movie;Maz Jobrani;1
+Movie;Austin Peck;1
+Movie;Maïa Sandoz;1
+Movie;Maïmouna Doucouré;1
+Movie;Maïwenn;1
+Movie;Austin Kolodney;1
+Movie;Meenu Gaur;1
+Movie;Megan Siler;1
+Movie;Megha Ramaswamy;1
+Movie;Meghan O'Hara;1
+Movie;Mehdi Idir;1
+Movie;Mehmet Ada Öztekin;1
+Movie;Meisa Felaroze;1
+Movie;Mel Smith;1
+Movie;Mauro Scandolari;1
+Movie;Matías Bize;1
+Movie;Atlee Kumar;1
+Movie;Matthew Atkinson;1
+Movie;Matt Kay;1
+Movie;Matt Ogens;1
+Movie;Matt Palmer;1
+Movie;Matt Piedmont;1
+Movie;Matt Reeves;1
+Movie;Matt Ross;1
+Movie;Matt Shakman;1
+Movie;Matt Thompson;1
+Movie;Matt Toronto;1
+Movie;Matt Tyrnauer;1
+Movie;Matt Wechsler;1
+Movie;Matt Whitlock;1
+Movie;Matthew Cooke;1
+Movie;Matthias Hoene;1
+Movie;Matthew Heineman;1
+Movie;Matthew Hope;1
+Movie;Matthew McManus;1
+Movie;Matthew McNeil;1
+Movie;Matthew Michael Carnahan;1
+Movie;Matthew Miele;1
+Movie;Matthew O'Callaghan;1
+Movie;Matthew Robinson;1
+Movie;Matthew Ross;1
+Movie;Matthew Salleh;1
+Movie;Matthew Shoychet;1
+Movie;Austin Stark;1
+Movie;Mel Stuart;1
+Movie;Melanie Mayron;1
+Movie;Melinda Janko;1
+Movie;Michael Jones;1
+Movie;Michael Fahey;1
+Movie;Michael Feifer;1
+Movie;Atul Kale;1
+Movie;Michael G. Kehoe;1
+Movie;Michael Gallagher;1
+Movie;Attila Till;1
+Movie;Michael Govier;1
+Movie;Michael Harte;1
+Movie;Atsuko Ishizuka;1
+Movie;Michael Jai White;1
+Movie;Michael James Regan;1
+Movie;Michael John Warren;1
+Movie;Michael Kampa;1
+Movie;Aurora Guerrero;1
+Movie;Michael Kennedy;1
+Movie;Michael Larnell;1
+Movie;Michael Lennox;1
+Movie;Michael Lockshin;1
+Movie;Michael M. Scott;1
+Movie;Michael Margolis;1
+Movie;Michael Martin;1
+Movie;Michael Mason;1
+Movie;Michael Mayer;1
+Movie;Michael Mazzola;1
+Movie;Atsajun Sattakovit;1
+Movie;Michael McNamara;1
+Movie;Michael Epstein;1
+Movie;Michael Duggan;1
+Movie;Atul Malhotra;1
+Movie;Atul Sabharwal;1
+Movie;Meng Hua Ho;1
+Movie;Merawi Gerima;1
+Movie;Mercedes Cordova;1
+Movie;Augusto Matte;1
+Movie;Mfanelo Ngoma;1
+Movie;Mic Rodgers;1
+Movie;Micah Bickham;1
+Movie;Michael A. Nickles;1
+Movie;Michael Anderson;1
+Movie;Michael Apted;1
+Movie;Michael Arias;1
+Movie;Michael Barnett;1
+Movie;Michael Barrett;1
+Movie;Augustine Frizzell;1
+Movie;Michael Blieden;1
+Movie;Michael Bonfiglio;1
+Movie;Michael Buster;1
+Movie;Michael Carney;1
+Movie;Michael Civille;1
+Movie;Michael Cristofer;1
+Movie;August Jakobsson;1
+Movie;Michael Curtiz;1
+Movie;Aubrey Powell;1
+Movie;Michael Del Monte;1
+Movie;Michael Doneger;1
+Movie;Mrighdeep Singh Lamba;1
+Movie;Muh Chen;1
+Movie;Pan Nalin;1
+Movie;Oded Raz;1
+Movie;Nottapon Boonprakob;1
+Movie;Noushad;1
+Movie;Noviandra Santosa;1
+Movie;Noé González;1
+Movie;Noël Wells;1
+Movie;Nuel Naval;1
+Movie;Nuhash Humayun;1
+Movie;Numa Perrier;1
+Movie;Nzingha Stewart;1
+Movie;Néstor Sánchez Sotelo;1
+Movie;Obaid Alhmoudi;1
+Movie;Antonio Díaz;1
+Movie;Odunlade Adekola;1
+Movie;Norton Virgien;1
+Movie;Ofir Raul Graizer;1
+Movie;Okey Oku;1
+Movie;Ola Flyum;1
+Movie;Olaf de Fleur;1
+Movie;Olav Njaastad;1
+Movie;Ole Bornedal;1
+Movie;Oleg Trofim;1
+Movie;Oliver Blackburn;1
+Movie;Oliver Bokelberg;1
+Movie;Oliver Daly;1
+Movie;Oliver Frampton;1
+Movie;Oliver Kienle;1
+Movie;Antonio Morabito;1
+Movie;Antonio Piazza;1
+Movie;Antonio Chavarrías;1
+Movie;Anuranjan Premji;1
+Movie;Nikhil Nagesh Bhat;1
+Movie;Nikhil Pherwani;1
+Movie;Niki Caro;1
+Movie;Nikkhil Advani;1
+Movie;Nils Tavernier;1
+Movie;Nima Nourizadeh;1
+Movie;Nimród Antal;1
+Movie;Nina Paley;1
+Movie;Nina Wels;1
+Movie;Nirpal Bhogal;1
+Movie;Nishanth Ravindaran;1
+Movie;Nisheeta Keni;1
+Movie;Nishil Sheth;1
+Movie;Norihisa Hiranuma;1
+Movie;Anurag Singh;1
+Movie;Anubhav Sinha;1
+Movie;Noah Moskin;1
+Movie;Noam Murro;1
+Movie;Nobuyuki Takeuchi;1
+Movie;Noel Dockstader;1
+Movie;Nonzee Nimibutr;1
+Movie;Noor Imran Mithu;1
+Movie;Nora Ephron;1
+Movie;Nora Fingscheidt;1
+Movie;Nora Twomey;1
+Movie;Norberto López Amado;1
+Movie;Oliver Schmitz;1
+Movie;Antonin Baudry;1
+Movie;Muhammad Ali;1
+Movie;Pablo Giorgelli;1
+Movie;Owll Mina;1
+Movie;Oyefunke Fayoyin;1
+Movie;Anthony Palmer;1
+Movie;P.K. Baaburaaj;1
+Movie;Rodrigo Eba;1
+Movie;Pa. Ranjith;1
+Movie;Paakhi Tyrewala;1
+Movie;Pablo Agüero;1
+Movie;Pablo Aulita;1
+Movie;Pablo Azorín Williams;1
+Movie;Pablo D'Alo Abba;1
+Movie;Pablo Faro;1
+Movie;Anthony Mandler;1
+Movie;Owen Egerton;1
+Movie;Pablo Lejarreta;1
+Movie;Pablo Martin Farina;1
+Movie;Pablo Parés;1
+Movie;Pablo Stoll;1
+Movie;Paco Aguilar;1
+Movie;Paco Arango;1
+Movie;Paco Cabezas;1
+Movie;Anthony Lucero;1
+Movie;Padraig Reynolds;1
+Movie;Page Hurwitz;1
+Movie;Pailin Wedel;1
+Movie;Pamela Romanowsky;1
+Movie;Owen Trevor;1
+Movie;Otoja Abit;1
+Movie;Antoni Krauze;1
+Movie;Anthony Veiller;1
+Movie;Olivia Milch;1
+Movie;Olivia Newman;1
+Movie;Olivier Abbou;1
+Movie;Olivier Afonso;1
+Movie;Anton Corbijn;1
+Movie;Olivier Loustau;1
+Movie;Antoine Bardou-Jacquet;1
+Movie;Olivier Megaton;1
+Movie;Olivier Nakache;1
+Movie;Olivier Roland;1
+Movie;Olly Reid;1
+Movie;Anthony Wonke;1
+Movie;Omung Kumar;1
+Movie;Otilia Portillo Padua;1
+Movie;One9;1
+Movie;Onur Bilgetay;1
+Movie;Onur Tukel;1
+Movie;Oren Peli;1
+Movie;Oren Uziel;1
+Movie;Oriol Paulo;1
+Movie;Anthony Russo;1
+Movie;Orson Welles;1
+Movie;Anthony Pierce;1
+Movie;Oskar Santos;1
+Movie;Osman Ali;1
+Movie;Ossama Abu El Atta;1
+Movie;Anusha Rizvi;1
+Movie;Nik Amir Mustapha;1
+Movie;Niels Arden Oplev;1
+Movie;Naoto Amazutsumi;1
+Movie;Nalan Kumarasamy;1
+Movie;Nam Ron;1
+Movie;Naman Nitin Mukesh;1
+Movie;Namcito;1
+Movie;Nana Ekvtimishvili;1
+Movie;Nancy Florence Savard;1
+Movie;Nancy Meyers;1
+Movie;Nancy Schwartzman;1
+Movie;Nandita Das;1
+Movie;Nanette Burstein;1
+Movie;Nanfu Wang;1
+Movie;Ariel Boles;1
+Movie;Narendra Nath;1
+Movie;Ariel Schulman;1
+Movie;Naresh Saigal;1
+Movie;Naseef Yusuf Izuddin;1
+Movie;Natalia Garagiola;1
+Movie;Natalia Valdebenito;1
+Movie;Natalie Portman;1
+Movie;Natasha Lyonne;1
+Movie;Nathan Greno;1
+Movie;Nathan Ives;1
+Movie;Nathan Landeg;1
+Movie;Nathan Morlando;1
+Movie;Nathan Wiley;1
+Movie;Nathanael Wiseman;1
+Movie;Nakul Singh Sawhney;1
+Movie;Ariel Vromen;1
+Movie;Nidhi Sharma;1
+Movie;Myriam Fares;1
+Movie;Muhammad Fadl;1
+Movie;Artemis Joukowsky;1
+Movie;Mukesh Vohra;1
+Movie;Arpan Sarkar;1
+Movie;Munish Bhardwaj;1
+Movie;Arnon Manor;1
+Movie;Murat Kepez;1
+Movie;Musing Derrick;1
+Movie;Musthafa;1
+Movie;Muzi Mthembu;1
+Movie;Myles Kane;1
+Movie;Myriam Aziza;1
+Movie;Arne Birkenstock;1
+Movie;Arjun Gourisaria;1
+Movie;Måns Herngren;1
+Movie;Arnab Chaudhuri;1
+Movie;Müfit Can Saçıntı;1
+Movie;N. Chandra;1
+Movie;Armando Iannucci;1
+Movie;N.D. Wilson;1
+Movie;Armando Croda;1
+Movie;Na Hyeon;1
+Movie;Nabil Ayouch;1
+Movie;Nacho G. Velilla;1
+Movie;Arjun Jandyala;1
+Movie;Nadine Ibrahim;1
+Movie;Nathaniel Warsh;1
+Movie;Nattawut Poonpiriya;1
+Movie;Ari Levinson;1
+Movie;Nick Mead;1
+Movie;Appie Boudellah;1
+Movie;Nicholas McCarthy;1
+Movie;Nicholas Ray;1
+Movie;Nicholas Stoller;1
+Movie;Nicholas Winter;1
+Movie;Nicholas Zeig-Owens;1
+Movie;Nicholas de Pencier;1
+Movie;Nicholaus Goossen;1
+Movie;Nick Cassavetes;1
+Movie;Apirak Samudkitpaisan;1
+Movie;Nick Davis;1
+Movie;Nick Gomez;1
+Movie;Nick Moore;1
+Movie;Navdeep Singh;1
+Movie;Nick Rowland;1
+Movie;Nick Simon;1
+Movie;Nicky Slimting Walker;1
+Movie;Nicol Paone;1
+Movie;Nicolas Brossette;1
+Movie;Nicolas Cotto;1
+Movie;Anél Stolp;1
+Movie;Nicolas Winding Refn;1
+Movie;Nicole Conn;1
+Movie;Nicole Holofcener;1
+Movie;Anvita Dutt;1
+Movie;Nicolás Silbert;1
+Movie;Nicholas Hytner;1
+Movie;Nicanor Loreti;1
+Movie;Nic Mathieu;1
+Movie;Nibal Arakji;1
+Movie;Navinder Pal Singh;1
+Movie;Navjot Gulati;1
+Movie;Navneet Behal;1
+Movie;Navot Papushado;1
+Movie;Ari Folman;1
+Movie;Naya Anindita;1
+Movie;Archie Hekagery;1
+Movie;Neeraj Ghaywan;1
+Movie;Archie Borders;1
+Movie;Neeraj Udhwani;1
+Movie;Neeraj Vora;1
+Movie;Neil Armfield;1
+Movie;Arati Kadav;1
+Movie;Neil LaBute;1
+Movie;Neil Rawles;1
+Movie;Neil Triffett;1
+Movie;Aram van de Rest;1
+Movie;Nekfeu;1
+Movie;Apurva Dhar Badgaiyann;1
+Movie;Neri Parenti;1
+Movie;Neville Shah;1
+Movie;Ng Ka-Leung;1
+Movie;Nguyen Thanh Tung;1
+Movie;April Mullen;1
+Movie;Niall Johnson;1
+Movie;Rodolphe Guenoden;1
+Movie;Rolfe Kanefsky;1
+Movie;Rodrigo Guardiola;1
+Movie;Agnidev Chatterjee;1
+Movie;Tolu Awobiyi;1
+Movie;Tolulope Itegboje;1
+Movie;Tom Barton-Humphreys;1
+Movie;Adisorn Tresirikasem;1
+Movie;Tom Edmunds;1
+Movie;Tom Elkins;1
+Movie;Tom Fassaert;1
+Movie;Adirek Wattaleela;1
+Movie;Tom Forrest;1
+Movie;Tom Gianas;1
+Movie;Tom Green;1
+Movie;Tom Holland;1
+Movie;Adele K. Thomas;1
+Movie;Tom McCarthy;1
+Movie;Adekunle Nodash Adejuyigbe;1
+Movie;Tom O'Brien;1
+Movie;Tom O'Dell;1
+Movie;Adarsh Eshwarappa;1
+Movie;Tom Stern;1
+Movie;Tom Stubberfield;1
+Movie;Tom Tykwer;1
+Movie;Tom Whitter;1
+Movie;Tom Whitworth;1
+Movie;Tomas Brickhill;1
+Movie;Tomas Portella;1
+Movie;Tomasz Mandes;1
+Movie;Tomer Eshed;1
+Movie;Tolga Örnek;1
+Movie;Tolga Karaçelik;1
+Movie;Todor Chapkanov;1
+Movie;Tinge Krishnan;1
+Movie;Agasyah Karim;1
+Movie;Afonso Poyart;1
+Movie;Tim Neeves;1
+Movie;Tim Rouhana;1
+Movie;Tim Skousen;1
+Movie;Afia Nathaniel;1
+Movie;Tim Van Someren;1
+Movie;Advait Chandan;1
+Movie;Timo Vuorensola;1
+Movie;Timothy Reckart;1
+Movie;Timothy Ware-Hill;1
+Movie;Adriana Trigiani;1
+Movie;Tinnu Anand;1
+Movie;Todd Wilderman;1
+Movie;Tinu Pappachan;1
+Movie;Tirumala Kishore;1
+Movie;To-hoi Kong;1
+Movie;Adrian Murray;1
+Movie;Tobe Hooper;1
+Movie;Toby Trackman;1
+Movie;Todd Biermann;1
+Movie;Todd Haynes;1
+Movie;Aditya Vikram Sengupta;1
+Movie;Todd S. Yellin;1
+Movie;Todd Standing;1
+Movie;Todd Wider;1
+Movie;Tomer Heymann;1
+Movie;Tomm Moore;1
+Movie;Tommy Avallone;1
+Movie;Tsutomu Mizushima;1
+Movie;Adam Randall;1
+Movie;Trey Haley;1
+Movie;Trey Nelson;1
+Movie;Trey Parker;1
+Movie;Trish Sie;1
+Movie;Trisha Ziff;1
+Movie;Tristan Ferland Milewski;1
+Movie;Adam Nimoy;1
+Movie;Troy Byer;1
+Movie;Adam Nee;1
+Movie;Troy Nixey;1
+Movie;Trudie Styler;1
+Movie;Adam Marino;1
+Movie;Trevor Nunn;1
+Movie;Tudor Giurgiu;1
+Movie;Tugçe Soysop;1
+Movie;Tunde Apalowo;1
+Movie;Tyler Greco;1
+Movie;Adam MacDonald;1
+Movie;Adam Leon;1
+Movie;Tània Balló;1
+Movie;Udai Singh Pawar;1
+Movie;Udoka Oyeka;1
+Movie;Uduak-Obong Patrick;1
+Movie;Ui-seok Jo;1
+Movie;Adam Larson Broder;1
+Movie;Trevor Ryan;1
+Movie;Trent Haaga;1
+Movie;Tommy Chong;1
+Movie;Tony Stone;1
+Movie;Tommy O'Haver;1
+Movie;Tommy Wirkola;1
+Movie;Tomoki Kyoda;1
+Movie;Tomotaka Shibayama;1
+Movie;Tony Abulu;1
+Movie;Tony Bancroft;1
+Movie;Tony Datis;1
+Movie;Tony Elliott;1
+Movie;Adam Wood;1
+Movie;Tony Kaye;1
+Movie;Tony Leondis;1
+Movie;Adam Wingard;1
+Movie;Tony Zierra;1
+Movie;Travon Free;1
+Movie;Tope Alake;1
+Movie;Adam Smith;1
+Movie;Torquil Jones;1
+Movie;Adam Sjöberg;1
+Movie;Toshiyuki Kanno;1
+Movie;Adam Schlesinger;1
+Movie;Toshiyuki Tsuru;1
+Movie;Tosin Coker;1
+Movie;Adam Salky;1
+Movie;Toyin Abraham;1
+Movie;Travis Stevens;1
+Movie;Travis Zariwny;1
+Movie;Tim Hill;1
+Movie;Tim Blake Nelson;1
+Movie;Rodrigo Reyes;1
+Movie;Tim Bartley;1
+Movie;Ajithkumar;1
+Movie;Ajay Phansekar;1
+Movie;TT The Artist;1
+Movie;Tade Ogidan;1
+Movie;Takanobu Mizuno;1
+Movie;Takashi Doscher;1
+Movie;Takashi Shimizu;1
+Movie;Takashi Yamazaki;1
+Movie;Takeru Nakajima;1
+Movie;Takeshi Fukunaga;1
+Movie;Takeshi Nozue;1
+Movie;Taketoshi Sado;1
+Movie;Takuma Sato;1
+Movie;Takuya Inaba;1
+Movie;Tamara Jenkins;1
+Movie;Tamas Yvan Topolanszky;1
+Movie;Tamer Bassiouni;1
+Movie;Tamta Gabrichidze;1
+Movie;Tan Bing;1
+Movie;Tanawat Aiemjinda;1
+Movie;Tanit Jitnukul;1
+Movie;Tanuj Bhramar;1
+Movie;Tanuj Chopra;1
+Movie;Ajay Bahl;1
+Movie;Tanveer Khan;1
+Movie;Tanvir Ahsan;1
+Movie;Tanwarin Sukkhapisit;1
+Movie;Sırrı Süreyya Önder;1
+Movie;Sébastien Betbeder;1
+Movie;Akashdeep;1
+Movie;Swapna Waghmare Joshi;1
+Movie;Susan Lacy;1
+Movie;Susan Lambert;1
+Movie;Susan Walter;1
+Movie;Susannah Heath-Eves;1
+Movie;Akin Omotoso;1
+Movie;Susanne Bier;1
+Movie;Suseenthiran;1
+Movie;Sushil Majumdar;1
+Movie;Sushrut Jain;1
+Movie;Suzanne Coote;1
+Movie;Svati Chakravarty Bhatkal;1
+Movie;Svetlana Cvetko;1
+Movie;Akihiko Yamashita;1
+Movie;Akay Mason;1
+Movie;Syamsul Yusof;1
+Movie;Sydney Freeland;1
+Movie;Sydney Pollack;1
+Movie;Sydney Sibilia;1
+Movie;Syed Ahmad Afzal;1
+Movie;Syed Ahmed Shawki;1
+Movie;Syed Atif Ali;1
+Movie;Syed Saleh Ahmed Sobhan;1
+Movie;Sylvain Blais;1
+Movie;Sylvain White;1
+Movie;Akhil Paul;1
+Movie;Akhigbe Ilozobhie;1
+Movie;Taranveer Singh;1
+Movie;Tarek Abdel Moaty;1
+Movie;Tariq Alkazim;1
+Movie;Ahmed El Gendy;1
+Movie;Ahmed Siddiqui;1
+Movie;Theodore Melfi;1
+Movie;Theodore Witcher;1
+Movie;Thiagarajan Kumararaja;1
+Movie;Thierry Demaizière;1
+Movie;Ahmed Saleh;1
+Movie;Ahmed Medhat;1
+Movie;Thom Fitzgerald;1
+Movie;Thom Zimny;1
+Movie;Thomas Astruc;1
+Movie;Thomas Carter;1
+Movie;Thomas Meadmore;1
+Movie;Thomas Sorriaux;1
+Movie;Theo Davies;1
+Movie;Thomas Stuber;1
+Movie;Thomas Toby Parkinson;1
+Movie;Thomas Vinterberg;1
+Movie;Thor Freudenthal;1
+Movie;Thurop Van Orman;1
+Movie;Ti West;1
+Movie;Tianyu Zhao;1
+Movie;Ticoy Rodriguez;1
+Movie;Tiffanie Hsu;1
+Movie;Tig Notaro;1
+Movie;Ahmad Samir Farag;1
+Movie;Agustí Villaronga;1
+Movie;Theo Love;1
+Movie;Tharun Bhascker;1
+Movie;Tariq Khan;1
+Movie;Teddy Chan;1
+Movie;Taron Lexton;1
+Movie;Ainsley Gardiner;1
+Movie;Aijaz Khan;1
+Movie;Ahsan Rahim;1
+Movie;Tathagata Banerjee;1
+Movie;Tatsushi Omori;1
+Movie;Taylor Hackford;1
+Movie;Taylor Morden;1
+Movie;Taylor Sheridan;1
+Movie;Ted Braun;1
+Movie;Ahn Byoung-wook;1
+Movie;Ted Geoghegan;1
+Movie;Teddy Lussi-Modeste;1
+Movie;Thanabodee Uawithya;1
+Movie;Tejas Prabha Vijay Deoskar;1
+Movie;Tekin Girgin;1
+Movie;Teng Huatao;1
+Movie;Tensai Okamura;1
+Movie;Tenzing Sonam;1
+Movie;Teo Konuralp;1
+Movie;Terri Randall;1
+Movie;Terrie Samundra;1
+Movie;Terry Hughes;1
+Movie;Ahmed Yousry;1
+Movie;Terry Loane;1
+Movie;Tetsuo Yajima;1
+Movie;Ulrike Kofler;1
+Movie;Umer Adil;1
+Movie;Umesh Bist;1
+Movie;Umesh Ghadge;1
+Movie;Xiao Feng;1
+Movie;Xiaoxing Yi;1
+Movie;Xu Zhang;1
+Movie;Y. Joon Chung;1
+Movie;Yacine Belhousse;1
+Movie;Yance Ford;1
+Movie;Yandy Laurens;1
+Movie;Yang Lei;1
+Movie;Yang Woo-seok;1
+Movie;Yann Arthus-Bertrand;1
+Movie;Yann Gozlan;1
+Movie;Yanyong Kuruaungkoul;1
+Movie;Yarrow Cheney;1
+Movie;Yasir Al Yasiri;1
+Movie;Yasir Nawaz;1
+Movie;Aaron Woodley;1
+Movie;Yasushi Kawamura;1
+Movie;Yasushi Muraki;1
+Movie;Yayo Herrero;1
+Movie;Yee Tung-Shing;1
+Movie;Yemi Amodu;1
+Movie;Yen Cheng-kuo;1
+Movie;Yeo Siew Hua;1
+Movie;Yesim Ustaoglu;1
+Movie;Yeung Yat-Tak;1
+Movie;Yibrán Asuad;1
+Movie;Yin Chen-hao;1
+Movie;Xavier Manrique;1
+Movie;Xavier Maingon;1
+Movie;Xavier Gens;1
+Movie;Abbas Mustan;1
+Movie;Will Lovelace;1
+Movie;Will Lowell;1
+Movie;Will McCormack;1
+Movie;Abdellatif Kechiche;1
+Movie;William Bindley;1
+Movie;Abby Epstein;1
+Movie;William Eubank;1
+Movie;William Friedkin;1
+Movie;William H. Macy;1
+Movie;William Kaufman;1
+Movie;Abbas Tyrewala;1
+Movie;William Monahan;1
+Movie;Wilson Coneybeare;1
+Movie;Xavier Durringer;1
+Movie;Wim Bonte;1
+Movie;Wim Wenders;1
+Movie;Wojciech Marczewski;1
+Movie;Aatmaram Dharne;1
+Movie;Wong Fei-Pang;1
+Movie;Aaron Woolf;1
+Movie;Wong Kar Wai;1
+Movie;Woo Min-ho;1
+Movie;Woo Ming Jin;1
+Movie;Woody Allen;1
+Movie;Wyatt Cenac;1
+Movie;Wynn Padula;1
+Movie;Yoav Paz;1
+Movie;Yoo Byung-jae;1
+Movie;Yoon Sung-hyun;1
+Movie;Zune Kwok;1
+Movie;Zeke Norton;1
+Movie;Zhang Chong;1
+Movie;Zhang Yimou;1
+Movie;Zhao Ji;1
+Movie;Ziad Doueiri;1
+Movie;Ziga Virc;1
+Movie;Ziggy Hofmeyr;1
+Movie;Aamir Khan;1
+Movie;Zoe Lister-Jones;1
+Movie;Aamir Bashir;1
+Movie;Zsolt Pálfi;1
+Movie;Zuko Nodada;1
+Movie;Aadish Keluskar;1
+Movie;Zatella Beatty;1
+Movie;Álvaro Brechner;1
+Movie;Álvaro Delgado-Aparicio L.;1
+Movie;Álvaro Longoria;1
+Movie;Ángel Gómez Hernández;1
+Movie;Ángeles Reiné;1
+Movie;Çagan Irmak;1
+Movie;Éric Judor;1
+Movie;Éric Toledano;1
+Movie;Éric Warin;1
+Movie;Ísold Uggadóttir;1
+Movie;Óskar Thór Axelsson;1
+Movie;A. Salaam;1
+Movie;Zeek Earl;1
+Movie;Zara Hayes;1
+Movie;Aaron Nee;1
+Movie;Yuki Yamato;1
+Movie;Yoshitaka Takeuchi;1
+Movie;Yoshiyuki Okada;1
+Movie;Aaron Lieber;1
+Movie;You-Jeong Chang;1
+Movie;Young Jun Lee;1
+Movie;Younuts!;1
+Movie;Aaron Hann;1
+Movie;Yu Yang;1
+Movie;Yudai Yamaguchi;1
+Movie;Yuen Wo-Ping;1
+Movie;Yuen Woo-ping;1
+Movie;Yuki Tanada;1
+Movie;Yulene Olaizola;1
+Movie;Zakariya;1
+Movie;Yusuf Pirhasan;1
+Movie;Yuval Adler;1
+Movie;Yvan Attal;1
+Movie;Aaron Hancox;1
+Movie;Zach Braff;1
+Movie;Zach Clark;1
+Movie;Zach Lipovsky;1
+Movie;Zachary Heinzerling;1
+Movie;Aaron Burns;1
+Movie;Zack Whedon;1
+Movie;Zackary Canepari;1
+Movie;Aanand Rai;1
+Movie;Will Lockhart;1
+Movie;Will Graham;1
+Movie;Abdul Aziz Hashad;1
+Movie;Vidhu Vinod Chopra;1
+Movie;Vibhu Virender Puri;1
+Movie;Vic Armstrong;1
+Movie;Vicente Villanueva;1
+Movie;Adam Davis;1
+Movie;Vicky Wight;1
+Movie;Victor Cook;1
+Movie;Victor Dal Chele;1
+Movie;Victor Gatonye;1
+Movie;Victor Levin;1
+Movie;Victor Vu;1
+Movie;Victor Zarcoff;1
+Movie;Victoria Bromley;1
+Movie;Vijay;1
+Movie;Vetrimaaran;1
+Movie;Vijay Jayapal;1
+Movie;Vijay Kumar;1
+Movie;Vijay Kumar Arora;1
+Movie;Vijay Lalwani;1
+Movie;Vijay Maurya;1
+Movie;Vijay Milton;1
+Movie;Vijay Yelakanti;1
+Movie;Viju Mane;1
+Movie;Adam Darke;1
+Movie;Adam Collins;1
+Movie;Vikram Gandhi;1
+Movie;Vikram Pradhan;1
+Movie;Vibeke Idsøe;1
+Movie;Veronica Velasco;1
+Movie;Adam Bolt;1
+Movie;V. K. Prakash;1
+Movie;Adam Egypt Mortimer;1
+Movie;Adam Dubin;1
+Movie;Umut Aral;1
+Movie;Umut Kirca;1
+Movie;Unjoo Moon;1
+Movie;Adam Deyoe;1
+Movie;Uraaz Bahl;1
+Movie;Uriel Sinai;1
+Movie;Uttung Shelar;1
+Movie;Uwe Boll;1
+Movie;V C Abhilash;1
+Movie;Adam Del Giudice;1
+Movie;V. Scott Balcerek;1
+Movie;Venugopan;1
+Movie;Vadim Jean;1
+Movie;Valeria Golino;1
+Movie;Valeria Pivato;1
+Movie;Valli Bindana;1
+Movie;Van M. Pham;1
+Movie;Vandana Kataria;1
+Movie;Vanessa Nöcker;1
+Movie;Vanita Shastry;1
+Movie;Varun Narvekar;1
+Movie;Vasan Bala;1
+Movie;Venkatesh Maha;1
+Movie;Venky Kudumula;1
+Movie;Vikram Tanajirao Patil;1
+Movie;Vinay Bharadwaj;1
+Movie;Will Forbes;1
+Movie;Abhay Chopra;1
+Movie;Víctor García;1
+Movie;Wade Allain-Marcus;1
+Movie;Abhishek Varman;1
+Movie;Abhishek Saxena;1
+Movie;Wagner de Assis;1
+Movie;Walerian Borowczyk;1
+Movie;Wally Pfister;1
+Movie;Abhinav Shiv Tiwari;1
+Movie;Abhijit Kokate;1
+Movie;Abhijeet Deshpande;1
+Movie;Wash Westmoreland;1
+Movie;Waymon Boone;1
+Movie;Wayne Orr;1
+Movie;Vondie Curtis-Hall;1
+Movie;Weica Wang;1
+Movie;Wendy Jo Carlton;1
+Movie;Abel Ferrara;1
+Movie;Abdullah Al Noor;1
+Movie;Abdulaziz Alshlahei;1
+Movie;White Trash Tyler;1
+Movie;Wi Ding Ho;1
+Movie;Will Allen;1
+Movie;Will Becher;1
+Movie;Will Canon;1
+Movie;Will Eisenberg;1
+Movie;Will Eubank;1
+Movie;Vrinda Samartha;1
+Movie;Vonda Harrell;1
+Movie;Vinay Sapru;1
+Movie;Achille Brice;1
+Movie;Vince Gilligan;1
+Movie;Adam Bhala Lough;1
+Movie;Vincent Kok;1
+Movie;Vincent Perez;1
+Movie;Vincent Ward;1
+Movie;Vincente Minnelli;1
+Movie;Vincenzo Natali;1
+Movie;Vineeth Anil;1
+Movie;Adam B. Stein;1
+Movie;Vinod Kapri;1
+Movie;Vipin Parashar;1
+Movie;Adam Alleca;1
+Movie;Viridiana Lieberman;1
+Movie;Volker Weicker;1
+Movie;Abu Bakr Shawky;1
+Movie;Vishal Mahadkar;1
+Movie;Vishal Mishra;1
+Movie;Vishnu Govindhan;1
+Movie;Vishwesh Krishnamoorthy;1
+Movie;Visute Poolvoralaks;1
+Movie;Vitor Brandt;1
+Movie;Vivek Agnihotri;1
+Movie;Vivek Wagh;1
+Movie;Abosi Ogba;1
+Movie;Abir Sengupta;1
+Movie;Volker Arzt;1
+Movie;Akira Saitoh;1
+Movie;Susan Glatzer;1
+Movie;Surya S.J.;1
+Movie;Sergei Bodrov;1
+Movie;Sandy Chronopoulos;1
+Movie;Alina Teodorescu;1
+Movie;Alik Sakharov;1
+Movie;Sanjay Dayma;1
+Movie;Sanjay Gupta;1
+Movie;Alicky Sussman;1
+Movie;Sanjay Leela Bhansali;1
+Movie;Sanjay Patel;1
+Movie;Sanjay Soorkar;1
+Movie;Sanjeev Gupta;1
+Movie;Sanjib Dey;1
+Movie;Sanjiv Jaiswal;1
+Movie;Santhosh Viswanath;1
+Movie;Santiago Alvarado Ilarri;1
+Movie;Santiago Diaz;1
+Movie;Santosh Manjrekar;1
+Movie;Alice Wu;1
+Movie;Santram Varma;1
+Movie;Santwana Bardoloi;1
+Movie;Alice Waddington;1
+Movie;Sara Dosa;1
+Movie;Alice Rohrwacher;1
+Movie;Alice Mathias;1
+Movie;Sarah Holt;1
+Movie;Sarah Kruchowski;1
+Movie;Sarah Moshman;1
+Movie;Sarah Smith;1
+Movie;Sandra Restrepo;1
+Movie;Sandi Tan;1
+Movie;Sandeep Reddy Vanga;1
+Movie;Sameer Patil;1
+Movie;Allan Jacobsen;1
+Movie;Sam O'Steen;1
+Movie;Sam Patton;1
+Movie;Alka Amarkant Dubey;1
+Movie;Sam Rega;1
+Movie;Sam Taylor-Johnson;1
+Movie;Sam Upton;1
+Movie;Sam Voutas;1
+Movie;Alison MacLean;1
+Movie;Sam de Jong;1
+Movie;Samar Khan;1
+Movie;Samar Shaikh;1
+Movie;Sameer Sharma;1
+Movie;Sandeep Mohan;1
+Movie;Alison E. Rose;1
+Movie;Samir Al Asfory;1
+Movie;Samir Karnik;1
+Movie;Samir Soni;1
+Movie;Samit Basu;1
+Movie;Samit Kakkad;1
+Movie;Sammaria Sari Simanjuntak;1
+Movie;Samu Fuentes;1
+Movie;Samuel D. Pollard;1
+Movie;Samuel Jouy;1
+Movie;Samuel Olatunji;1
+Movie;Sandeep Chatterjee;1
+Movie;Alice Filippi;1
+Movie;Saravana Rajan;1
+Movie;Saravana Rajendran;1
+Movie;Sebastian DiNatale;1
+Movie;Scott Walker;1
+Movie;Scott Waugh;1
+Movie;Alfonso Rodríguez;1
+Movie;Sean Anders;1
+Movie;Sean Baker;1
+Movie;Alfonso Cortés-Cavanillas;1
+Movie;Sean Foley;1
+Movie;Sean Hanish;1
+Movie;Alfonso Arau;1
+Movie;Sean Menard;1
+Movie;Sean Olson;1
+Movie;Alfons Adetuyi;1
+Movie;Sebastian Gutierrez;1
+Movie;Scott Spiegel;1
+Movie;Sebastian Jones;1
+Movie;Sebastián Hofmann;1
+Movie;Alexis Almström;1
+Movie;Sedat Kirtan;1
+Movie;Seema Pahwa;1
+Movie;Seiji Mizushima;1
+Movie;Alexandros Avranas;1
+Movie;Selima Taibi;1
+Movie;Selvamani Selvaraj;1
+Movie;Alexandre Reinecke;1
+Movie;Selçuk Metin;1
+Movie;Semi Chellas;1
+Movie;Alfonso Serrano Maturino;1
+Movie;Scott Speer;1
+Movie;Sarik Andreasyan;1
+Movie;Ali Scher;1
+Movie;Sarjun;1
+Movie;Saron Sakina;1
+Movie;Sartaj Singh Pannu;1
+Movie;Sarthak Dasgupta;1
+Movie;Sathyan Anthikad;1
+Movie;Ali Yorgancıoğlu;1
+Movie;Satish Manwar;1
+Movie;Ali Tabrizi;1
+Movie;Saul Dibb;1
+Movie;Saurabh Kabra;1
+Movie;Saurabh Sinha;1
+Movie;Saurav Palodhi;1
+Movie;Saw Teong Hin;1
+Movie;Scott Pleydell-Pearce;1
+Movie;Scot Armstrong;1
+Movie;Scot McFadyen;1
+Movie;Ali Samadi Ahadi;1
+Movie;Scott Christian Sava;1
+Movie;Scott Cooper;1
+Movie;Scott Hussion;1
+Movie;Scott Marshall Smith;1
+Movie;Scott Martin;1
+Movie;Scott McAboy;1
+Movie;Ali Bin Matar;1
+Movie;Alfred Gimeno;1
+Movie;Scott Mosier;1
+Movie;Sam Macaroni;1
+Movie;Sam Loh;1
+Movie;Allan Ungar;1
+Movie;Ross R. Shuman;1
+Movie;Amber Tamblyn;1
+Movie;Amarpreet G S Chabbra;1
+Movie;Ron Krauss;1
+Movie;Amarjit Virdi;1
+Movie;Amardeep Singh Gill;1
+Movie;Ron Underwood;1
+Movie;Ronna Gradus;1
+Movie;Rosa Márquez;1
+Movie;Ross Adam;1
+Movie;Amara Cash;1
+Movie;Ross Hockrow;1
+Movie;Amar Kaushik;1
+Movie;Ross Venokur;1
+Movie;Roman White;1
+Movie;Rowan Athale;1
+Movie;Roxanne Benjamin;1
+Movie;Roy Allen Smith;1
+Movie;Roy Boulting;1
+Movie;Roy Burdine;1
+Movie;Roy Campanella II;1
+Movie;Roy Poortmans;1
+Movie;Amar Gupte;1
+Movie;Rucha Humnabadkar;1
+Movie;Ruchi Narain;1
+Movie;Rudge Campos;1
+Movie;Rudradeep Bhattacharjee;1
+Movie;Ron Clements;1
+Movie;Roman Polański;1
+Movie;Amanda Raymond;1
+Movie;Roger Spottiswoode;1
+Movie;Rodrigo Salomón;1
+Movie;Rodrigo Toro;1
+Movie;Rodrigo Triana;1
+Movie;Amit Saxena;1
+Movie;Roel Reiné;1
+Movie;Amit Roy;1
+Movie;Roger Christian;1
+Movie;Amit Rai;1
+Movie;Roger Graef;1
+Movie;Roger Gual;1
+Movie;Amit Barot;1
+Movie;Roger Russell;1
+Movie;Roger Young;1
+Movie;Roman Polanski;1
+Movie;Rohan Sippy;1
+Movie;Rohena Gera;1
+Movie;Amir Mohiuddin;1
+Movie;Rohit Mittal;1
+Movie;Amir Galvan Cervera;1
+Movie;Amin Dora;1
+Movie;Matt D'Elia;1
+Movie;Roly Santos;1
+Movie;Romain Gavras;1
+Movie;Roman Atwood;1
+Movie;Roman Coppola;1
+Movie;Roman Gackowski;1
+Movie;Amandha Wyanto;1
+Movie;Rupert Jones;1
+Movie;Sam Levinson;1
+Movie;Saket Behl;1
+Movie;Alo Sarkar;1
+Movie;Sachin Kamlakar Khot;1
+Movie;Sachin Kundalkar;1
+Movie;Almunsif Alsuwaisi;1
+Movie;Sadeq Behbehani;1
+Movie;Saeed Hamed;1
+Movie;Safdar Rahman;1
+Movie;Sagar Sarhadi;1
+Movie;Saheed Arafath;1
+Movie;Sai Paranjape;1
+Movie;Saji Surendran;1
+Movie;Sajid Khan;1
+Movie;Almudena Carracedo;1
+Movie;Sacha Gervasi;1
+Movie;Salim Akil;1
+Movie;Salima Koroma;1
+Movie;Sally Potter;1
+Movie;Salmeen AlMurry Amer;1
+Movie;Alma Har'el;1
+Movie;Salvador Espinosa;1
+Movie;"Sam ""Blitz"" Bazawule";1
+Movie;Sam Cullman;1
+Movie;Allen Hughes;1
+Movie;Sam Fell;1
+Movie;Allen Coulter;1
+Movie;Sam Irvin;1
+Movie;Sacha Wolff;1
+Movie;Sabu Varghese;1
+Movie;Rush Sturges;1
+Movie;Ryu Jung-woo;1
+Movie;Rushmore DeNooyer;1
+Movie;Russell Crowe;1
+Movie;Amanda Micheli;1
+Movie;Rusty Nixon;1
+Movie;Ry Russo-Young;1
+Movie;Amalie Næsby Fick;1
+Movie;Ryan Crego;1
+Movie;Ryan Fleck;1
+Movie;Ryan Koo;1
+Movie;Ryan Moody;1
+Movie;Amal Neerad;1
+Movie;Amaan Khan;1
+Movie;Ryuichi Hiroki;1
+Movie;Sabrina Rochelle Kalangie;1
+Movie;Ryuichi Yagi;1
+Movie;Rémy Four;1
+Movie;S. Shankar;1
+Movie;S.A. Zaidi;1
+Movie;Alê Abreu;1
+Movie;Alphonso J. Wesson;1
+Movie;Saandeep Patel;1
+Movie;Saara Cantell;1
+Movie;Sabaah Folayan;1
+Movie;Sabal Singh Shekawat;1
+Movie;Sabina Fedeli;1
+Movie;Sabir Khan;1
+Movie;Serge Ou;1
+Movie;Sergio Barrejón;1
+Movie;Suresh Pillai;1
+Movie;Sergio Goyri Jr.;1
+Movie;Stephen Cone;1
+Movie;Albert Hughes;1
+Movie;Stephen Donnelly;1
+Movie;Alban Teurlai;1
+Movie;Stephen Gyllenhaal;1
+Movie;Alastair Fothergill;1
+Movie;Stephen Hopkins;1
+Movie;Stephen Kijak;1
+Movie;Stephen S. Campanelli;1
+Movie;Steve Antin;1
+Movie;Alankrita Shrivastava;1
+Movie;Steve Barker;1
+Movie;Steve Barron;1
+Movie;Steve Bencich;1
+Movie;Steve Boettcher;1
+Movie;Alana Waksman;1
+Movie;Alan Yang;1
+Movie;Steve Cheng;1
+Movie;Alan Rickman;1
+Movie;Steve Hickner;1
+Movie;Steve Loter;1
+Movie;Steve McLean;1
+Movie;Alan Parker;1
+Movie;Steve Pink;1
+Movie;Steve Race;1
+Movie;Steve Rash;1
+Movie;Steve Rolston;1
+Movie;Albert Sharpe;1
+Movie;Alberto Arnaut Estrada;1
+Movie;Stephen Chbosky;1
+Movie;Alejandra Márquez Abella;1
+Movie;Soumendra Padhi;1
+Movie;Soumitra Ranade;1
+Movie;Aleksey German;1
+Movie;Alejandro Ruax;1
+Movie;Sridhar Jetty;1
+Movie;Alejandro Martinez-Beltran;1
+Movie;Srivinay Salian;1
+Movie;Stacia Crawford;1
+Movie;Alejandro G. Iñárritu;1
+Movie;Stacy Title;1
+Movie;Alejandro De Grazia;1
+Movie;Stanley Menino D'Costa;1
+Movie;Alberto Rodríguez;1
+Movie;Stephen Amezdroz;1
+Movie;Stefan Aust;1
+Movie;Stefan Moore;1
+Movie;Stefan Westerwelle;1
+Movie;Stefano Mordini;1
+Movie;Stefano Sollima;1
+Movie;Stefon Bristol;1
+Movie;Stella Corradi;1
+Movie;Stephan Rick;1
+Movie;Stephanie Laing;1
+Movie;Stephanie Soechtig;1
+Movie;Stephanie Turner;1
+Movie;Stephanie Zwane;1
+Movie;Alan Mak;1
+Movie;Steve Saint Leger;1
+Movie;Steven Bognar;1
+Movie;Suman Mukhopadhyay;1
+Movie;Alaa Eddine Aljem;1
+Movie;Sudhish Kamath;1
+Movie;Sudip Bandyopadhyay;1
+Movie;Sudipto Roy;1
+Movie;Sue Ding;1
+Movie;Sue Kim;1
+Movie;Al Campbell;1
+Movie;Sujeeth;1
+Movie;Akshay Shankar;1
+Movie;Sukhbir Singh;1
+Movie;Sukum Maetawanitch;1
+Movie;Suman Ghosh;1
+Movie;Akshay Sanjeev Chavan;1
+Movie;Alain Darborg;1
+Movie;Akshay Akkineni;1
+Movie;Sunao Katabuchi;1
+Movie;Akram Farouk;1
+Movie;Sung Do-jun;1
+Movie;Sung-soo Kim;1
+Movie;Sunil Kumar Agrawal;1
+Movie;Sunil Soraya;1
+Movie;Akiyuki Shinbo;1
+Movie;Sunil Thakur;1
+Movie;Sunkanmi Adebayo;1
+Movie;Akiva Goldsman;1
+Movie;Supavitra Babul;1
+Movie;Sudhanshu Saria;1
+Movie;Sudabeh Mortezai;1
+Movie;Alan J. Pakula;1
+Movie;Stig Bergqvist;1
+Movie;Alan Hicks;1
+Movie;Steven Fine;1
+Movie;Steven Gomez;1
+Movie;Steven Knight;1
+Movie;Steven R. Monroe;1
+Movie;Steven Rinella;1
+Movie;Alan Alda;1
+Movie;Alain Gagnol;1
+Movie;Steven Tsuchida;1
+Movie;Steven Yamamoto;1
+Movie;Steven Zaillian;1
+Movie;Stevie Wermers;1
+Movie;Stijn Verlinde;1
+Movie;Subhash Kapoor;1
+Movie;Stinus Morell Vithner;1
+Movie;Storm Saulter;1
+Movie;Storm Theunissen;1
+Movie;Stu Livingston;1
+Movie;Stuart Baird;1
+Movie;Stuart Heisler;1
+Movie;Stuart Rosenberg;1
+Movie;Stuart Sender;1
+Movie;Stuart Stone;1
+Movie;Stéphane Berla;1
+Movie;Stéphane de Freitas;1
+Movie;Alain Desrochers;1
+Movie;Soukarya Ghosal;1
+Movie;Aleksey Tsitsilin;1
+Movie;Sorin Dan Mihalcescu;1
+Movie;Shaz Bennett;1
+Movie;Shari Springer Berman;1
+Movie;Sharmeen Obaid-Chinoy;1
+Movie;Sharon Shattuck;1
+Movie;Alex Stapleton;1
+Movie;Shashilal K. Nair;1
+Movie;Shaul Schwarz;1
+Movie;Shaun Mir;1
+Movie;Alex Smith;1
+Movie;Shawn Arranha;1
+Movie;Shawn Crahan;1
+Movie;Alex Richanbach;1
+Movie;Shawn Rech;1
+Movie;Shazia Ali Khan;1
+Movie;Sharan Koppisetty;1
+Movie;Shazia Javed;1
+Movie;Sheena M. Joyce;1
+Movie;Shekhar Kapur;1
+Movie;Shelly Chopra Dhar;1
+Movie;Alex Ranarivelo;1
+Movie;Sherif Ismail;1
+Movie;Sherif Mandour;1
+Movie;Shikha Makan;1
+Movie;Shin-yeon Won;1
+Movie;Alex Parkinson;1
+Movie;Shinji Takagi;1
+Movie;Alex Law;1
+Movie;Sharan Sharma;1
+Movie;Shantrelle P. Lewis;1
+Movie;Shivendra Singh Dungarpur;1
+Movie;Shady Hanna;1
+Movie;Alexandre Heboyan;1
+Movie;Sergio Pablos;1
+Movie;Alexandre Espigares;1
+Movie;Seth Fuller;1
+Movie;Seth Gordon;1
+Movie;Seth Henrikson;1
+Movie;Seth Rogen;1
+Movie;Shaad Ali;1
+Movie;Shadab Khan;1
+Movie;Shadae Lamar Smith;1
+Movie;Shadi Ali;1
+Movie;Shady Ali;1
+Movie;Shagufta Rafique;1
+Movie;Alex Winter;1
+Movie;Shaina Allen;1
+Movie;Alexandra Dean;1
+Movie;Alexander Smith;1
+Movie;Shammi Kapoor;1
+Movie;Shamyl Othman;1
+Movie;Shamzu Zayba;1
+Movie;Shan Hua;1
+Movie;Shanavas K. Bavakutty;1
+Movie;Shanawaz Nellikunnil;1
+Movie;Shane Acker;1
+Movie;Shanjey Kumar Perumal;1
+Movie;Shanker Raman;1
+Movie;Alex Israel;1
+Movie;Alex Infascelli;1
+Movie;Sopon Sukdapisit;1
+Movie;Sohail Khan;1
+Movie;Sinan Akkuş;1
+Movie;Sion Sono;1
+Movie;Sita Likitvanichkul;1
+Movie;Sittisiri Mongkolsiri;1
+Movie;Siu-hung Chung;1
+Movie;Skye Borgman;1
+Movie;Alessandro Pepe;1
+Movie;Smriti Keshari;1
+Movie;Sneha Taurani;1
+Movie;So Yong Kim;1
+Movie;Alessandro Angulo;1
+Movie;Sofie Šustková;1
+Movie;Sohail Tatari;1
+Movie;Alessio Cremonini;1
+Movie;Soham Shah;1
+Movie;Songyos Sugmakanan;1
+Movie;Sonia Dauger;1
+Movie;Sonia Kennebeck;1
+Movie;Sonia Lowman;1
+Movie;Sonny Mallhi;1
+Movie;Sonny Marler;1
+Movie;Sooni Taraporevala;1
+Movie;Alessandra de Rossi;1
+Movie;Sophia Nahli Allison;1
+Movie;Sophie Robinson;1
+Movie;Sophie Sartain;1
+Movie;Simranjit Singh Hundal;1
+Movie;Alethea Jones;1
+Movie;Shojiro Nishimi;1
+Movie;Sian Heder;1
+Movie;Shonali Bose;1
+Movie;Shoojit Sircar;1
+Movie;Shravan Kumar;1
+Movie;Shree Narayan Singh;1
+Movie;Shreyas Talpade;1
+Movie;Shrihari Sathe;1
+Movie;Shubham Singh;1
+Movie;Shuko Murase;1
+Movie;Shunsuke Kariyama;1
+Movie;Shweta Basu Prasad;1
+Movie;Alex Holmes;1
+Movie;Alex Garland;1
+Movie;Sibusiso Khuzwayo;1
+Movie;Simon Verhoeven;1
+Movie;Siddique;1
+Movie;Sidharth Malhotra;1
+Movie;Alex Coletti;1
+Movie;Sigrid Andrea Bernardo;1
+Movie;Simon Baker;1
+Movie;Simon Curtis;1
+Movie;Simon Gross;1
+Movie;Alex Burunova;1
+Movie;Simon Napier-Bell;1
+Movie;Simon Rumley;1
+Movie;Simon Savelyev;1
+Movie;Alex Brewer;1
+Movie;Matt Eskandari;1
+Movie;Claus Wehlisch;1
+Movie;Matt D'Avella;1
+Movie;Georges Hachem;1
+Movie;Gordon Chan;1
+Movie;Gordon Parks;1
+Movie;Chad Hartigan;1
+Movie;Graham Phillips;1
+Movie;Graham Townsley;1
+Movie;Grand Corps Malade;1
+Movie;Grant Heslov;1
+Movie;Grant Korgan;1
+Movie;Grant S. Johnson;1
+Movie;Grant Singer;1
+Movie;Grant Sputore;1
+Movie;Greg Barker;1
+Movie;Greg Berlanti;1
+Movie;Greg Coolidge;1
+Movie;Greg Kohs;1
+Movie;Chad Archibald;1
+Movie;Greg McLean;1
+Movie;Greg Mottola;1
+Movie;Greg Pritikin;1
+Movie;Cedric Nicolas-Troyan;1
+Movie;Greg Richardson;1
+Movie;Greg Strause;1
+Movie;Greg Whiteley;1
+Movie;Greg Young;1
+Movie;Gregg Bishop;1
+Movie;Cecilia Verheyden;1
+Movie;Cecilia Atán;1
+Movie;Chad L. Scheifele;1
+Movie;Gonzalo Bendala;1
+Movie;Golam Kibria Farooki;1
+Movie;Gilbert Chan;1
+Movie;Gerard McMurray;1
+Movie;Gerardo Gatica;1
+Movie;Chan-sang Lim;1
+Movie;Gerry Blaksley;1
+Movie;Gerry Hoban;1
+Movie;Gervasio Iglesias;1
+Movie;Geun-hyun Cho;1
+Movie;Giancarlo Esposito;1
+Movie;Chakri Toleti;1
+Movie;Gideon Raff;1
+Movie;Gil Baroni;1
+Movie;Gil Kenan;1
+Movie;Chaitanya Tamhane;1
+Movie;Glenn Miller;1
+Movie;Gillian Armstrong;1
+Movie;Chairun Nissa;1
+Movie;Gina Prince-Bythewood;1
+Movie;Ginny Mohler;1
+Movie;Girish Joshi;1
+Movie;Girish Mohite;1
+Movie;Gitanjali Rao;1
+Movie;Giulia Clark;1
+Movie;Giulio Base;1
+Movie;Glen Goei;1
+Movie;Glen Keane;1
+Movie;Glendyn Ivin;1
+Movie;Gregory Jacobs;1
+Movie;Gregory Nava;1
+Movie;Gregory Plotkin;1
+Movie;Caroline Suh;1
+Movie;Hallie Meyers-Shyer;1
+Movie;Hallvard Bræin;1
+Movie;Ham Tran;1
+Movie;Hamad AlSarraf;1
+Movie;Hamisha Daryani Ahuja;1
+Movie;Han Han;1
+Movie;Han Kwang Il;1
+Movie;Han Yan;1
+Movie;Handan İpekçi;1
+Movie;Hang-Jun Jang;1
+Movie;Hani Al-Shaibani;1
+Movie;Cary Joji Fukunaga;1
+Movie;Hannes Stöhr;1
+Movie;Halder Gomes;1
+Movie;Hanno Olderdissen;1
+Movie;Hanns-Bruno Kammertöns;1
+Movie;Hans Petter Moland;1
+Movie;Carol Reed;1
+Movie;Hany Motawie;1
+Movie;Hao Wu;1
+Movie;Haoling Li;1
+Movie;Harald Zwart;1
+Movie;Carly Stone;1
+Movie;Hari Nath;1
+Movie;Hari Viswanath;1
+Movie;Harjit Singh;1
+Movie;Cary Murnion;1
+Movie;Hakan Yonat;1
+Movie;Greta Gerwig;1
+Movie;Gurmmeet Singh;1
+Movie;Cavi Borges;1
+Movie;Guilherme Fontes;1
+Movie;Guillaume Pierret;1
+Movie;Guillaume Renard;1
+Movie;Guillermo Garcia;1
+Movie;Guillermo de Oliveira;1
+Movie;Catrin Einhorn;1
+Movie;Gulzar;1
+Movie;Guntur Soeharjanto;1
+Movie;Guo Jingming;1
+Movie;Gupse Özay;1
+Movie;Gurinder Chadha;1
+Movie;Gurudev Bhalla;1
+Movie;Caryn Waechter;1
+Movie;Gurvinder Singh;1
+Movie;Catherine Hardwicke;1
+Movie;Gustavo Ron;1
+Movie;Cate Shortland;1
+Movie;Habib Faisal;1
+Movie;Castille Landon;1
+Movie;Hadrah Daeng Ratu;1
+Movie;Cassi Simonds;1
+Movie;Haile Gerima;1
+Movie;Haissam Hussain;1
+Movie;Casey Suchan;1
+Movie;Hajime Sasaki;1
+Movie;Gerard Barrett;1
+Movie;George Stevens;1
+Movie;Javier Colinas;1
+Movie;George Ratliff;1
+Movie;Frant Gwo;1
+Movie;Franziska Meyer Price;1
+Movie;Frasco Mortiz;1
+Movie;Fred Cavayé;1
+Movie;Fred Durst;1
+Movie;Fred M. Wilcox;1
+Movie;Fred Olen Ray;1
+Movie;Fred Ouro Preto;1
+Movie;Fred Wolf;1
+Movie;Freddie Waters;1
+Movie;Frederick Cipoletti;1
+Movie;Fredric Lean;1
+Movie;Fredrick Munk;1
+Movie;Fritz Böhm;1
+Movie;Fritz Ofner;1
+Movie;Frédéric Tonolli;1
+Movie;Fumihiko Sori;1
+Movie;Charles Officer;1
+Movie;Fuwad Khan;1
+Movie;Charles Martin Smith;1
+Movie;Gabe Ibáñez;1
+Movie;Gabe Klinger;1
+Movie;Gabe Turner;1
+Movie;Gabriel Clarke;1
+Movie;Gabriel Cruz Rivas;1
+Movie;Gabriel Grieco;1
+Movie;Gabriel Sabloff;1
+Movie;Frank W Chen;1
+Movie;Frank Paur;1
+Movie;Charles Walters;1
+Movie;Francis Whately;1
+Movie;Florian Schnell;1
+Movie;Florian Schott;1
+Movie;Fluvio Iannuci;1
+Movie;Fouad Al Shatti;1
+Movie;Fouad El-Mohandes;1
+Movie;Francesco Amato;1
+Movie;Francesco Carnesecchi;1
+Movie;Francesco Carrozzini;1
+Movie;Francesco Lettieri;1
+Movie;Francine Parker;1
+Movie;Francis Ford Coppola;1
+Movie;Francis Lee;1
+Movie;Francisco D'Eufemia;1
+Movie;Frank O'Connor;1
+Movie;Francisco Macri;1
+Movie;Francisco Ruiz Velasco;1
+Movie;Francisco Schultz;1
+Movie;Franck Ekinci;1
+Movie;Franck Nataf;1
+Movie;Franck Phelizon;1
+Movie;Franck Ribière;1
+Movie;Frank Ariza;1
+Movie;Charlie Kaufman;1
+Movie;Charlie Haskell;1
+Movie;Frank E. Abney III;1
+Movie;Frank Marshall;1
+Movie;Gabriela Cowperthwaite;1
+Movie;Gabriela García Rivas;1
+Movie;Gabriela Tagliavini;1
+Movie;Gene Quintano;1
+Movie;Chandra Prakash Dwivedi;1
+Movie;Gaurav Bavdankar;1
+Movie;Gaurav Narayanan;1
+Movie;Gauravv K Chawla;1
+Movie;Gauri Shinde;1
+Movie;Gautier & Leduc;1
+Movie;Gavin Fitzgerald;1
+Movie;Gavin O'Connor;1
+Movie;Gavin Yap;1
+Movie;Gayane Petrosyan;1
+Movie;Gaëtan Brizzi;1
+Movie;Geetu Mohandas;1
+Movie;Genevieve Nnaji;1
+Movie;Gary Young;1
+Movie;Genndy Tartakovsky;1
+Movie;Geoff Anderson;1
+Movie;Geoff Luck;1
+Movie;Geoffrey Orthwein;1
+Movie;Chandra Liow;1
+Movie;Chandan Arora;1
+Movie;George Cukor;1
+Movie;George Gallo;1
+Movie;George Jackson;1
+Movie;George Mendeluk;1
+Movie;George Miller;1
+Movie;George Nolfi;1
+Movie;Gaspar Antillo;1
+Movie;Gary Winick;1
+Movie;Charles Martin;1
+Movie;Garth Davis;1
+Movie;Gaby Dellal;1
+Movie;Gafoor Y. Elliyaas;1
+Movie;Gagan Puri;1
+Movie;Gail Willumsen;1
+Movie;Charles Gozali;1
+Movie;Galley Molina;1
+Movie;Ganesh Kadam;1
+Movie;Gangadhar Salimath;1
+Movie;Charles A. Nichols;1
+Movie;Gareth Sacala;1
+Movie;Garin Nugroho;1
+Movie;Chanon Yingyong;1
+Movie;Gary Andrews;1
+Movie;Gary Wheeler;1
+Movie;Gary Binkow;1
+Movie;Gary Cohen;1
+Movie;Gary David Goldberg;1
+Movie;Chandran Narikode;1
+Movie;Gary Goldman;1
+Movie;Gary Howsam;1
+Movie;Gary Mak;1
+Movie;Gary Michael Schultz;1
+Movie;Chandrakant Kanse;1
+Movie;Gary Shore;1
+Movie;Gary Stretch;1
+Movie;Gary Wang;1
+Movie;Hark Tsui;1
+Movie;Harmony Korine;1
+Movie;Harold Becker;1
+Movie;Carlos Vermut;1
+Movie;Bryan Buckley;1
+Movie;Jacob LaMendola;1
+Movie;Jacob Schwab;1
+Movie;Jacqueline Monetta;1
+Movie;Jacques Cluzaud;1
+Movie;Jacques Perrin;1
+Movie;Jacqui Morris;1
+Movie;Jadesola Osiberu;1
+Movie;Jagdeep Sidhu;1
+Movie;Jaivi Dhanda;1
+Movie;Jake Paltrow;1
+Movie;Jake Szymanski;1
+Movie;Jaki Bradley;1
+Movie;Jakob Lass;1
+Movie;Jakub Piątek;1
+Movie;Jamal Hill;1
+Movie;Jameel Buari;1
+Movie;James Barr;1
+Movie;Bruno Stagnaro;1
+Movie;James Brown;1
+Movie;James D. Stern;1
+Movie;James Dearden;1
+Movie;James Duffy;1
+Movie;James Foley;1
+Movie;James Franco;1
+Movie;James Gunn;1
+Movie;James Haslam;1
+Movie;Bryan Fogel;1
+Movie;Jackie van Beek;1
+Movie;Jack Zagha Kababie;1
+Movie;J. Davis;1
+Movie;Buta Singh;1
+Movie;Burr Steers;1
+Movie;Burhan Qurbani;1
+Movie;Bunmi Ajakaiye;1
+Movie;Ivan Sen;1
+Movie;Ivan Silvestrini;1
+Movie;Ivona Juka;1
+Movie;Iwao Takamoto;1
+Movie;Izidore K. Musallam;1
+Movie;Izu Ojukwu;1
+Movie;Iñaki Dorronsoro;1
+Movie;J Blakeson;1
+Movie;J. Lee Thompson;1
+Movie;Jack Starrett;1
+Movie;J. Michael Long;1
+Movie;Buddhadev Dasgupta;1
+Movie;Buchi Babu Sana;1
+Movie;J.C. Falcón;1
+Movie;Bryn Evans;1
+Movie;J.F. Musial;1
+Movie;J.J. Abrams;1
+Movie;J.M. Berrios;1
+Movie;JJC Skillz;1
+Movie;Bryce Wagoner;1
+Movie;Jacek Koprowicz;1
+Movie;Bryan Singer;1
+Movie;James Ivory;1
+Movie;James L. Brooks;1
+Movie;Bruno Ascenzo;1
+Movie;Brodje Wemboendja;1
+Movie;Jared Stern;1
+Movie;Jarrad Paul;1
+Movie;Jasbir Bijendra Bhati;1
+Movie;Jasmine D'Souza;1
+Movie;Jason Bourque;1
+Movie;Jason Cohen;1
+Movie;Jason James;1
+Movie;Jason Krawczyk;1
+Movie;Jason Kwan;1
+Movie;Jason Lai;1
+Movie;Jason Moore;1
+Movie;Jason Orley;1
+Movie;Jason Priestley;1
+Movie;Brody Chu;1
+Movie;Brittany Andrews;1
+Movie;Jason Spingarn-Koff;1
+Movie;Jason Stone;1
+Movie;Jason Sussberg;1
+Movie;Jason Winer;1
+Movie;Jason Zada;1
+Movie;Jastis Arimba;1
+Movie;Jathin Sanker Raj;1
+Movie;Jatla Siddartha;1
+Movie;Jaume Balagueró;1
+Movie;Jaume Collet-Serra;1
+Movie;Javier Ambrossi;1
+Movie;Jared Moshé;1
+Movie;Jarand Herdal;1
+Movie;James Marsh;1
+Movie;James Watkins;1
+Movie;James Mather;1
+Movie;Bruce W. Smith;1
+Movie;James Moll;1
+Movie;Bruce Robinson;1
+Movie;James Redford;1
+Movie;James Reed;1
+Movie;James Rogan;1
+Movie;James Spinney;1
+Movie;James Sweeney;1
+Movie;Bruce McDonald;1
+Movie;James Tovell;1
+Movie;Bruce McCulloch;1
+Movie;Bruce MacDonald;1
+Movie;Bronwen Hughes;1
+Movie;James Woodroffe;1
+Movie;Bruce Leddy;1
+Movie;Jami;1
+Movie;Jamie Babbit;1
+Movie;Jamie M. Dagg;1
+Movie;Jan Belcl;1
+Movie;Jan Komasa;1
+Movie;Bruce Gowers;1
+Movie;Jan-Peter Horns;1
+Movie;Janet Tobias;1
+Movie;Jang Jae-hyun;1
+Movie;Jani Lachauer;1
+Movie;Buz Wallick;1
+Movie;Buzz Kulik;1
+Movie;Ishaan Trivedi;1
+Movie;Carlos Algara;1
+Movie;Hemambar Jasti;1
+Movie;Hemant Gaba;1
+Movie;Henri Wong;1
+Movie;Henrik Martin Dahlsbakken;1
+Movie;Henrik Ruben Genz;1
+Movie;Henry Hathaway;1
+Movie;Henry Joost;1
+Movie;Henry Sarwer-Foner;1
+Movie;Henry Selick;1
+Movie;Henry Thurlow;1
+Movie;Hepi Mita;1
+Movie;Carlos Marques-Marcet;1
+Movie;Carlo Padial;1
+Movie;Helena Bergström;1
+Movie;Hideaki Takizawa;1
+Movie;Hideki Futamura;1
+Movie;Carles Torras;1
+Movie;Hidetaka Inazuka;1
+Movie;Hikari;1
+Movie;Carey McKenzie;1
+Movie;Hiroshi Aoyama;1
+Movie;Hiroshi Katagiri;1
+Movie;Hiroshi Yamazaki;1
+Movie;Hirotsugu Kawasaki;1
+Movie;Caradog W. James;1
+Movie;Hitoshi Namba;1
+Movie;Helena Coan;1
+Movie;Heitor Dhalia;1
+Movie;Honey Trehan;1
+Movie;Carlos Sorín;1
+Movie;Harpeet Singh;1
+Movie;Harrison Smith;1
+Movie;Harry Baweja;1
+Movie;Harry Bradbeer;1
+Movie;Harry Chaskin;1
+Movie;Harry Elfont;1
+Movie;Harshavardhan Kulkarni;1
+Movie;Haruka Fujita;1
+Movie;Harvey Glazer;1
+Movie;Harvey Lilley;1
+Movie;Carlos Therón;1
+Movie;Hasan Aljaberi;1
+Movie;Hashim Nadeem Khan;1
+Movie;Heidi Saman;1
+Movie;Hasraf Dulull;1
+Movie;Hassan AbdulSalam;1
+Movie;Hassan Hegazy;1
+Movie;Hatem Khraiche;1
+Movie;Hayao Miyazaki;1
+Movie;Hayden Guppy;1
+Movie;Hayden Schlossberg;1
+Movie;Carlos Pérez Osorio;1
+Movie;Heather Walsh;1
+Movie;Carlos Morett;1
+Movie;Heidi Brandenburg;1
+Movie;Carlos Moreno;1
+Movie;Holger Tappe;1
+Movie;Hong Khaou;1
+Movie;Isao Yukisada;1
+Movie;Indrajit Nattoji;1
+Movie;C.J. Wallis;1
+Movie;Icíar Bollaín;1
+Movie;C. Fitz;1
+Movie;Ifeanyi Ikpoenyi;1
+Movie;Ignacio Jaunsolo;1
+Movie;Ignacio López Escrivá;1
+Movie;Igor Kovalyov;1
+Movie;Ildiko Enyedi;1
+Movie;Ilya Naishuller;1
+Movie;Iman Brotoseno;1
+Movie;Byun Hyuk;1
+Movie;Inas El-Degheidy;1
+Movie;Indrasis Acharya;1
+Movie;Ian Samuels;1
+Movie;Ippsie Jones;1
+Movie;Ira Sachs;1
+Movie;Irek Dobrowolski;1
+Movie;Irwin Winkler;1
+Movie;Isa Campo;1
+Movie;Byeon Hee-sun;1
+Movie;Isaac Florentine;1
+Movie;Isaac Rentz;1
+Movie;Isabel Coixet;1
+Movie;Isabel Sandoval;1
+Movie;Isabelle Nanty;1
+Movie;Isaki Lacuesta;1
+Movie;Ibai Abad;1
+Movie;Ian Nelms;1
+Movie;Hong-seon Kim;1
+Movie;Hugh WIlson;1
+Movie;Houda Benyamina;1
+Movie;Houssam El-Din Mustafa;1
+Movie;Can Ulkay;1
+Movie;Hoyt Yeatman;1
+Movie;Camille Shooshani;1
+Movie;Camille Delamarre;1
+Movie;Hua Shan;1
+Movie;Huang Hsin-Yao;1
+Movie;Huang Jianming;1
+Movie;Huang Lei;1
+Movie;Hubert Woroniecki;1
+Movie;Hugh Stewart;1
+Movie;Hugo Stuven;1
+Movie;Caio Cobra;1
+Movie;Camilla Nielsson;1
+Movie;Callie Khouri;1
+Movie;Hussein El Ansary;1
+Movie;Huw Cordey;1
+Movie;Hèctor Hernández Vicens;1
+Movie;Héctor Gálvez;1
+Movie;Iain Softley;1
+Movie;Cal Saville;1
+Movie;Ian Daniel;1
+Movie;Cal Brunker;1
+Movie;Ian Kirby;1
+Movie;Ian MacAllister-McDonald;1
+Movie;Charlie Siskel;1
+Movie;Florian Gallenberger;1
+Movie;Floria Sigismondi;1
+Movie;Chris Rock;1
+Movie;David Charhon;1
+Movie;David Chirchirillo;1
+Movie;David Cronenberg;1
+Movie;Christine Luby;1
+Movie;David Dietz;1
+Movie;Christina Clusiau;1
+Movie;Christian Zübert;1
+Movie;Christian Tureaud;1
+Movie;David Feiss;1
+Movie;David Felix Sutcliffe;1
+Movie;Christian Schwochow;1
+Movie;David France;1
+Movie;David Frankel;1
+Movie;David Galán Galindo;1
+Movie;David Gelb;1
+Movie;Christian Herrendoerfer;1
+Movie;David Grossman;1
+Movie;David Guy Levy;1
+Movie;David Hackl;1
+Movie;David Hebditch;1
+Movie;David Hunt;1
+Movie;David Johndrow;1
+Movie;David Koepp;1
+Movie;David L. Cunningham;1
+Movie;David L.G. Hughes;1
+Movie;David LaChapelle;1
+Movie;David Lam;1
+Movie;David Cantolla;1
+Movie;David Bruckner;1
+Movie;David Briggs;1
+Movie;Christopher Alender;1
+Movie;Dar Gai;1
+Movie;Dare Olaitan;1
+Movie;Darin Scott;1
+Movie;Darragh O'Connell;1
+Movie;Darren Grant;1
+Movie;Christopher Amos;1
+Movie;Daryl Hannah;1
+Movie;Dash Shaw;1
+Movie;Datta Mohan Bhandare;1
+Movie;Dava Whisenant;1
+Movie;Dave Dorsey;1
+Movie;Dave Green;1
+Movie;Dave Needham;1
+Movie;David Blair;1
+Movie;Dave Patten;1
+Movie;Dave Skinner;1
+Movie;David 'Tosh' Gitonga;1
+Movie;David A. Vargas;1
+Movie;David Allensworth;1
+Movie;David Alvarado;1
+Movie;Christophe Honoré;1
+Movie;David Batra;1
+Movie;Christophe Charrier;1
+Movie;David Beier;1
+Movie;David Benioff;1
+Movie;David Benullo;1
+Movie;David Lean;1
+Movie;David Lee Miller;1
+Movie;David Leveaux;1
+Movie;Debamitra Biswal;1
+Movie;David Yarovesky;1
+Movie;David Zeiger;1
+Movie;Chris Williams;1
+Movie;David de Vos;1
+Movie;Chris Sparling;1
+Movie;Dean Craig;1
+Movie;Dean DeBlois;1
+Movie;Dean Parisot;1
+Movie;Dean Wellins;1
+Movie;Dean Wright;1
+Movie;Deane Taylor;1
+Movie;Debaloy Dey;1
+Movie;Debbie Allen;1
+Movie;David Wain;1
+Movie;Deborah Kaplan;1
+Movie;Debra Granik;1
+Movie;Deep Joshi;1
+Movie;Deepa Mehta;1
+Movie;Deepika Narayan Bhardwaj;1
+Movie;Deepti Naval;1
+Movie;Dejan Zečević;1
+Movie;Chris Sanders;1
+Movie;Chris Roland;1
+Movie;Denis Do;1
+Movie;Denis Hennelly;1
+Movie;Denis Villeneuve;1
+Movie;David Wnendt;1
+Movie;David Tryhorn;1
+Movie;David Lowery;1
+Movie;David Oyelowo;1
+Movie;David Lynch;1
+Movie;Christian Gudegast;1
+Movie;Christian E. Christiansen;1
+Movie;David Marmor;1
+Movie;David McCracken;1
+Movie;Christian Duguay;1
+Movie;David Mirkin;1
+Movie;David Moreton;1
+Movie;David Morris;1
+Movie;David Mrnka;1
+Movie;Christian Ditter;1
+Movie;David Oelhoffen;1
+Movie;Christian Desmares;1
+Movie;David Stubbs;1
+Movie;Christian De Vita;1
+Movie;Christian Charles;1
+Movie;Christian Alvart;1
+Movie;David Raynr;1
+Movie;David Salzberg;1
+Movie;David Sampliner;1
+Movie;David Serrano;1
+Movie;David Shisgall;1
+Movie;David Silberg;1
+Movie;Christel Gibson;1
+Movie;David Slade;1
+Movie;David Soren;1
+Movie;Christopher Cain;1
+Movie;Danny Leiner;1
+Movie;Danny J. Boyle;1
+Movie;Curtis Graham;1
+Movie;Claire McCarthy;1
+Movie;Craig Elrod;1
+Movie;Craig Freimond;1
+Movie;Craig Gillespie;1
+Movie;Craig Goodwill;1
+Movie;Craig Johnson;1
+Movie;Craig Moss;1
+Movie;Cris D'Amato;1
+Movie;Cristina Costantini;1
+Movie;Chung Mong-hong;1
+Movie;Crystal Moselle;1
+Movie;Curro Velázquez;1
+Movie;Curtis Hanson;1
+Movie;Cosmo Segurson;1
+Movie;Cyrus Nowrasteh;1
+Movie;Cyrus Saidi;1
+Movie;Cédric Jimenez;1
+Movie;Célia Catunda;1
+Movie;César Rodrigues;1
+Movie;Cüneyt Kaya;1
+Movie;D Ho;1
+Movie;D.B. Weiss;1
+Movie;Daan Jansen;1
+Movie;Dado C. Lumibao;1
+Movie;Daisuke Nishio;1
+Movie;Daito Manabe;1
+Movie;Craig Anderson;1
+Movie;Cosmo Feilding-Mellen;1
+Movie;Dallas Jenkins;1
+Movie;Colin Dench;1
+Movie;Clay Porter;1
+Movie;Clay Staub;1
+Movie;Clay Tweel;1
+Movie;Clementine Malpas;1
+Movie;Clint Butler;1
+Movie;Claude Lelouch;1
+Movie;Clive Tonge;1
+Movie;Clovis Cornillac;1
+Movie;Cody Cameron;1
+Movie;Cody Stokes;1
+Movie;Coerte Voorhees;1
+Movie;Cole D. Pruitt;1
+Movie;Colin Minihan;1
+Movie;Clara Martínez-Lázaro;1
+Movie;Colin Strause;1
+Movie;Colin Teague;1
+Movie;Claude Barras;1
+Movie;Conor Allyn;1
+Movie;Conrad Vernon;1
+Movie;Constance Marks;1
+Movie;Coodie;1
+Movie;Cooper Karl;1
+Movie;Corbin Bernsen;1
+Movie;Corey Grant;1
+Movie;Clarence Yiu-leung Fok;1
+Movie;Cory Edwards;1
+Movie;Chun Wong;1
+Movie;Damani Baker;1
+Movie;Christopher Caldwell;1
+Movie;Daniel Raim;1
+Movie;Christopher Martin;1
+Movie;Daniel J. Clark;1
+Movie;Daniel Joseph;1
+Movie;Daniel Kontur;1
+Movie;Daniel Lee;1
+Movie;Christopher Louie;1
+Movie;Christopher Loren Ewers;1
+Movie;Daniel Markowicz;1
+Movie;Daniel McCabe;1
+Movie;Daniel Monzón;1
+Movie;Daniel Noah;1
+Movie;Daniel Prochaska;1
+Movie;Daniel Růžička;1
+Movie;Daniel Goldhaber;1
+Movie;Daniel Sandu;1
+Movie;Daniel Schechter;1
+Movie;Daniel Scheinert;1
+Movie;Christopher Chambers;1
+Movie;Daniel Sánchez Arévalo;1
+Movie;Daniel Vernon;1
+Movie;Daniel Wilner;1
+Movie;Daniel Yee Heng Chan;1
+Movie;Daniela Goggi;1
+Movie;Daniele Thompson;1
+Movie;Danish Aslam;1
+Movie;Danishka Esterhazy;1
+Movie;Daniel Gordon;1
+Movie;Daniel Espinosa;1
+Movie;Damien Leone;1
+Movie;Christopher Ray;1
+Movie;Chuck Russell;1
+Movie;Damien Piscarel;1
+Movie;Damon Cardasis;1
+Movie;Damon Davis;1
+Movie;Dan Forgione;1
+Movie;Dan Forrer;1
+Movie;Dan Fraga;1
+Movie;Christopher S. Rech;1
+Movie;Dan Harris;1
+Movie;Dan Krauss;1
+Movie;Dan Kuenster;1
+Movie;Dan Kwan;1
+Movie;Dana Doron;1
+Movie;Daniel Effiong;1
+Movie;Dana Nachman;1
+Movie;Dani Levy;1
+Movie;Dani de la Orden;1
+Movie;Dani de la Torre;1
+Movie;Daniel Ablin;1
+Movie;Christopher Nolan;1
+Movie;Daniel Arasanz;1
+Movie;Christopher Murray;1
+Movie;Daniel Burman;1
+Movie;Christopher Miller;1
+Movie;Daniel Camenisch;1
+Movie;Daniel DiMauro;1
+Movie;Deniz Gamze Ergüven;1
+Movie;Dennis Bartok;1
+Movie;Charlie Vaughn;1
+Movie;Dennis Iliadis;1
+Movie;Eric Zaragosa;1
+Movie;Erich Sturm;1
+Movie;Chow Hin Yeung Roy;1
+Movie;Erik Ewers;1
+Movie;Erik Kling;1
+Movie;Erik Matti;1
+Movie;Erik Nelson;1
+Movie;Erik White;1
+Movie;Choi Jin-seong;1
+Movie;Erol Özlevi;1
+Movie;Cho Il;1
+Movie;Ertanto Robby Soediskam;1
+Movie;Chiwetel Ejiofor;1
+Movie;Eshom Nelms;1
+Movie;Espen Sandberg;1
+Movie;Esteban Sapir;1
+Movie;Chineze Anyaene;1
+Movie;Estela Renner;1
+Movie;Ester Gould;1
+Movie;Chinaza Onuzo;1
+Movie;Ethan Hawke;1
+Movie;Eugenio Derbez;1
+Movie;Eva Müller;1
+Movie;Eva Orner;1
+Movie;Eva Trobisch;1
+Movie;Eva Vives;1
+Movie;Evan Goldberg;1
+Movie;Eric Summer;1
+Movie;Eric Stoltz;1
+Movie;Eric Schlosser;1
+Movie;Enrique García Meza;1
+Movie;Emanuel Hoss-Desmarais;1
+Movie;Emcy Joseph;1
+Movie;Emil Ben-Shimon;1
+Movie;Emilio Martínez Lázaro;1
+Movie;Emily Hagins;1
+Movie;Emir Kusturica;1
+Movie;Emma Hatherley;1
+Movie;Emma Tammi;1
+Movie;Emmanuel Amara;1
+Movie;Emmanuel Mouret;1
+Movie;Enah Johnscott;1
+Movie;Enrico Bisi;1
+Movie;Eondeok Han;1
+Movie;Chow Kwun-wai;1
+Movie;Eric Aghimien;1
+Movie;Eric Bress;1
+Movie;Eric Bross;1
+Movie;Eric D. Cabello Díaz;1
+Movie;Chris Baugh;1
+Movie;Eric Drath;1
+Movie;Chris Appelhans;1
+Movie;Eric Juhola;1
+Movie;Eric Khoo;1
+Movie;Eric Laneuville;1
+Movie;Eric Meza;1
+Movie;Eric Notarnicola;1
+Movie;Evan Katz;1
+Movie;Evan Spiridellis;1
+Movie;Chike;1
+Movie;Fernando Frías De La Parra;1
+Movie;Felix Thompson;1
+Movie;Felix Van Groeningen;1
+Movie;Felix van Groeningen;1
+Movie;Fellipe Barbosa;1
+Movie;Femi D. Ogunsanwo;1
+Movie;Che Sandoval;1
+Movie;Feng Xiaogang;1
+Movie;Ferdinando Cito Filomarino;1
+Movie;Fermín Muguruza;1
+Movie;Chayanop Boonprakob;1
+Movie;Fernando Coimbra;1
+Movie;Fernando Colomo;1
+Movie;Fernando Frías de la Parra;1
+Movie;Felix Herngren;1
+Movie;Chatchai Katenut;1
+Movie;Fernando Lebrija;1
+Movie;Charneice Fox;1
+Movie;Fernando Sariñana;1
+Movie;Fernando Villena;1
+Movie;Feroz;1
+Movie;Ferzan Özpetek;1
+Movie;Filip Renc;1
+Movie;Filip Zylber;1
+Movie;Filippo Gastaldi;1
+Movie;Charlotte Zwerin;1
+Movie;Flor Salcedo;1
+Movie;Felix Starck;1
+Movie;Felix Chong;1
+Movie;Evgeny Afineevsky;1
+Movie;Cheta Chukwu;1
+Movie;Eylem Kaftan;1
+Movie;Chia Tang;1
+Movie;Fab Five Freddie;1
+Movie;Chi Keung Fung;1
+Movie;Fabio Grassadonia;1
+Movie;Fabio Ock;1
+Movie;Fabrice Du Welz;1
+Movie;Fabrizio Copano;1
+Movie;Chi Fat Chan;1
+Movie;Falz;1
+Movie;Faozan Rizal;1
+Movie;Faraday Okoro;1
+Movie;Farah Nabulsi;1
+Movie;Felix Binder;1
+Movie;Farah X;1
+Movie;Faraz Haider;1
+Movie;Farhad Safinia;1
+Movie;Chester Tam;1
+Movie;Farhan Alam;1
+Movie;Faris Godus;1
+Movie;Farishad I. Latjuba;1
+Movie;Farjad Nabi;1
+Movie;Fazila Allana;1
+Movie;Federico D'Alessandro;1
+Movie;Cheng Wei-hao;1
+Movie;Cheang Pou Soi;1
+Movie;Elvira Lind;1
+Movie;Elsa Nakamichi;1
+Movie;Elsa Flores Almaraz;1
+Movie;Chris Kelly;1
+Movie;Dilip Mehta;1
+Movie;Chris Miller;1
+Movie;Ding Sheng;1
+Movie;Ding-Lin Wang;1
+Movie;Chris McCoy;1
+Movie;Dirk Laabs;1
+Movie;Dito Montiel;1
+Movie;Doesjka van Hoogdalem;1
+Movie;Dolapo Adeleke;1
+Movie;Domenico de Feudis;1
+Movie;Chris Koch;1
+Movie;Don Argott;1
+Movie;Don Hardy Jr.;1
+Movie;Digo Ricio;1
+Movie;Don Mancini;1
+Movie;Chris Jenkins;1
+Movie;Don Omope;1
+Movie;Donald Petrie;1
+Movie;Donick Cary;1
+Movie;Donovan Marsh;1
+Movie;Dorian Fernández-Moris;1
+Movie;Doron Paz;1
+Movie;Doug Hamilton;1
+Movie;Doug Lefler;1
+Movie;Doug McHenry;1
+Movie;Douglas Attal;1
+Movie;Dileep Narayanan;1
+Movie;Chris Moukarbel;1
+Movie;Chris Gorak;1
+Movie;Devashish Makhija;1
+Movie;Dennis Rovira van Boekholt;1
+Movie;Dennis Scholl;1
+Movie;Dennis Widmyer;1
+Movie;Denny Lu;1
+Movie;Derek Hui;1
+Movie;Derek Peck;1
+Movie;Derek Yee;1
+Movie;Derick Cabrido;1
+Movie;Desingh Periyasamy;1
+Movie;Destin Daniel Cretton;1
+Movie;Chris Perkel;1
+Movie;Devaki Singh;1
+Movie;Devika Bhagat;1
+Movie;Diego Luna;1
+Movie;Devin Chanda;1
+Movie;Dhanush;1
+Movie;Dharmendra Suresh Desai;1
+Movie;Chris Nelson;1
+Movie;Dhilip Kumar;1
+Movie;Dhruv Dhawan;1
+Movie;Dianne Dreyer;1
+Movie;Chris Nahon;1
+Movie;Diego Cohen;1
+Movie;Diego Corsini;1
+Movie;Diego Kaplan;1
+Movie;Diego Lerman;1
+Movie;Douglas McGrath;1
+Movie;Drea Cooper;1
+Movie;Elliot Silverstein;1
+Movie;Elisa Fuksas;1
+Movie;Edward James Olmos;1
+Movie;Edward Zwick;1
+Movie;Chris Burkard;1
+Movie;Eeshwar Nivas;1
+Movie;Einar Gabbassov;1
+Movie;Ekachai Uekrongtham;1
+Movie;Elaine Bogan;1
+Movie;Chris Bouchard;1
+Movie;Eleonore Pourriat;1
+Movie;Chris Bolan;1
+Movie;Chris Blake;1
+Movie;Eliane Brum;1
+Movie;Elisabeth Vogler;1
+Movie;Edward Drake;1
+Movie;Elissa Down;1
+Movie;Elite Zexer;1
+Movie;Elizabeth Banks;1
+Movie;Elizabeth Chai Vasarhelyi;1
+Movie;Elizabeth Wood;1
+Movie;Elle Callahan;1
+Movie;Elle-Máijá Tailfeathers;1
+Movie;Ellen Brown;1
+Movie;Ellen Page;1
+Movie;Ellen Seidler;1
+Movie;Ellen Weissbrod;1
+Movie;Elliot Hegarty;1
+Movie;Edward Ellis;1
+Movie;Chris Butler;1
+Movie;Drew Casson;1
+Movie;Dylan Howitt;1
+Movie;Drew Heriot;1
+Movie;Drew Stone;1
+Movie;Drue Metz;1
+Movie;Chris Foggin;1
+Movie;Duncan McMath;1
+Movie;Duncan Skiles;1
+Movie;Dustin Hoffman;1
+Movie;Chris Eneng Enaji;1
+Movie;Dustin Nguyen;1
+Movie;Dylan Bank;1
+Movie;Dylan C. Brown;1
+Movie;Dylan Haegens;1
+Movie;Dylan Mohan Gray;1
+Movie;Chris Columbus;1
+Movie;Dylan Southern;1
+Movie;Ed Lilly;1
+Movie;Ed Perkins;1
+Movie;Eddie Martin;1
+Movie;Eddie Mensore;1
+Movie;Eddie Rosas;1
+Movie;Edgar Wright;1
+Movie;Edoardo Ponti;1
+Movie;Eduardo Casanova;1
+Movie;Chris Eigeman;1
+Movie;Eduardo Mendoza de Echave;1
+Movie;Eduardo Pinto;1
+Movie;Javier Calvo;1
+Movie;Brit McAdams;1
+Movie;Matt Bell;1
+Movie;L. Frazier;1
+Movie;Le Van Kiet;1
+Movie;Lea Glob;1
+Movie;Leandro Mark;1
+Movie;Leandro Neri;1
+Movie;Leanne Gater;1
+Movie;Lee Chang-dong;1
+Movie;Lee Chung-hyun;1
+Movie;Lee Daniels;1
+Movie;Lee Fulkerson;1
+Movie;Ben Young;1
+Movie;Lee Jeong-beom;1
+Movie;Lee Kae-byeok;1
+Movie;Lee Kirk;1
+Movie;Lee Seung-won;1
+Movie;Leif Tilden;1
+Movie;Ben Steele;1
+Movie;Ben Stassen;1
+Movie;Leli Maki;1
+Movie;Len Wiseman;1
+Movie;Lena Khan;1
+Movie;Lenin Bharathi;1
+Movie;Lennart Ruff;1
+Movie;Lenny Abrahamson;1
+Movie;Leopoldo Aguilar;1
+Movie;Ben Shelton;1
+Movie;Lesli Linka Glatter;1
+Movie;Ben Ryder;1
+Movie;Ben Younger;1
+Movie;Lawrence Kasdan;1
+Movie;Lawrence Cheng;1
+Movie;Lasja Fauzia Susatyo;1
+Movie;Ladislaus Kiraly;1
+Movie;Lana Wilson;1
+Movie;Benjamin Ross;1
+Movie;Lance Daly;1
+Movie;Lance Hool;1
+Movie;Lance Young;1
+Movie;Lara Saba;1
+Movie;Larry Elikann;1
+Movie;Benjamin Ree;1
+Movie;Lars Büchel;1
+Movie;Lars Klevberg;1
+Movie;Benjamin Dickinson;1
+Movie;Benjamin Cohen;1
+Movie;Law Wing-cheong;1
+Movie;Benjamin Arfmann;1
+Movie;Laura Alvea;1
+Movie;Benedict Andrews;1
+Movie;Laura Fairrie;1
+Movie;Laura Mañá;1
+Movie;Laura Mulleavy;1
+Movie;Laura Terruso;1
+Movie;Laura VanZee Taylor;1
+Movie;Lauren Hoekstra;1
+Movie;Lauren MacMullan;1
+Movie;Lauren Miller Rogen;1
+Movie;Laurent Cantet;1
+Movie;Leslie Knott;1
+Movie;Ben Pluimer;1
+Movie;Leslye Davis;1
+Movie;Lorena Munoz;1
+Movie;Liu Jiang;1
+Movie;Liu Jie;1
+Movie;Liu Kuang-hui;1
+Movie;Liv Ullmann;1
+Movie;Ben Falcone;1
+Movie;Liz Plonka;1
+Movie;Llewellyn M. Smith;1
+Movie;Lluís Quílez;1
+Movie;Logan Kibens;1
+Movie;Lone Scherfig;1
+Movie;Lonny Price;1
+Movie;Lonzo Nzekwe;1
+Movie;Lorene Machado;1
+Movie;Lisa Arnold;1
+Movie;Lorene Scafaria;1
+Movie;Lori Kaye;1
+Movie;Lotje Sodderland;1
+Movie;Louie Gibson;1
+Movie;Louie Psihoyos;1
+Movie;Louie Schwartzberg;1
+Movie;Ben C. Lucas;1
+Movie;Louis J. Horvitz;1
+Movie;Louis Leterrier;1
+Movie;Louis Pepe;1
+Movie;Louise Alston;1
+Movie;Louise Wardle;1
+Movie;Lisa Cortés;1
+Movie;Lionel C. Martin;1
+Movie;Leslye Headland;1
+Movie;Ben Palmer;1
+Movie;Lester Hsi;1
+Movie;Leticia Jorge Romero;1
+Movie;Letizia Lamartire;1
+Movie;Leung Lok Man;1
+Movie;Lev L. Spiro;1
+Movie;Levan Gabriadze;1
+Movie;Levan Tsikurishvili;1
+Movie;Ben Patterson;1
+Movie;Leïla Sy;1
+Movie;Li Jun;1
+Movie;Li Pei-Chuan;1
+Movie;Li Weiran;1
+Movie;Ben Nicholas;1
+Movie;Lindsey Cordero;1
+Movie;Liao Shih-han;1
+Movie;Lijo Jose Pellissery;1
+Movie;Lilibet Foster;1
+Movie;Ben Kasulke;1
+Movie;Limbert Fabian;1
+Movie;Lin Oeding;1
+Movie;Lina Al Abed;1
+Movie;Linas Phillips;1
+Movie;Linda Korsten;1
+Movie;Ben Foster;1
+Movie;Linda Otto;1
+Movie;Linda Saffire;1
+Movie;LP;1
+Movie;Benjamin Weill;1
+Movie;Jay Baruchel;1
+Movie;Kyzza Terrazas;1
+Movie;Kevin Reynolds;1
+Movie;Bharat Jain;1
+Movie;Kevin Wotton;1
+Movie;Bhagyaraj;1
+Movie;A. Raajdheep;1
+Movie;Khaled Youssef;1
+Movie;Khalid Kashogi;1
+Movie;Khalid Mohamed;1
+Movie;Khalid Rahman;1
+Movie;Kheiron;1
+Movie;Beyoncé Knowles-Carter;1
+Movie;Kieran Darcy-Smith;1
+Movie;Kike Maíllo;1
+Movie;Kiki Goshay;1
+Movie;Kiko Mistrorigo;1
+Movie;Betty Thomas;1
+Movie;Kim Dong-kyu;1
+Movie;Kim Jee-woon;1
+Movie;Bette Gordon;1
+Movie;Beth Sleven;1
+Movie;Kim Seong-hun;1
+Movie;Kim Sung-hoon;1
+Movie;Kim Tae-hyung;1
+Movie;Kimmy Gatewood;1
+Movie;Kimo Stamboel;1
+Movie;Kinka Usher;1
+Movie;Kiran Narayanan;1
+Movie;Kevin R. Adams;1
+Movie;Kevin Pollak;1
+Movie;Kevin Phillips;1
+Movie;Kevin Donovan;1
+Movie;Kenzo Maihara;1
+Movie;Bilal Lashari;1
+Movie;Kepa Sojo;1
+Movie;Kery James;1
+Movie;Bigflo & Oli;1
+Movie;Ketche;1
+Movie;Kevan Peterson;1
+Movie;Kevin Booth;1
+Movie;Kevin Bray;1
+Movie;Kevin Costner;1
+Movie;Kevin Derek;1
+Movie;Kevin Deters;1
+Movie;Kevin Ford;1
+Movie;Kevin Peeples;1
+Movie;Kevin Hooks;1
+Movie;Kevin Johnson;1
+Movie;Kevin Ko;1
+Movie;Kevin Kolsch;1
+Movie;Bhushan Patel;1
+Movie;Kevin Lima;1
+Movie;Bhavin Wadia;1
+Movie;Kevin Macdonald;1
+Movie;Kevin McManus;1
+Movie;Bharat Nalluri;1
+Movie;Kevin Pang;1
+Movie;Kevin Peaty;1
+Movie;Kiran Rao;1
+Movie;Kirati Nakintanon;1
+Movie;Kirby Dick;1
+Movie;Kurt Voelker;1
+Movie;Kristine Stolakis;1
+Movie;Krysia Plonka;1
+Movie;Krzysztof Zanussi;1
+Movie;Benson Lee;1
+Movie;Kubhaer T. Jethwani;1
+Movie;Kubilay Sarikaya;1
+Movie;Kumaran;1
+Movie;Kunal Deshmukh;1
+Movie;Benoît Philippon;1
+Movie;Benoît Jacquot;1
+Movie;Benny Fredman;1
+Movie;Kuntz Agus;1
+Movie;Kurt Wimmer;1
+Movie;Kristina Goolsby;1
+Movie;Kushal Srivastava;1
+Movie;Kwabena Gyansah;1
+Movie;Kyle Balda;1
+Movie;Benny Fine;1
+Movie;Kyle Newman;1
+Movie;Kyle Patrick Alvarez;1
+Movie;Kyle Rankin;1
+Movie;Kyle Rideout;1
+Movie;Kyohei Ishiguro;1
+Movie;Kyoko Miyake;1
+Movie;Kyran Kelly;1
+Movie;Kyung Ho Lee;1
+Movie;Kristine Samuelson;1
+Movie;Kristin Hanggi;1
+Movie;Kireet Khurana;1
+Movie;Koji Morimoto;1
+Movie;Kirk De Micco;1
+Movie;Kirk DeMicco;1
+Movie;Kirk Wise;1
+Movie;Kirk Wolfinger;1
+Movie;Kirsten Johnson;1
+Movie;Kitaro Kosaka;1
+Movie;Kittiphak Thonguam;1
+Movie;Kitty Green;1
+Movie;Klaus Erik Okstad;1
+Movie;Bernardo Arellano;1
+Movie;Koichi Mashimo;1
+Movie;Koichi Sakamoto;1
+Movie;Koji Sawai;1
+Movie;Bent-Jorgen Perlmutt;1
+Movie;Kookie V. Gulati;1
+Movie;Kornél Mundruczó;1
+Movie;Kranthi Madhav;1
+Movie;Kranti Kanade;1
+Movie;Kranti Redkar;1
+Movie;Bernard Rose;1
+Movie;Krish;1
+Movie;Krishna Agazzi;1
+Movie;Krishna D.K.;1
+Movie;Krishna Vamshi;1
+Movie;Krishnendu Chattopadhyay;1
+Movie;Kristian Levring;1
+Movie;Lu Yang;1
+Movie;Luc Dardenne;1
+Movie;Ben Brewer;1
+Movie;Luca Vullo;1
+Movie;Mario Cambi;1
+Movie;Mario Mattei;1
+Movie;Mario Miscione;1
+Movie;Mario Rouleau;1
+Movie;Mario Van Peebles;1
+Movie;Maris Curran;1
+Movie;Marita Grabiak;1
+Movie;Marius Arnesen;1
+Movie;Marja Lewis Ryan;1
+Movie;B. T Thomas;1
+Movie;Mark Columbus;1
+Movie;Mark Craig;1
+Movie;Mark Dennis;1
+Movie;Mark Dindal;1
+Movie;Mark Franchetti;1
+Movie;Mark Harris;1
+Movie;Mark Helenowski;1
+Movie;Mark Helfrich;1
+Movie;Mark Henn;1
+Movie;Mark Herman;1
+Movie;Mark Landre Gould;1
+Movie;Mark Lo;1
+Movie;Mark McQueen;1
+Movie;Mark Murphy;1
+Movie;Mark Neveldine;1
+Movie;Mark O'Connor;1
+Movie;B. Subhash;1
+Movie;Mario Briongos;1
+Movie;Marina Zenovich;1
+Movie;Marina Willer;1
+Movie;Marek Piwowski;1
+Movie;Marco Deufemia;1
+Movie;Marco Dutra;1
+Movie;Marco Petry;1
+Movie;Marco Pontecorvo;1
+Movie;Marco Risi;1
+Movie;Marco Schnabel;1
+Movie;Babak Anvari;1
+Movie;Marcos Carnevale;1
+Movie;Marcus Clarke;1
+Movie;Marcus Nispel;1
+Movie;Marek Kanievska;1
+Movie;Marek Losey;1
+Movie;Maria Burton;1
+Movie;Marina Seresesky;1
+Movie;Maria Demeshkina Peek;1
+Movie;Maria Pulera;1
+Movie;B.N. Shajeer Sha;1
+Movie;Maria Sadowska;1
+Movie;Mariah Moore;1
+Movie;Mariana Tschudi;1
+Movie;Marianna Palka;1
+Movie;Mariano Baez;1
+Movie;B. Unnikrishnan;1
+Movie;Mariano Mucci;1
+Movie;Marie Clements;1
+Movie;Marie Madinier;1
+Movie;Aziz Ansari;1
+Movie;Mark Radice;1
+Movie;Azfar Jafri;1
+Movie;Avi Federgreen;1
+Movie;Marwan Hamed;1
+Movie;Marwan Nabil;1
+Movie;Awi Suryadi;1
+Movie;Clay Kaytis;1
+Movie;Mary Mazzio;1
+Movie;Avinash Walzade;1
+Movie;María Jose Cuevas;1
+Movie;Masaaki Yuasa;1
+Movie;Avinash Das;1
+Movie;Avinash Arun;1
+Movie;Massimiliano Camaiti;1
+Movie;Massy Tadjedin;1
+Movie;Mat Whitecross;1
+Movie;Marty Stalker;1
+Movie;Matei Dima;1
+Movie;Mateo Gil;1
+Movie;Matheus Souza;1
+Movie;Mathew Orzel;1
+Movie;Mathias Malzieu;1
+Movie;Mathieu Auvray;1
+Movie;Mathieu Kassovitz;1
+Movie;Mati Diop;1
+Movie;Matias Mariani;1
+Movie;Matt Angel;1
+Movie;Matt Aselton;1
+Movie;Avgousta Zourelidi;1
+Movie;Martín Sastre;1
+Movie;Marty Callner;1
+Movie;Mark Risley;1
+Movie;Marston Sawyers;1
+Movie;Mark Ritchie;1
+Movie;Mark Rosman;1
+Movie;Mark Sloper;1
+Movie;Azazel Jacobs;1
+Movie;Ayush Raina;1
+Movie;Mark Tonderai;1
+Movie;Ayumu Watanabe;1
+Movie;Mark Williams;1
+Movie;Mark Zwonitzer;1
+Movie;Marla M. Ancheta;1
+Movie;Marlene Melchior;1
+Movie;Aytaç Ağırlar;1
+Movie;Marta Jaenes;1
+Movie;Martin Zandvliet;1
+Movie;Martha Coolidge;1
+Movie;Marti Noxon;1
+Movie;Martin Brest;1
+Movie;Ayman Makram;1
+Movie;Martin Desmond Roe;1
+Movie;Ayaan Mukherji;1
+Movie;Martin Hodara;1
+Movie;Martin Lawrence;1
+Movie;Martin Prakkat;1
+Movie;Martin Rosete;1
+Movie;Axelle Laffont;1
+Movie;Martin Wood;1
+Movie;Marco Bonfanti;1
+Movie;Marcelo Piñeyro;1
+Movie;Marcelo González;1
+Movie;Bassam Kurdali;1
+Movie;Bauddhayan Mukherji;1
+Movie;Lydia Dean Pilcher;1
+Movie;Lydia Tenaglia;1
+Movie;Lygia Barbosa da Silva;1
+Movie;Lyric R. Cabral;1
+Movie;Lô Politi;1
+Movie;Bassam Tariq;1
+Movie;M.J. Bassett;1
+Movie;M.J. Isakson;1
+Movie;M.S. Prem Nath;1
+Movie;MIKIKO;1
+Movie;Maciej Dejczer;1
+Movie;Macon Blair;1
+Movie;Luke Snellin;1
+Movie;Madeleine Gavin;1
+Movie;Bashir El Deek;1
+Movie;Madeleine Sami;1
+Movie;Madhumita;1
+Movie;Basava Shankar Eeday;1
+Movie;Madonna;1
+Movie;Madonne Ashwin;1
+Movie;Mads Matthiesen;1
+Movie;Bas van Teylingen;1
+Movie;Bartosz M. Kowalski;1
+Movie;Magdy Al-Hawwary;1
+Movie;Magnus Martens;1
+Movie;Luke Sparke;1
+Movie;Luke Radford;1
+Movie;Bart Freundlich;1
+Movie;Luis Alejandro Pérez;1
+Movie;Lucas Figueroa;1
+Movie;Ben Bowie;1
+Movie;Lucas Santa Ana;1
+Movie;Luciano Vidigal;1
+Movie;Lucien Bourjeily;1
+Movie;Lucien Jean-Baptiste;1
+Movie;Ben A. Williams;1
+Movie;Lucy Cohen;1
+Movie;Lucy van Beek;1
+Movie;Ludovic Bernard;1
+Movie;Ludovico Di Martino;1
+Movie;Luis A. Scalella;1
+Movie;Luis Alfaro;1
+Movie;Luke Kenny;1
+Movie;Beeban Kidron;1
+Movie;Luis Javier Henaine;1
+Movie;Luis Javier M. Henaine;1
+Movie;Bedabrata Pain;1
+Movie;Luis Mandoki;1
+Movie;Luis Prieto;1
+Movie;Baz Luhrmann;1
+Movie;Luk Kim-ching;1
+Movie;Lukas Dhont;1
+Movie;Lukasz Kosmicki;1
+Movie;Luke Holland;1
+Movie;Luke Jurevicius;1
+Movie;Maha Venkatesh;1
+Movie;Barry Jenkins;1
+Movie;Bagus Bramanti;1
+Movie;Manuel Alcalá;1
+Movie;Manish Saini;1
+Movie;Manish Tiwary;1
+Movie;Manjari Makijany;1
+Movie;Manjeet Maan;1
+Movie;Manjeet Singh;1
+Movie;Manmohan Desai;1
+Movie;Balu Mahendra;1
+Movie;Manoj Beedha;1
+Movie;Baltasar Kormákur;1
+Movie;Manop Janjarasskul;1
+Movie;Mansore;1
+Movie;Manu Ashokan;1
+Movie;Manuel Martín Cuenca;1
+Movie;Manish Gupta;1
+Movie;Manussa Vorasingha;1
+Movie;Maradona Dias Dos Santos;1
+Movie;Marc Abraham;1
+Movie;Bahij Hojeij;1
+Movie;Marc Fouchard;1
+Movie;Marc Francis;1
+Movie;Marc Levin;1
+Movie;Marc Meyers;1
+Movie;Marc Vigil;1
+Movie;Marc-Antoine Hélard;1
+Movie;Marcel Barrena;1
+Movie;Marcelo Altmark;1
+Movie;Bao Nhan;1
+Movie;Manika Sharma;1
+Movie;Mahin Ibrahim;1
+Movie;Malik Bendjelloul;1
+Movie;Mahmood Ali-Balogun;1
+Movie;Mahmood Farooqui;1
+Movie;Barry Gonzalez;1
+Movie;Mahmoud Sabbagh;1
+Movie;Mahmoud al Massad;1
+Movie;Mahmudul Islam;1
+Movie;Barney Clay;1
+Movie;Majid Al Ansari;1
+Movie;Majid Majidi;1
+Movie;Makoto Hanafusa;1
+Movie;Makoto Shinkai;1
+Movie;Barbara Kopple;1
+Movie;Malik Nejer;1
+Movie;Mangesh Kanthale;1
+Movie;Malik Vitthal;1
+Movie;Mamat Khalid;1
+Movie;Mamoru Hosoda;1
+Movie;Mamoru Oshii;1
+Movie;Barbara Białowąs;1
+Movie;Manatsanun Phanlerdwongsakul;1
+Movie;Manav Shah;1
+Movie;Manbhavan Singh;1
+Movie;Mandeep Kumar;1
+Movie;Mandie Fletcher;1
+Movie;Mandla Dube;1
+Movie;Mangesh Hadawale;1
+Movie;Kenny Leon;1
+Movie;Kenneth Müller;1
+Movie;Ken Marino;1
+Movie;Bradley Walsh;1
+Movie;Joe Swanberg;1
+Movie;Joe Wright;1
+Movie;Brett Hedlund;1
+Movie;Joel Crawford;1
+Movie;Joel Gallen;1
+Movie;Joel Hopkins;1
+Movie;Joel Oliansky;1
+Movie;Joel Schumacher;1
+Movie;Joey Curtis;1
+Movie;Joey Kern;1
+Movie;Brett Harvey;1
+Movie;Johan Brisinger;1
+Movie;Johan Vorster;1
+Movie;Johane Matte;1
+Movie;Johanna Demetrakas;1
+Movie;Brett Donowho;1
+Movie;John A. Davis;1
+Movie;Brent Maddock;1
+Movie;John Banas;1
+Movie;John Barnard;1
+Movie;John Bridcut;1
+Movie;John Butler;1
+Movie;John Carchietta;1
+Movie;John Crowley;1
+Movie;John Curran;1
+Movie;Brent Dawes;1
+Movie;John Dower;1
+Movie;Joe Russo;1
+Movie;Joe Robert Cole;1
+Movie;Joe Piscatella;1
+Movie;Brian Andrew Mendoza;1
+Movie;Jo Sung-hee;1
+Movie;Joachim Fest;1
+Movie;Joachim Rønning;1
+Movie;Joan C. Gratz;1
+Movie;Joana Mazzucchelli;1
+Movie;Joann Sfar;1
+Movie;Joanna Lombardi;1
+Movie;Joaquín Mazón;1
+Movie;Jocelyn Moorhouse;1
+Movie;Jody Hill;1
+Movie;Jody Lambert;1
+Movie;Joe Alves;1
+Movie;Joe Boyd;1
+Movie;Joe Penna;1
+Movie;Brian A. Miller;1
+Movie;Brett Whitcomb;1
+Movie;Brett Weiner;1
+Movie;Joe Dietsch;1
+Movie;Joe Johnston;1
+Movie;Joe Ksander;1
+Movie;Joe Lynch;1
+Movie;Joe Mantello;1
+Movie;Joe Menendez;1
+Movie;Joe Miale;1
+Movie;Joe Murray;1
+Movie;Joe Nussbaum;1
+Movie;Brent Bonacorso;1
+Movie;John Edginton;1
+Movie;Brendon Marotta;1
+Movie;John Upchurch;1
+Movie;John Ridley;1
+Movie;John Sanford;1
+Movie;John Scheinfeld;1
+Movie;Brandon Jones;1
+Movie;John Smithson;1
+Movie;John Stephenson;1
+Movie;John Stevenson;1
+Movie;John Stewart Muller;1
+Movie;Brandon Jeffords;1
+Movie;John Sturges;1
+Movie;John Suits;1
+Movie;John Trengove;1
+Movie;John Voorhees;1
+Movie;John R. Leonetti;1
+Movie;Brandon Dickerson;1
+Movie;John Whitesell;1
+Movie;John Woo;1
+Movie;Brandon Camp;1
+Movie;Johnny Breedt;1
+Movie;Johnny Castuciano;1
+Movie;Johnny Kevorkian;1
+Movie;Johnny Martin;1
+Movie;Johnny To;1
+Movie;Johnson Esthappan;1
+Movie;Jon Alpert;1
+Movie;Jon Avnet;1
+Movie;John Rice;1
+Movie;John Putch;1
+Movie;Brendan Toller;1
+Movie;John Lee;1
+Movie;Brendan Malloy;1
+Movie;Brendan Byrne;1
+Movie;John H. Lee;1
+Movie;John Haptas;1
+Movie;John Herzfeld;1
+Movie;Brant Sersen;1
+Movie;John Hoffman;1
+Movie;John Hughes;1
+Movie;Brandon Somerhalder;1
+Movie;John Irvin;1
+Movie;John Kahrs;1
+Movie;John L. Spencer;1
+Movie;Brandon Oldenburg;1
+Movie;Brandon Kimber;1
+Movie;John Luessenhop;1
+Movie;John Lyde;1
+Movie;John Maclean;1
+Movie;John Madden;1
+Movie;John Michael McDonagh;1
+Movie;John Mikulak;1
+Movie;John Milius;1
+Movie;John Mitchell;1
+Movie;John Murlowski;1
+Movie;John Musker;1
+Movie;John Papola;1
+Movie;John Patrick Shanley;1
+Movie;Jitendra Tiwari;1
+Movie;Jitender Pawar;1
+Movie;Jimmy Henderson;1
+Movie;Jeff Rowe;1
+Movie;Jedd Wider;1
+Movie;Jee-woon Kim;1
+Movie;Brian Smith;1
+Movie;Jeeva;1
+Movie;Jeferson De;1
+Movie;Brian Skiba;1
+Movie;Jeff Chan;1
+Movie;Jeff Deverett;1
+Movie;Jeff Garlin;1
+Movie;Jeff Gill;1
+Movie;Jeff Margolis;1
+Movie;Jeff Newitt;1
+Movie;Jeff Stilson;1
+Movie;Jeannie Gaffigan;1
+Movie;Jeff Tomsic;1
+Movie;Brian O'Malley;1
+Movie;Brian Niles;1
+Movie;Jeffrey C. Bell;1
+Movie;Jeffrey Friedman;1
+Movie;Jeffrey G. Hunt;1
+Movie;Jeffrey Nachmanoff;1
+Movie;Jeffrey Schwarz;1
+Movie;Jeffrey W. Byrd;1
+Movie;Brian McGinn;1
+Movie;Brian M. Conley;1
+Movie;Jelle de Jonge;1
+Movie;Jeannot Szwarc;1
+Movie;Jean-Simon Chartier;1
+Movie;Jenna Laurenzo;1
+Movie;Jayaprakash Radhakrishnan;1
+Movie;Jay Bulger;1
+Movie;Jay Chandrasekhar;1
+Movie;Brie Larson;1
+Movie;Jay Chou;1
+Movie;Jay Grace;1
+Movie;Briar Grace-Smith;1
+Movie;Jay Lavender;1
+Movie;Jay Lyons;1
+Movie;Brian Webber;1
+Movie;Jay Russell;1
+Movie;Jay Surridge;1
+Movie;Jayan Vannery;1
+Movie;Jayaraj Rajasekharan Nair;1
+Movie;Jean-Pierre Devillers;1
+Movie;Jayme Monjardim;1
+Movie;Brian Smrz;1
+Movie;Jazz Boon;1
+Movie;Jean-Bernard Marlin;1
+Movie;Jean-Claude Flamand-Barny;1
+Movie;Jean-Claude La Marre;1
+Movie;Jean-François Blais;1
+Movie;Jean-François Richet;1
+Movie;Jean-Loup Felicioli;1
+Movie;Jean-Marc Vallée;1
+Movie;Jean-Patrick Benes;1
+Movie;Jean-Pierre Dardenne;1
+Movie;Jen McGowan;1
+Movie;Jennie Livingston;1
+Movie;Jim Strouse;1
+Movie;Jesús Torres Torres;1
+Movie;Jerry Kolber;1
+Movie;Brian Helgeland;1
+Movie;Jerry Seinfeld;1
+Movie;Jesse Adang;1
+Movie;Jesse Allain-Marcus;1
+Movie;Jesse Gustafson;1
+Movie;Jesse Handsher;1
+Movie;Jesse Johnson;1
+Movie;Jesse Peretz;1
+Movie;Jessica Yu;1
+Movie;Jessie Nelson;1
+Movie;Jesús Magaña Vázquez;1
+Movie;Jetarin Ratanaserikiat;1
+Movie;Brian Henson;1
+Movie;Jevons Au;1
+Movie;Jijo Pancode;1
+Movie;Jill Bauer;1
+Movie;Jill Culton;1
+Movie;Jim Fall;1
+Movie;Jim Field Smith;1
+Movie;Jim Gable;1
+Movie;Brian Baugh;1
+Movie;Jim Hosking;1
+Movie;Jim Mickle;1
+Movie;Jim Monaco;1
+Movie;Jim Stenstrum;1
+Movie;Jerry G. Angelo;1
+Movie;Jericca Cleland;1
+Movie;Jennifer Baichwal;1
+Movie;Jenny Carchman;1
+Movie;Jennifer Beamish;1
+Movie;Jennifer Brea;1
+Movie;Jennifer Kaytin Robinson;1
+Movie;Jennifer Lee;1
+Movie;Jennifer Lynch;1
+Movie;Jennifer M. Kroot;1
+Movie;Jennifer Morrison;1
+Movie;Jennifer Peedom;1
+Movie;Jennifer Phang;1
+Movie;Jennifer Siebel Newsom;1
+Movie;Jennifer Westcott;1
+Movie;Jennifer Yuh Nelson;1
+Movie;Jenny Gage;1
+Movie;Jeremy Seifert;1
+Movie;Jenny Popplewell;1
+Movie;Jenée LaMarque;1
+Movie;Jeo Baby;1
+Movie;Jeremiah Jones;1
+Movie;Jeremiah Zagar;1
+Movie;Jeremy Coon;1
+Movie;Jeremy David White;1
+Movie;Jeremy Grant;1
+Movie;Brian Knappenberger;1
+Movie;Jeremy Kipp Walker;1
+Movie;Jeremy Konner;1
+Movie;Jeremy Rush;1
+Movie;Jon Carey;1
+Movie;Jon Freeman;1
+Movie;Ken Loach;1
+Movie;Jon Greenhalgh;1
+Movie;Jørgen Lerdam;1
+Movie;K. Gopinathan;1
+Movie;K. Rajagopal;1
+Movie;K. Ramanlal;1
+Movie;K. Subhash;1
+Movie;K.C. Bokadia;1
+Movie;K.S. Ravikumar;1
+Movie;KVR Mahendra;1
+Movie;Kaashvie Nair;1
+Movie;Kabir Bhatia;1
+Movie;Kabir Khan;1
+Movie;Kader Aoun;1
+Movie;Biyi Bandele;1
+Movie;Kaila York;1
+Movie;Kaizad Gustad;1
+Movie;Kalvadour Peterson;1
+Movie;Kamal Sahani;1
+Movie;Kang Cheng;1
+Movie;Kanika Batra;1
+Movie;Kanwal Sethi;1
+Movie;Karan Anshuman;1
+Movie;Karan Bali;1
+Movie;Biswajeet Bora;1
+Movie;Karan Lalit Butani;1
+Movie;Karan Malhotra;1
+Movie;Karan Shivajirao Chavan;1
+Movie;Birkan Pusa;1
+Movie;Jérémy Clapin;1
+Movie;Jérémie Levypon;1
+Movie;Jérémie Degruson;1
+Movie;Juraj Šajmovič;1
+Movie;Julius R. Nasso;1
+Movie;Julián Gaviria;1
+Movie;Bob Hercules;1
+Movie;July Hygreck;1
+Movie;Jumpei Mizusaki;1
+Movie;Jun Falkenstein;1
+Movie;Bo Welch;1
+Movie;Jun-seong Kim;1
+Movie;Jung Ji-woo;1
+Movie;Jung-woo Park;1
+Movie;Junichi Sato;1
+Movie;Junior Carelli;1
+Movie;Just Philippot;1
+Movie;Justin Webster;1
+Movie;Justin Baldoni;1
+Movie;Justin Bare;1
+Movie;Blayne Weaver;1
+Movie;Justin Chadwick;1
+Movie;Justin Chon;1
+Movie;Blake Harris;1
+Movie;Blair Hayes;1
+Movie;Justin Krook;1
+Movie;Justin Lee;1
+Movie;Justin McConnell;1
+Movie;Justin P. Lange;1
+Movie;Justin Pemberton;1
+Movie;Biodun Stephen;1
+Movie;Karen Maine;1
+Movie;Karen Moncrieff;1
+Movie;Keith Malloy;1
+Movie;Kazuya Tsurumaki;1
+Movie;Keanu Reeves;1
+Movie;Billy Corben;1
+Movie;Billy Bob Thornton;1
+Movie;Keenen Ivory Wayans;1
+Movie;Keerthi;1
+Movie;Kees Van Oostrum;1
+Movie;Keiichi Hara;1
+Movie;Keiichi Sato;1
+Movie;Keiko Yagi;1
+Movie;Keith Fulton;1
+Movie;Keith L. Smith;1
+Movie;Bille August;1
+Movie;Billy Lyons;1
+Movie;Kelly Duane de la Vega;1
+Movie;Kelly Fremon Craig;1
+Movie;Kelly Noonan;1
+Movie;Kelly Reichardt;1
+Movie;Bill Plympton;1
+Movie;Ken Barbet;1
+Movie;Bill Oliver;1
+Movie;Ken Cunningham;1
+Movie;Bill Guttentag;1
+Movie;Ken Hughes;1
+Movie;Ken Kushner;1
+Movie;Ken Kwapis;1
+Movie;Kazumi Fukushima;1
+Movie;Kazuaki Kiriya;1
+Movie;Karey Kirkpatrick;1
+Movie;Kate Horne;1
+Movie;Karim Amer;1
+Movie;Karim El Shenawy;1
+Movie;Karim El Sobky;1
+Movie;Karl Mueller;1
+Movie;Karsten Kiilerich;1
+Movie;Binu Ulahhannan;1
+Movie;Bin Bunluerit;1
+Movie;Kaspar Astrup Schröder;1
+Movie;Kasper Barfoed;1
+Movie;Kasper Collin;1
+Movie;Kasra Farahani;1
+Movie;Katarina Launing;1
+Movie;Kate Melville;1
+Movie;Kayoze Irani;1
+Movie;Kate Mulleavy;1
+Movie;Katherine Brooks;1
+Movie;Katherine Dieckmann;1
+Movie;Katherine Fairfax Wright;1
+Movie;Kathleen Hepburn;1
+Movie;Kathryn Bigelow;1
+Movie;Kathryn Fasegha;1
+Movie;Katia Lund;1
+Movie;Katleho Ramaphakela;1
+Movie;Katy Chevigny;1
+Movie;Kavi Raz;1
+Movie;Billy Ray;1
+Movie;Julius Onah;1
+Movie;Julius Avery;1
+Movie;Julio Quintana;1
+Movie;Jorge M. Fontana;1
+Movie;Jonathan Teplitzky;1
+Movie;Jonathan van Tulleken;1
+Movie;Jonathon Link;1
+Movie;Jonnie Hughes;1
+Movie;Jonás Trueba;1
+Movie;Jordan Brady;1
+Movie;Jordan Ross;1
+Movie;Jordana Spiro;1
+Movie;Jordi Llompart;1
+Movie;Jorge Blanco;1
+Movie;Jorge Granier;1
+Movie;Jorge Hernandez Aldana;1
+Movie;Jorge Michel Grau;1
+Movie;Jonathan Sobol;1
+Movie;Joris Ivens;1
+Movie;Jos Humphrey;1
+Movie;Jose Gomez;1
+Movie;Jose Javier Reyes;1
+Movie;Bolanle Austen-Peters;1
+Movie;Jose Mari Goenaga;1
+Movie;Joseduardo Giordano;1
+Movie;Josef Fares;1
+Movie;Joseph Chou;1
+Movie;Joseph Cross;1
+Movie;Joseph Hsu;1
+Movie;Joseph Mbah;1
+Movie;Jonathan Taylor;1
+Movie;Jonathan Milott;1
+Movie;Bobby Roth;1
+Movie;Jon Spira;1
+Movie;Jon Gunn;1
+Movie;Jon Hurwitz;1
+Movie;Jon Izen;1
+Movie;Jon J. Whelan;1
+Movie;Braden R. Duemmler;1
+Movie;Brad Silberling;1
+Movie;Jon Manning;1
+Movie;Jon Olb;1
+Movie;Jon Reiner;1
+Movie;Brad Rothschild;1
+Movie;Jon Rudberg;1
+Movie;Jon Schnitzer;1
+Movie;Jon Turteltaub;1
+Movie;Jonathan Lynn;1
+Movie;Jon Watts;1
+Movie;Jon YonKondy;1
+Movie;Jonathan A. Rosenbaum;1
+Movie;Jonathan Augustin;1
+Movie;Jonathan Baker;1
+Movie;Jonathan Clay;1
+Movie;Brad Furman;1
+Movie;Jonathan Glazer;1
+Movie;Jonathan Helpert;1
+Movie;Jonathan Ignatius Green;1
+Movie;Borja Cobeaga;1
+Movie;Jonathan Liebesman;1
+Movie;Joseph Ruben;1
+Movie;Josh Alexander;1
+Movie;Julio Medem;1
+Movie;Julia Reichert;1
+Movie;Juan José Campanella;1
+Movie;Juan Manuel Cotelo;1
+Movie;Juan Pablo Buscarini;1
+Movie;Juan Pablo Rebella;1
+Movie;Juan Stadler;1
+Movie;Juan Zapata;1
+Movie;Juani Libonatti;1
+Movie;Judah Friedlander;1
+Movie;Jude Okwudiafor Johnson;1
+Movie;Jude Weng;1
+Movie;Julia Hart;1
+Movie;Julia Knowles;1
+Movie;Julia von Heinz;1
+Movie;Juan Camilo Pinzon;1
+Movie;Julian Jarrold;1
+Movie;Julian Schnabel;1
+Movie;Julie Dash;1
+Movie;Julie Taymor;1
+Movie;Julien Abraham;1
+Movie;Julien Christian Lutz;1
+Movie;Bob Nelson;1
+Movie;Julien Rambaldi;1
+Movie;Julien Royal;1
+Movie;Julien Seri;1
+Movie;Julien War;1
+Movie;Julio Fernández Talamantes;1
+Movie;Juan Carlos Rulfo;1
+Movie;Juan Antonio de la Riva;1
+Movie;Josh Aronson;1
+Movie;Joshua Marston;1
+Movie;Josh Greenbaum;1
+Movie;Josh Izenberg;1
+Movie;Josh Koury;1
+Movie;Josh Lowell;1
+Movie;Josh Mendoza;1
+Movie;Bob Rose;1
+Movie;Josh Vietze;1
+Movie;Josh Wakely;1
+Movie;Josh Webber;1
+Movie;Josh Z. Weinstein;1
+Movie;Joshua Brown;1
+Movie;Joshua Caldwell;1
+Movie;Joshua Oppenheimer;1
+Movie;Juan Antin;1
+Movie;Joshua Rofé;1
+Movie;Joshua Tickell;1
+Movie;Joshua Z. Weinstein;1
+Movie;Josiah Ng;1
+Movie;José Eduardo Belmonte;1
+Movie;José Luis Gutiérrez;1
+Movie;José Luis Ucha;1
+Movie;José Miguel Contreras;1
+Movie;José Ortuño;1
+Movie;Bob Persichetti;1
+Movie;Jovanka Vuckovic;1
+Movie;Bob Odenkirk;1
+Movie;Mary Lambert;1
+TV Show;N/A;2446
+TV Show;Ken Burns;3
+TV Show;Alastair Fothergill;3
+TV Show;Stan Lathan;2
+TV Show;Joe Berlinger;2
+TV Show;Hsu Fu-chun;2
+TV Show;Gautham Vasudev Menon;2
+TV Show;Iginio Straffi;2
+TV Show;Shin Won-ho;2
+TV Show;Lynn Novick;2
+TV Show;Rob Seidenglanz;2
+TV Show;Jung-ah Im;2
+TV Show;Norm Hiscock;1
+TV Show;Oliver Stone;1
+TV Show;Obi Emelonye;1
+TV Show;Noam Murro;1
+TV Show;Nopparoj Chotmunkongsit;1
+TV Show;Olivier Megaton;1
+TV Show;Nizar Shafi;1
+TV Show;Nicolas Lopez;1
+TV Show;Neslihan Yesilyurt;1
+TV Show;Nag Ashwin;1
+TV Show;Moyoung Jin;1
+TV Show;Olivier Jean-Marie;1
+TV Show;Abhishek Chaubey;1
+TV Show;Onur Ünlü;1
+TV Show;Patricia Font;1
+TV Show;Peter McDonnell;1
+TV Show;Peter Ho;1
+TV Show;Pepe Mora;1
+TV Show;Pedro Waddington;1
+TV Show;Pavel Kostomarov;1
+TV Show;Patrick Graham;1
+TV Show;Pass Patthanakumjon;1
+TV Show;Oriol Paulo;1
+TV Show;Park Joon-hwa;1
+TV Show;Pantham Thongsang;1
+TV Show;Pali Yahya;1
+TV Show;Padraic McKinley;1
+TV Show;Ousmane Ly;1
+TV Show;Mohamed al Salman;1
+TV Show;Oscar Micheaux;1
+TV Show;Mike Flanagan;1
+TV Show;Mike Smith;1
+TV Show;Lin Guan-fu;1
+TV Show;Malik Nejer;1
+TV Show;Maite Ruiz De Austri;1
+TV Show;Luis Alfaro;1
+TV Show;Luis Alberto Restrepo;1
+TV Show;Liu Yi;1
+TV Show;Liu Bang-yao;1
+TV Show;Lee Yoon-jung;1
+TV Show;Marc Pons;1
+TV Show;Lee Toland Krieger;1
+TV Show;Lee Kyoungmi;1
+TV Show;Lee Eung-bok;1
+TV Show;Laïla Marrakchi;1
+TV Show;Laurent Bouzereau;1
+TV Show;Lars Kaalund;1
+TV Show;Manolo Caro;1
+TV Show;Marcus Raboy;1
+TV Show;Philippa Lowthorpe;1
+TV Show;Meshal Aljaser;1
+TV Show;Miguel Conde;1
+TV Show;Mick Grogan;1
+TV Show;Michel Tikhomiroff;1
+TV Show;Michael Simon;1
+TV Show;Michael Samuels;1
+TV Show;Michael Cumming;1
+TV Show;Mauricio Dias;1
+TV Show;Mariano Barroso;1
+TV Show;Mateo Gil;1
+TV Show;Mat King;1
+TV Show;Masaaki Yuasa;1
+TV Show;Mark Tonderai;1
+TV Show;Mark Lewis;1
+TV Show;Maribel Sánchez-Maroto;1
+TV Show;Phil Sgriccia;1
+TV Show;Quek Shio-chuan;1
+TV Show;Picky Talarico;1
+TV Show;Tosin Coker;1
+TV Show;Toby Haynes;1
+TV Show;Tiller Russell;1
+TV Show;Tig Notaro;1
+TV Show;Thomas Astruc;1
+TV Show;Thierry Demaizière;1
+TV Show;Tharun Bhascker Dhaassyam;1
+TV Show;Tensai Okamura;1
+TV Show;Tatiana Villela;1
+TV Show;Takuya Igarashi;1
+TV Show;Taki Oldham;1
+TV Show;Sunny Lau;1
+TV Show;Sudha Kongara;1
+TV Show;Su I-Hsuan;1
+TV Show;Stuart Orme;1
+TV Show;Steven Bognar;1
+TV Show;Tony Collingwood;1
+TV Show;Trey Borzillieri;1
+TV Show;Priyadarshan;1
+TV Show;Tsutomu Mizushima;1
+TV Show;Yim Pilsung;1
+TV Show;Yasuhiro Irie;1
+TV Show;YC Tom Lee;1
+TV Show;Wouter Bouvijn;1
+TV Show;Weica Wang;1
+TV Show;Vikramaditya Motwane;1
+TV Show;Vijay S. Bhanushali;1
+TV Show;Vijay Roche;1
+TV Show;Vignesh Shivan;1
+TV Show;Vetri Maaran;1
+TV Show;Vasanth Sai;1
+TV Show;Vasan Bala;1
+TV Show;Vanessa Roth;1
+TV Show;Uzodinma Okpechi;1
+TV Show;Tyler Measom;1
+TV Show;Steve Greenwood;1
+TV Show;Stephen Murray;1
+TV Show;Stefano Lodovichi;1
+TV Show;Stefan Brogren;1
+TV Show;Royale Watkins;1
+TV Show;Ronna Gradus;1
+TV Show;Robert Kenner;1
+TV Show;Robb Wells;1
+TV Show;Richard Maurice;1
+TV Show;Richard E. Norman;1
+TV Show;Richard Arellano;1
+TV Show;Rich Schlansker;1
+TV Show;Rebecca Chaiklin;1
+TV Show;Rathindran R Prasad;1
+TV Show;Rashida Jones;1
+TV Show;Rachit Kusonkoonsiri;1
+TV Show;Rachel Bell;1
+TV Show;Quentin Tarantino;1
+TV Show;Kyran Kelly;1
+TV Show;Ryan Polito;1
+TV Show;Sakon Tiacharoen;1
+TV Show;Sankalp Reddy;1
+TV Show;Sidharta Tata;1
+TV Show;Srijit Mukherji;1
+TV Show;Spencer Williams;1
+TV Show;Soumendra Padhi;1
+TV Show;Sivaroj Kongsakul;1
+TV Show;Sion Sono;1
+TV Show;Simon Frederick;1
+TV Show;Shen Leping;1
+TV Show;Sarawut Wichiensarn;1
+TV Show;Shen Chi;1
+TV Show;Sharon Grimberg;1
+TV Show;Seung-uk Jo;1
+TV Show;Seren Yüce;1
+TV Show;Serdar Akar;1
+TV Show;Sarjun;1
+TV Show;Lai Chun-yu;1
+TV Show;Kim Seong-hun;1
+TV Show;Kongkiat Komesiri;1
+TV Show;Caroline Sá;1
+TV Show;Dan Forrer;1
+TV Show;Damien Chazelle;1
+TV Show;DJ Chen;1
+TV Show;Cosima Spender;1
+TV Show;Chuang Shiang-an;1
+TV Show;Cho Li;1
+TV Show;Chico Pereira;1
+TV Show;Chiaki Kon;1
+TV Show;Chen Rong-hui;1
+TV Show;Chen Kuan-chung;1
+TV Show;Chen Hung-yi;1
+TV Show;Cheewatan Pusitsuksa;1
+TV Show;Chang-Min Lee;1
+TV Show;Chang Chin-jung;1
+TV Show;Cecilia Peck;1
+TV Show;Dan Lucchesi;1
+TV Show;Daniel Kontur;1
+TV Show;Daniel Minahan;1
+TV Show;Diego Enrique Osorno;1
+TV Show;Eric Abrams;1
+TV Show;Elías León;1
+TV Show;Ellena Wood;1
+TV Show;Eli Roth;1
+TV Show;Elaine McMillion Sheldon;1
+TV Show;Ehtesham Uddin;1
+TV Show;Dian Sastrowardoyo;1
+TV Show;Danny Cannon;1
+TV Show;Dheeraj Berry;1
+TV Show;Deepti Kakkar;1
+TV Show;Dawn Porter;1
+TV Show;David Schalko;1
+TV Show;David Chuang;1
+TV Show;David Ayer;1
+TV Show;Cassia Dian;1
+TV Show;Carlos Sedes;1
+TV Show;Kongkiat Khomsiri;1
+TV Show;Carlos Bolado;1
+TV Show;Andrew Tan;1
+TV Show;Ally Pankiw;1
+TV Show;Ali Kalthami;1
+TV Show;Alexx Media;1
+TV Show;Alex Gibney;1
+TV Show;Alessandro Angulo;1
+TV Show;Alejandro Lozano;1
+TV Show;Alejandro Hartmann;1
+TV Show;Alban Teurlai;1
+TV Show;Alan Poul;1
+TV Show;Alain Brunard;1
+TV Show;Ahmet Katıksız;1
+TV Show;Ah Loong;1
+TV Show;Adrián García Bogliano;1
+TV Show;Adrien Lagier;1
+TV Show;Andrucha Waddington;1
+TV Show;Andrés Beltrán;1
+TV Show;Andy Devonshire;1
+TV Show;Billy Corben;1
+TV Show;Carla Barros;1
+TV Show;Cai Cong;1
+TV Show;Bunmi Ajakaiye;1
+TV Show;Bumpy;1
+TV Show;Bruce Sinofsky;1
+TV Show;Brad Anderson;1
+TV Show;Bhavik Thakore;1
+TV Show;Ange Basterga;1
+TV Show;Bejoy Nambiar;1
+TV Show;Barbara Schroeder;1
+TV Show;BB Sasore;1
+TV Show;B. V. Nandini Reddy;1
+TV Show;Arvind Swamy;1
+TV Show;Anurag Kashyap;1
+TV Show;Eric Goode;1
+TV Show;Estela Renner;1
+TV Show;Everardo Gout;1
+TV Show;Fahad Mustafa;1
+TV Show;John Paul Tremblay;1
+TV Show;John Dower;1
+TV Show;Joel Gallen;1
+TV Show;Jill Bauer;1
+TV Show;Jesse Warn;1
+TV Show;Jesse Vile;1
+TV Show;Jesse Moss;1
+TV Show;Jerry Seinfeld;1
+TV Show;Jeon Go-woon;1
+TV Show;Jenner Furst;1
+TV Show;Jay Oliva;1
+TV Show;Jay Chandrasekhar;1
+TV Show;Javier Gómez Santander;1
+TV Show;Jason Iskandar;1
+TV Show;Jason Hehir;1
+TV Show;Joshua Zeman;1
+TV Show;José Larraza;1
+TV Show;Juan Carlos Medina;1
+TV Show;Kazuya Murata;1
+TV Show;Kobun Shizuno;1
+TV Show;Aco Tenriyagelli;1
+TV Show;Kim Jong-kwan;1
+TV Show;Kiko Cruz Claverol;1
+TV Show;Kenny Ortega;1
+TV Show;Kemi Adetiba;1
+TV Show;Karthik Subbaraj;1
+TV Show;Julia Reichert;1
+TV Show;Karthik Narain;1
+TV Show;Justin Webster;1
+TV Show;Juliet May;1
+TV Show;Julien Leclercq;1
+TV Show;Juliana Vicente;1
+TV Show;Julia Willoughby Nason;1
+TV Show;Jared Hess;1
+TV Show;Jani Lachauer;1
+TV Show;Jan Holoubek;1
+TV Show;Gerhard Mostert;1
+TV Show;Guy Vasilovich;1
+TV Show;Greg Tiernan;1
+TV Show;Gordon Anderson;1
+TV Show;Go Koga;1
+TV Show;Glenn Weiss;1
+TV Show;Glen Winter;1
+TV Show;Gary Sing;1
+TV Show;Hayato Date;1
+TV Show;Gary Howsam;1
+TV Show;Garrett Bradley;1
+TV Show;Fernando Moro;1
+TV Show;Felipe Cano;1
+TV Show;Faris Godus;1
+TV Show;Faisal al Amer;1
+TV Show;Han Qing;1
+TV Show;He Xiaofeng;1
+TV Show;James Lee;1
+TV Show;Ivan Andrew Payawal;1
+TV Show;James Hawes;1
+TV Show;James Bamford;1
+TV Show;Jalil Lespert;1
+TV Show;Jakob Verbruggen;1
+TV Show;Jakob Schuh;1
+TV Show;Jaime Rayo;1
+TV Show;Inma Torrente;1
+TV Show;Hernán Guerschuny;1
+TV Show;Ifa Isfansyah;1
+TV Show;Ian Barber;1
+TV Show;Houda Benyamina;1
+TV Show;Hong Won-ki;1
+TV Show;Hiroyuki Seshita;1
+TV Show;Hikaru Toda;1
+TV Show;Ziad Doueiri;1
